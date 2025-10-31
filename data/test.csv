@@ -1,0 +1,2001 @@
+ID,Tahun,Nama_Negara,Wilayah,Jenis_Tanaman,Total_Curah_Hujan_mm,Emisi_CO2_JT_Ton,Hasil_Panen_Ton_per_HA,Kejadian_Cuaca_Ekstrim,Akses_Irigasi,Penggunaan_Pestisida_KG_per_HA,Penggunaan_Pupuk_KG_per_HA,Indeks_Kesehatan_Tanah,Strategi_Adaptasi
+8000,2022,Russia,Central,Fruits,1173.04,10.29,2.44,3,59.17,29.17,80.06,74.93,Tanpa Adaptasi
+8001,1993,Brazil,South,Rice,310.08,13.9,3.276,2,60.59,4.76,70.63,97.59,Tanpa Adaptasi
+8002,1998,India,Maharashtra,Soybeans,1348.17,12.9,2.62,3,90.93,5.95,63.87,74.81,Tanaman Tahan Kekeringan
+8003,2010,Russia,Volga,Soybeans,1732.43,23.82,3.717,4,35.11,7.49,81.81,87.01,Rotasi Tanaman
+8004,1998,Canada,'British Columbia',Sugarcane,2242.77,28.92,2.034,6,68.75,43.35,48.14,64.22,Manajemen Air
+8005,2018,USA,Midwest,Soybeans,2248.57,9.1,2.7,2,59.08,48.82,68.7,91.48,Tanpa Adaptasi
+8006,2009,France,'Provence-Alpes-Cote d’Azur',Rice,2397.64,21.03,3.204,7,43.11,43.86,12.6,99.25,Tanaman Tahan Kekeringan
+8007,2012,Nigeria,'North West',Barley,755.18,29.69,0.909,7,42.4,6.89,33.29,86.72,Manajemen Air
+8008,1999,France,'Grand Est',Soybeans,1020.45,0.82,0.91,5,10.52,10.94,37.84,55.22,Tanpa Adaptasi
+8009,2002,Canada,Prairies,Cotton,1932.64,7.08,1.51,1,11.76,47.2,24.65,59.43,Tanpa Adaptasi
+8010,1993,USA,West,Coffee,1451.19,4.26,2.26,7,27.97,17.81,68.99,36.04,Rotasi Tanaman
+8011,1996,Canada,Quebec,Barley,1076.95,4.03,1.88,0,40.89,7.97,15.59,60.35,Rotasi Tanaman
+8012,1998,Australia,Victoria,Fruits,1460.98,24.52,2.151,3,89.11,44.99,80.77,62.04,Rotasi Tanaman
+8013,2011,France,Nouvelle-Aquitaine,Corn,2459.85,18.39,2.259,0,51.26,32.87,31.21,52.17,Tanaman Tahan Kekeringan
+8014,2003,Argentina,Northwest,Cotton,2528.24,12.9,0.93,6,41.62,8.07,81.6,89.05,Manajemen Air
+8015,2001,Brazil,Northeast,Coffee,1290.32,24.11,1.755,0,54.14,17.7,44.88,82.97,Tanaman Tahan Kekeringan
+8016,2012,France,Nouvelle-Aquitaine,Rice,1785.97,12.82,2.36,0,90.46,16.64,8.85,73.19,Tanaman Tahan Kekeringan
+8017,2003,Argentina,Northeast,Wheat,2514.16,24.81,1.701,1,36.68,32.63,46.35,37.96,Manajemen Air
+8018,1999,India,'West Bengal',Sugarcane,2443.86,21.82,1.746,10,40.14,0.63,24.06,33.59,Pertanian Organik
+8019,2017,India,'West Bengal',Vegetables,2151.57,5.65,0.92,9,21.71,33.1,95.98,40.4,Pertanian Organik
+8020,2000,Canada,Ontario,Cotton,1647.23,29.45,1.845,2,81.18,29.57,44.22,51.72,Pertanian Organik
+8021,2011,Australia,'Western Australia',Sugarcane,922.4,11.58,1.53,5,49.1,9,85.56,90.8,Tanaman Tahan Kekeringan
+8022,2007,Brazil,North,Fruits,2604.06,3.45,1.25,5,56.47,9.5,61.42,37.97,Tanaman Tahan Kekeringan
+8023,2013,India,Punjab,Cotton,2352.28,9.78,1.65,7,65.78,21.8,69.6,78.62,Tanaman Tahan Kekeringan
+8024,2009,Australia,Victoria,Soybeans,2141.43,13.83,1.07,1,80.45,17.66,48.47,73.77,Tanpa Adaptasi
+8025,2001,Canada,Quebec,Vegetables,505.43,4.23,1.77,10,85.94,23.33,74.23,87.33,Pertanian Organik
+8026,2000,India,'West Bengal',Cotton,798.78,6.6,1.48,2,61.09,42.38,50.64,84.11,Tanpa Adaptasi
+8027,1991,China,North,Rice,1474.39,27.2,3.33,3,41.71,26.64,22.22,33.03,Manajemen Air
+8028,2004,Nigeria,'South East',Corn,2211.64,12.65,2.38,4,17.82,31.9,92.34,59.13,Pertanian Organik
+8029,2006,India,Punjab,Fruits,605.97,27.94,4.401,8,92.18,6.59,17,89.03,Rotasi Tanaman
+8030,2023,China,East,Vegetables,664.74,18.16,2.457,1,77.41,32.6,96.3,75.42,Tanaman Tahan Kekeringan
+8031,2023,Brazil,South,Wheat,1966.05,1.55,1.93,3,25.06,1.3,47.67,70.33,Tanpa Adaptasi
+8032,2006,USA,South,Sugarcane,1283.43,29.91,2.295,9,75.4,39.63,62.34,40.96,Tanpa Adaptasi
+8033,2006,India,'West Bengal',Vegetables,2968.53,15.45,3.132,2,98.52,10.85,52.45,74.97,Pertanian Organik
+8034,2022,Nigeria,'North West',Sugarcane,1915.16,24.13,3.087,3,70.99,24.4,93.14,50.15,Pertanian Organik
+8035,2008,Russia,Volga,Sugarcane,2245.28,5.97,0.61,10,83.08,16.73,66.54,73.34,Manajemen Air
+8036,2013,China,North,Rice,2516.65,25.17,1.017,0,92.05,23.75,82.8,77.09,Tanaman Tahan Kekeringan
+8037,2021,India,'West Bengal',Coffee,609.54,7.77,2.42,2,98.6,19.57,58.88,30.88,Tanpa Adaptasi
+8038,1992,Argentina,Northwest,Corn,2618.24,0.53,0.77,10,82.65,49.38,13.35,68.82,Tanpa Adaptasi
+8039,2023,Brazil,North,Barley,2166.91,2.78,1.48,10,91.9,1.4,5.25,30.08,Tanaman Tahan Kekeringan
+8040,2012,USA,Northeast,Coffee,208.24,18.45,4.293,0,89.57,40.83,18.67,84.9,Rotasi Tanaman
+8041,2005,Australia,'New South Wales',Coffee,1211.31,3.9,1.09,9,40.16,27.79,93.08,97.95,Tanpa Adaptasi
+8042,2007,France,'Grand Est',Fruits,2717.45,27.62,2.196,4,92.3,46.92,84.71,85.57,Manajemen Air
+8043,2017,Russia,Central,Corn,861.81,9.17,1.11,9,33.42,44.91,59.91,86.08,Tanaman Tahan Kekeringan
+8044,2009,Russia,Northwestern,Cotton,313.23,11.19,1.755,5,92.23,34.14,11.29,83.9,Manajemen Air
+8045,2019,Nigeria,'North West',Vegetables,1105.01,17.74,1.917,2,99.07,14.79,48.52,49.41,Tanaman Tahan Kekeringan
+8046,2013,Canada,Prairies,Barley,556.75,3.4,4.06,7,25.5,25.62,65.91,40.59,Pertanian Organik
+8047,2009,Russia,Northwestern,Sugarcane,2817.29,1.2,2.45,8,31.93,23.41,77.07,56.14,Manajemen Air
+8048,2009,Russia,Northwestern,Wheat,2280.09,12.7,1.81,8,93.41,8.64,85.61,48.73,Pertanian Organik
+8049,2007,Australia,'Western Australia',Soybeans,2100.61,28.62,2.601,5,15.48,13.77,88.24,92.98,Tanaman Tahan Kekeringan
+8050,2013,Nigeria,'North Central',Corn,2256.38,14.69,0.96,1,78.9,15.04,36.66,64.11,Tanpa Adaptasi
+8051,2019,India,'Tamil Nadu',Soybeans,2560.13,19.27,2.313,7,66.78,36.01,68.27,38.41,Tanpa Adaptasi
+8052,2012,Canada,Ontario,Corn,733.8,25.19,2.871,6,36.23,5.57,40.95,93.44,Manajemen Air
+8053,2013,USA,West,Cotton,2673.33,6.21,1.93,2,58.2,35.04,36.94,86.77,Manajemen Air
+8054,2008,Nigeria,'South East',Barley,1173.4,3.38,1.05,3,94.93,28.37,62.53,92.74,Tanpa Adaptasi
+8055,1999,USA,South,Corn,2313.62,25.17,0.522,4,24.19,34.01,98.44,97.72,Pertanian Organik
+8056,2022,France,Ile-de-France,Fruits,2528.85,4.63,1.52,7,11.65,36.12,43.96,48.93,Pertanian Organik
+8057,1998,France,Nouvelle-Aquitaine,Soybeans,1819.96,7.32,3.77,6,95.83,6.66,16.6,65.64,Rotasi Tanaman
+8058,1995,Brazil,Northeast,Coffee,1613.25,22.96,2.277,0,72.16,21.81,60.73,96.39,Rotasi Tanaman
+8059,2007,India,Punjab,Vegetables,2846.98,25.78,2.106,2,74.9,10.83,52.47,87.35,Tanpa Adaptasi
+8060,1995,France,Ile-de-France,Corn,1128.1,16.1,1.746,6,62.59,22.29,98.86,96.92,Rotasi Tanaman
+8061,2021,Australia,Queensland,Barley,2256.42,8.87,1.76,6,10.86,3.85,22.65,87.98,Pertanian Organik
+8062,2003,USA,Midwest,Sugarcane,2226.51,20.46,1.395,1,35.01,28.99,33.1,56.34,Tanpa Adaptasi
+8063,2005,China,East,Corn,2775.88,12.11,2.57,6,32.58,5.93,55.4,91.95,Pertanian Organik
+8064,2003,Russia,Siberian,Vegetables,2895.23,16.91,1.125,8,99.7,3.77,93.3,70.8,Rotasi Tanaman
+8065,2000,Canada,Prairies,Vegetables,791.98,11.35,2.98,9,98.25,30.92,41.27,55.15,Tanpa Adaptasi
+8066,2012,India,'Tamil Nadu',Soybeans,1909.15,24.89,1.161,10,82.92,49.61,44.78,95.44,Tanpa Adaptasi
+8067,1992,France,Ile-de-France,Vegetables,1940.41,16.5,4.428,5,42.69,25.19,46.22,99.15,Manajemen Air
+8068,2018,China,North,Barley,1442.84,23.27,2.178,5,88.35,21.14,74.78,56.88,Tanpa Adaptasi
+8069,2011,Canada,Quebec,Vegetables,368.16,2.77,2.979,8,34.44,4.95,93.31,32.36,Manajemen Air
+8070,2020,France,'Provence-Alpes-Cote d’Azur',Corn,362.5,2.56,3.231,4,44.05,6.17,29.72,69.43,Tanaman Tahan Kekeringan
+8071,2004,India,'West Bengal',Soybeans,2472.43,27.2,2.025,5,84.3,32.35,75.76,41.55,Pertanian Organik
+8072,2005,Brazil,Southeast,Fruits,2538.19,20.48,1.8,5,74.81,48.38,67.06,78.11,Manajemen Air
+8073,2017,China,East,Rice,2413.61,4.45,1.67,6,44.76,32.05,15.92,92.75,Tanpa Adaptasi
+8074,1993,Argentina,Northwest,Fruits,576.24,9.42,1.33,0,57.14,17.36,67.02,85.74,Manajemen Air
+8075,1992,Canada,Prairies,Fruits,577.51,7.86,2.44,8,11.16,26.73,72.77,36.8,Rotasi Tanaman
+8076,2015,Canada,'British Columbia',Vegetables,1235.25,18.4,3.483,2,41.91,24.01,42.37,30.85,Tanaman Tahan Kekeringan
+8077,1993,France,Ile-de-France,Rice,2146.51,17.87,1.098,0,19.58,48.36,40.68,58.83,Pertanian Organik
+8078,2016,Australia,Victoria,Vegetables,1056.55,25.96,1.683,3,98.08,36.85,40.53,53.9,Manajemen Air
+8079,2021,Australia,Victoria,Wheat,2462.87,16.93,2.106,6,29.23,44.89,75.77,30.99,Tanpa Adaptasi
+8080,1992,Australia,'Western Australia',Vegetables,1964.64,23.34,2.349,3,15.04,28.26,0.01,36.46,Tanaman Tahan Kekeringan
+8081,2008,Russia,Central,Fruits,1962.64,5.3,2.26,8,24.59,14.12,17.67,76.78,Tanaman Tahan Kekeringan
+8082,2004,Nigeria,'North West',Wheat,1162.77,20.07,3.177,6,28.51,31.98,87.45,69.5,Rotasi Tanaman
+8083,1995,Argentina,Northwest,Sugarcane,1143.45,10.03,2.46,8,15.87,37.71,22.62,63.99,Pertanian Organik
+8084,2002,Nigeria,'North West',Barley,1351.66,6.94,3.24,10,46.76,1.37,51.65,86.59,Pertanian Organik
+8085,2005,Canada,'British Columbia',Corn,974.57,13.98,3.2,2,93.39,35.25,54.69,48.87,Pertanian Organik
+8086,1999,Canada,Prairies,Wheat,2560.87,19.71,2.52,0,95.29,33.86,63.96,68.96,Tanpa Adaptasi
+8087,2004,Nigeria,'South West',Cotton,1017.42,22.32,1.611,5,74.09,3.23,19.94,95.12,Rotasi Tanaman
+8088,1994,Argentina,Northeast,Soybeans,850.03,20.21,1.224,1,85.85,29.27,38.22,68.01,Tanpa Adaptasi
+8089,2021,Brazil,North,Vegetables,1169.31,25.07,1.863,5,19.95,21.02,69.28,61.35,Manajemen Air
+8090,2010,France,Ile-de-France,Barley,593.69,19.49,0.549,4,65.4,17.24,30.57,64.1,Pertanian Organik
+8091,2003,Argentina,Northeast,Soybeans,2590.81,23.17,2.547,7,21.5,4.66,45.05,62.3,Rotasi Tanaman
+8092,2000,Argentina,Northwest,Vegetables,1516.81,12.28,2.84,0,73.82,35.79,61.58,48.16,Pertanian Organik
+8093,1991,India,'Tamil Nadu',Fruits,2129.97,13.25,2.73,6,88.36,37.19,36.14,31.83,Tanpa Adaptasi
+8094,2019,Australia,'New South Wales',Vegetables,1244.57,26.17,1.827,0,21.02,40.98,71.84,78.29,Tanaman Tahan Kekeringan
+8095,2006,Argentina,Pampas,Soybeans,1732.11,18.25,2.052,9,73.65,12.74,84.16,74.7,Tanaman Tahan Kekeringan
+8096,2003,Argentina,Northeast,Sugarcane,2652.16,21.3,1.458,9,24.19,35.35,74.47,41.36,Tanaman Tahan Kekeringan
+8097,2012,Nigeria,'North West',Barley,1010.65,21.09,0.9,2,89.13,45.1,50.38,45.96,Pertanian Organik
+8098,2014,Argentina,Northwest,Coffee,2559.51,29.49,3.393,6,54.82,28.67,29.56,86.46,Pertanian Organik
+8099,2003,India,Maharashtra,Sugarcane,2185.4,3.82,2.31,7,73.01,8.76,56.22,32.69,Manajemen Air
+8100,2015,USA,South,Rice,1326.21,28.62,4.032,8,78.21,27.54,74.57,40.51,Manajemen Air
+8101,2010,Russia,Siberian,Coffee,1571.3,24.62,1.908,10,82.38,11.63,50.19,87.59,Tanpa Adaptasi
+8102,2008,Nigeria,'South West',Rice,973.37,4.11,1.97,4,72.92,5.63,39.56,84.25,Tanpa Adaptasi
+8103,2006,USA,West,Coffee,1604.57,1.2,1.84,4,62.45,4.8,74.69,55.3,Tanaman Tahan Kekeringan
+8104,2018,India,Punjab,Wheat,1386.27,15.18,1.71,4,27.88,20.06,80.82,55.83,Tanaman Tahan Kekeringan
+8105,2003,Nigeria,'North West',Soybeans,2510.19,9.74,1.23,6,63.45,2.48,92.73,93.31,Manajemen Air
+8106,2023,Russia,Siberian,Vegetables,1061.11,2.7,3.96,3,97.16,39.9,55.08,51.67,Tanaman Tahan Kekeringan
+8107,1994,Nigeria,'South West',Barley,245.45,26.19,2.889,7,65.31,1.12,10.7,74.88,Tanpa Adaptasi
+8108,1996,Russia,Volga,Corn,1259.3,22.13,1.233,0,46.75,7.24,4.67,49.32,Rotasi Tanaman
+8109,1993,Argentina,Patagonia,Wheat,2409.73,19.04,1.062,9,92.72,47.64,22.5,51.7,Tanpa Adaptasi
+8110,2010,China,South,Coffee,2104.01,6.8,1.11,10,46.56,10.45,75.08,61.88,Manajemen Air
+8111,2002,USA,South,Cotton,452.4,6.98,3.006,8,74.29,38.37,44.91,88.28,Manajemen Air
+8112,2021,Australia,Victoria,Coffee,1856.73,20.58,1.431,6,32.17,13.47,59.99,84.87,Pertanian Organik
+8113,2009,USA,West,Cotton,864.14,16.95,1.647,10,50.79,42.55,54.21,91.93,Tanpa Adaptasi
+8114,2005,France,Nouvelle-Aquitaine,Vegetables,1894.23,14.02,3.3,4,67.66,5.64,96.81,90.45,Tanpa Adaptasi
+8115,2000,Russia,Central,Soybeans,639.98,8.87,1.47,4,11.74,28.84,59.73,75.65,Tanpa Adaptasi
+8116,2018,France,'Grand Est',Coffee,1571.56,11.76,2.99,5,39.31,10.25,30.65,74.43,Pertanian Organik
+8117,2011,Argentina,Northwest,Corn,1026.22,4.4,4.2,5,54.49,0.77,52.35,34.46,Tanpa Adaptasi
+8118,2006,China,South,Cotton,2284.56,0.65,1.67,5,84.02,9.71,47.85,80.76,Pertanian Organik
+8119,2000,Australia,Queensland,Cotton,933.8,27.94,1.62,0,95.75,26.25,77.47,64.24,Tanaman Tahan Kekeringan
+8120,1999,Australia,'Western Australia',Vegetables,2864.65,1.15,2.72,1,73.35,18.85,10.3,50.49,Tanpa Adaptasi
+8121,2009,China,Central,Wheat,973.54,26.28,3.456,1,94.96,27.36,29.43,95.89,Tanpa Adaptasi
+8122,2005,Argentina,Patagonia,Fruits,1159.99,27.81,2.205,6,97.62,23.25,29.51,40.21,Tanaman Tahan Kekeringan
+8123,2009,Russia,Siberian,Vegetables,322.73,24.92,2.088,3,25.65,20.02,25.86,49.69,Pertanian Organik
+8124,2016,China,South,Barley,2355.44,15.83,2.223,5,44.76,13.07,96.34,78.72,Tanpa Adaptasi
+8125,1995,China,North,Soybeans,1322.93,8.16,3.02,5,50.23,13.67,26.98,37.33,Tanpa Adaptasi
+8126,2018,China,Central,Cotton,2023.72,6.92,3.63,7,82.71,37.55,68.62,34.38,Tanaman Tahan Kekeringan
+8127,2013,India,Punjab,Fruits,2427.19,24.1,2.43,7,66.3,25.33,4.36,65.08,Tanaman Tahan Kekeringan
+8128,2006,China,North,Cotton,2622.64,10.43,1.68,10,59.48,48.98,74.46,52.92,Tanaman Tahan Kekeringan
+8129,1999,Brazil,Northeast,Fruits,1094.44,29.2,3.555,9,31.96,32.7,25.89,41.23,Tanpa Adaptasi
+8130,2015,Brazil,Northeast,Sugarcane,2252.9,11.71,1.95,8,40.74,1.28,36.71,39.42,Tanpa Adaptasi
+8131,2006,Brazil,North,Barley,764.83,20.91,3.519,1,10.34,21.6,85.42,83.65,Manajemen Air
+8132,2007,Australia,'New South Wales',Cotton,259.51,28.52,3.906,4,20.14,35.05,98.83,87.97,Tanpa Adaptasi
+8133,2011,Argentina,Patagonia,Soybeans,1254.63,20.46,4.482,6,44.99,1.2,66.75,37.07,Tanpa Adaptasi
+8134,2024,Canada,Quebec,Wheat,2018.19,27.96,0.63,2,96.46,33.27,94.58,42.96,Tanaman Tahan Kekeringan
+8135,2006,China,South,Coffee,2224.89,9.26,2.17,8,76.26,14.51,78.48,69.34,Pertanian Organik
+8136,2001,Nigeria,'North West',Wheat,2697.66,26.74,1.044,9,56.9,21.69,37.05,46.68,Manajemen Air
+8137,1994,USA,South,Coffee,2688.02,0.89,3.88,6,93.04,33.71,53.12,44.16,Manajemen Air
+8138,2022,India,Maharashtra,Rice,1951.52,14.54,2.69,1,41.04,7.21,15.05,61.61,Pertanian Organik
+8139,2012,Australia,'Western Australia',Corn,1135.86,6.74,3.02,2,94.01,11.63,49.63,31.93,Rotasi Tanaman
+8140,1994,Nigeria,'South West',Cotton,1028.22,24.87,1.269,10,22.26,24.83,16.38,92.11,Tanpa Adaptasi
+8141,2016,France,'Grand Est',Coffee,1031.93,23.17,0.72,3,38.31,20.14,74.82,64.94,Manajemen Air
+8142,2015,Russia,Central,Vegetables,1859.88,4.46,2.79,9,15.84,17.16,73.44,30.28,Rotasi Tanaman
+8143,1997,USA,West,Wheat,901.7,24.94,1.665,9,24.73,43.89,61.48,94.45,Tanpa Adaptasi
+8144,2024,India,'West Bengal',Vegetables,1465.54,23.59,2.178,5,66.11,46.54,32.3,85.14,Tanaman Tahan Kekeringan
+8145,2020,USA,Northeast,Wheat,1654.13,16.39,1.098,0,90.47,29.82,76.67,70.68,Rotasi Tanaman
+8146,2018,Argentina,Patagonia,Wheat,1470.35,20.99,1.845,2,33.71,19.98,44.54,48.72,Manajemen Air
+8147,2021,Argentina,Patagonia,Soybeans,1798.3,11.35,1.76,9,74.73,25.96,60.67,41.94,Tanaman Tahan Kekeringan
+8148,2022,Nigeria,'South East',Soybeans,1240.11,13.78,4.32,7,86.69,13.29,93.47,59.28,Rotasi Tanaman
+8149,2022,China,Central,Vegetables,2112.26,16.91,1.899,2,93.16,3.53,30.83,76.17,Manajemen Air
+8150,1991,Russia,Central,Fruits,971.87,20.25,1.476,3,98.92,46.55,34.67,99.54,Tanaman Tahan Kekeringan
+8151,2001,Canada,'British Columbia',Wheat,605.01,19.92,0.639,6,27.94,33.52,92.79,34.74,Tanaman Tahan Kekeringan
+8152,1990,Russia,Central,Vegetables,2374.7,28.96,2.313,6,30.13,32.48,45.76,45.76,Tanaman Tahan Kekeringan
+8153,2003,Russia,Northwestern,Soybeans,564,8.67,3.95,6,73.69,23.67,82.84,83.26,Tanaman Tahan Kekeringan
+8154,1995,Australia,'Western Australia',Wheat,1973.77,23.83,1.638,0,94.47,4.68,93.36,45.59,Rotasi Tanaman
+8155,2020,India,Maharashtra,Corn,2294.61,5.2,3.57,3,43.13,30.8,14.97,58.22,Manajemen Air
+8156,2018,Canada,Ontario,Rice,1301.16,2.35,1.13,4,81.75,2.66,52.43,55.55,Rotasi Tanaman
+8157,2009,France,'Provence-Alpes-Cote d’Azur',Soybeans,1311.1,13.08,1.22,10,30.28,43.95,89.51,94.14,Tanaman Tahan Kekeringan
+8158,1990,India,'Tamil Nadu',Vegetables,1512.68,0.54,1.08,5,66.52,7.81,2.9,53.47,Manajemen Air
+8159,1994,Argentina,Northwest,Fruits,859.85,11.37,2.36,3,41.71,33.44,34.21,91.99,Tanaman Tahan Kekeringan
+8160,2021,Russia,Volga,Vegetables,441.13,1.55,3.537,1,26.86,27.57,96.34,35.99,Pertanian Organik
+8161,2013,Nigeria,'South East',Cotton,713.04,12.79,1.21,7,21.52,11.92,11.91,81.02,Pertanian Organik
+8162,2016,Nigeria,'North West',Vegetables,672.54,26.47,2.781,2,14.17,46.63,19.41,30.06,Tanaman Tahan Kekeringan
+8163,2009,Canada,Ontario,Barley,2314.25,3.37,2.7,9,38.21,7.59,91.88,85.51,Rotasi Tanaman
+8164,1998,France,Nouvelle-Aquitaine,Cotton,2152.33,23.7,1.413,3,20.68,49.21,33.64,59.48,Pertanian Organik
+8165,1991,Australia,Victoria,Vegetables,372.26,10.5,1.8,6,35.32,42.67,21.6,66.24,Manajemen Air
+8166,1996,Canada,Ontario,Vegetables,541.87,23.86,0.774,5,31.63,26.17,64.69,73.52,Pertanian Organik
+8167,2016,USA,Midwest,Rice,2082.6,3.65,3.21,5,60.83,17.1,19.14,49.04,Pertanian Organik
+8168,2015,Brazil,North,Fruits,1413.62,10.12,3.69,3,14.91,30.57,80.31,44.72,Tanpa Adaptasi
+8169,2006,China,East,Corn,2985.4,11.91,2.62,2,23.06,15.82,41.56,63.28,Pertanian Organik
+8170,2009,USA,South,Wheat,795.29,24.96,0.999,7,56.09,40.01,25.24,55.87,Tanaman Tahan Kekeringan
+8171,2012,Russia,Volga,Soybeans,497.92,4.5,0.504,3,28.2,2.1,53.22,75.19,Rotasi Tanaman
+8172,2018,Argentina,Northeast,Barley,1115.41,9.42,2.17,2,90.83,45.52,69.45,62.21,Manajemen Air
+8173,1993,USA,South,Corn,1000.73,23.55,1.422,5,17.21,0.66,18.51,58.73,Pertanian Organik
+8174,2010,Russia,Volga,Wheat,2526.45,4.78,2.43,8,63.59,3.48,72.46,97.18,Manajemen Air
+8175,2023,USA,Midwest,Corn,607.37,2.44,2.94,8,34.98,47.72,86.68,79.81,Rotasi Tanaman
+8176,2018,Canada,Quebec,Vegetables,1526.76,29.64,1.215,1,12.14,35.37,95.01,34.02,Pertanian Organik
+8177,1995,Argentina,Pampas,Rice,1250.23,3.6,2.98,7,52.55,13.47,70.8,44.98,Manajemen Air
+8178,2024,Canada,'British Columbia',Corn,734.32,3.65,2.36,10,24.3,22.22,77.35,38.53,Pertanian Organik
+8179,2003,USA,Midwest,Rice,289.07,4.47,1.395,7,75.86,2.55,41.96,93.4,Tanaman Tahan Kekeringan
+8180,2002,Russia,Siberian,Corn,1018.12,14.57,3.72,4,51.54,1.06,56.95,31.4,Tanpa Adaptasi
+8181,2005,India,'Tamil Nadu',Corn,1932.1,12.48,2.78,8,38.87,45.46,8.55,62.22,Manajemen Air
+8182,2007,Brazil,Northeast,Soybeans,897.72,1.01,3.05,1,78.19,7.82,96.73,91.85,Tanaman Tahan Kekeringan
+8183,1999,Brazil,North,Barley,910.11,23.26,0.981,6,40.7,25.35,9.7,81.32,Tanaman Tahan Kekeringan
+8184,1998,Australia,Victoria,Corn,531.14,1.1,1.58,3,36.72,43.54,57.22,89.57,Tanpa Adaptasi
+8185,2019,Australia,'Western Australia',Cotton,2655.15,12.3,3.41,8,40.36,0.86,62.47,91.04,Manajemen Air
+8186,1997,China,North,Fruits,1514.92,27.25,4.014,7,79.56,12.01,40.67,73.87,Rotasi Tanaman
+8187,2010,France,'Grand Est',Soybeans,2709.41,11.38,1.29,3,31.14,20.85,8.83,86.58,Pertanian Organik
+8188,2000,Canada,Ontario,Rice,808.91,21.76,4.338,8,72.45,5.19,58.6,82.03,Pertanian Organik
+8189,1991,Argentina,Pampas,Fruits,1375.08,28.77,0.702,9,34.12,20.72,82.59,76.12,Pertanian Organik
+8190,2003,China,North,Cotton,774.38,16.41,1.215,1,99.61,11.88,56.86,43.81,Manajemen Air
+8191,2011,Canada,Quebec,Barley,1746.83,21.32,1.764,5,14.87,47.19,66.58,49.75,Tanaman Tahan Kekeringan
+8192,2024,France,Nouvelle-Aquitaine,Soybeans,706.73,10.44,2.92,1,27.25,17.75,67,46.17,Manajemen Air
+8193,2004,Canada,'British Columbia',Corn,2128.17,13.98,2.38,1,35.11,20.56,86.97,40.68,Tanpa Adaptasi
+8194,2017,USA,West,Sugarcane,1107.9,21.69,2.097,10,69.9,9.35,51.99,36.5,Rotasi Tanaman
+8195,2000,Nigeria,'North West',Sugarcane,629.56,17.87,1.647,5,57.98,34.1,29.67,56.89,Manajemen Air
+8196,1991,Brazil,Northeast,Soybeans,360.34,6.54,2.925,7,47.65,9.94,4.43,44.16,Manajemen Air
+8197,2014,Nigeria,'North Central',Cotton,2979.54,12.18,4.21,1,91.55,25.69,14.07,38.97,Rotasi Tanaman
+8198,2023,India,Maharashtra,Rice,956.86,4.03,1.51,1,88.87,40.27,49.03,94.56,Manajemen Air
+8199,2014,Canada,Ontario,Barley,929.08,14.45,1.46,0,32.47,28.35,76.78,48.31,Tanaman Tahan Kekeringan
+8200,2013,Russia,Siberian,Barley,2999.19,28.52,2.484,2,52.08,47.83,91.86,37.17,Manajemen Air
+8201,1992,Nigeria,'North Central',Wheat,2597.5,15.72,2.376,4,32.82,7.74,11.3,38.7,Manajemen Air
+8202,2004,USA,Northeast,Soybeans,1717.05,2.67,2.33,2,19.67,1.24,24.07,42.14,Tanaman Tahan Kekeringan
+8203,1995,Canada,Ontario,Corn,1478.23,4.95,1.95,4,78.91,17.44,71.64,70.7,Manajemen Air
+8204,2003,Brazil,Northeast,Fruits,2626.46,15.46,2.187,4,28.43,37.98,34.1,61.34,Tanaman Tahan Kekeringan
+8205,1997,Russia,Siberian,Soybeans,2898.31,8.91,2.49,3,94.1,19.93,75.7,51.58,Tanaman Tahan Kekeringan
+8206,2014,Argentina,Northwest,Barley,2926.99,27.18,1.026,1,89.32,4.53,85.48,76.38,Manajemen Air
+8207,2019,India,'West Bengal',Wheat,1232.89,9.43,0.77,4,29.82,37.6,84.55,84.45,Tanaman Tahan Kekeringan
+8208,2005,China,Central,Vegetables,385.12,13.77,1.458,0,13.89,39.7,32.05,96.24,Manajemen Air
+8209,2017,Russia,Northwestern,Rice,1665.02,5.2,2.8,4,33.2,36.86,63.1,48.62,Tanpa Adaptasi
+8210,2018,USA,Northeast,Rice,1120.79,3.38,3.78,0,98.95,7.44,87.75,39.16,Tanpa Adaptasi
+8211,2019,India,'Tamil Nadu',Cotton,227.76,4.19,3.114,8,37.17,6.28,16.54,94.1,Tanpa Adaptasi
+8212,2011,China,South,Rice,2312.22,11.4,3.58,1,89.76,9.78,59.82,69.43,Manajemen Air
+8213,2006,Brazil,Northeast,Wheat,282.55,25.91,3.447,7,46.16,33.95,49.08,97,Tanaman Tahan Kekeringan
+8214,2002,China,South,Wheat,2775.44,2.32,1.58,0,78.41,19.67,13.29,80.68,Manajemen Air
+8215,2015,Brazil,Southeast,Soybeans,2975.82,1.41,4.57,2,98.28,19.3,50.42,39.97,Tanpa Adaptasi
+8216,2008,Australia,Queensland,Vegetables,2335.79,11.43,2.52,8,82.86,32.34,58.71,89.88,Tanpa Adaptasi
+8217,1994,France,Nouvelle-Aquitaine,Coffee,596.85,25.61,2.538,4,29.49,4.38,56.19,44.98,Pertanian Organik
+8218,1997,France,'Grand Est',Coffee,716.02,22.73,2.898,5,57.06,22.55,21.17,34.55,Tanaman Tahan Kekeringan
+8219,2024,Australia,'New South Wales',Sugarcane,540.29,28.98,3.708,0,83.32,29.63,56.76,57.24,Manajemen Air
+8220,2000,Argentina,Patagonia,Cotton,929.77,16.21,1.557,5,19.76,1.11,80.05,96.48,Manajemen Air
+8221,2004,India,'Tamil Nadu',Rice,2879.81,11.18,2.58,9,84.78,3.67,12.69,40.07,Tanpa Adaptasi
+8222,2008,USA,South,Coffee,1938.77,16.56,2.763,7,51.96,16.56,51.24,30.31,Pertanian Organik
+8223,1993,France,'Provence-Alpes-Cote d’Azur',Coffee,2954.42,12.63,1.48,9,92.86,0.25,5.83,35.91,Pertanian Organik
+8224,2009,China,East,Vegetables,819.22,2.5,2.73,1,84.71,21.73,73.24,96.33,Tanpa Adaptasi
+8225,2013,India,'West Bengal',Coffee,2735.11,10.13,1.18,2,69.06,34.55,31.41,50.44,Tanpa Adaptasi
+8226,1997,Canada,Prairies,Barley,902.47,3.83,3.51,5,36.12,19.44,94.76,39.3,Manajemen Air
+8227,2022,India,'Tamil Nadu',Corn,1393.29,18.97,2.403,3,48.56,40.72,38.88,60.44,Tanaman Tahan Kekeringan
+8228,1995,China,Central,Sugarcane,2645.21,3.01,1.89,6,40.84,11.06,90.4,93.82,Pertanian Organik
+8229,2021,Nigeria,'North West',Fruits,2513.22,12.16,2.56,4,69.59,18.83,42.77,41.9,Manajemen Air
+8230,1991,Nigeria,'South West',Cotton,2807.64,2.27,3.76,6,42.73,11.43,70.69,41.23,Tanaman Tahan Kekeringan
+8231,2022,Canada,Quebec,Soybeans,1666.38,14.99,2.55,4,33.27,29.54,98.06,62.17,Tanaman Tahan Kekeringan
+8232,2015,Nigeria,'North West',Rice,1511.69,28.08,3.519,5,50.97,48.54,42.09,70.31,Tanaman Tahan Kekeringan
+8233,2011,Brazil,North,Barley,1770.91,12.4,0.94,9,62.26,28.28,83.98,88.08,Rotasi Tanaman
+8234,2015,China,Central,Barley,272.3,1.6,3.24,2,36.8,20.18,10.41,52.56,Tanaman Tahan Kekeringan
+8235,2015,China,South,Coffee,790.99,20.63,2.844,2,64.2,31.22,50.3,62.44,Manajemen Air
+8236,2000,Brazil,Southeast,Fruits,1291.52,10.13,4.69,2,42.96,36.55,5.8,42.41,Rotasi Tanaman
+8237,1992,Argentina,Northeast,Soybeans,2650.18,17.3,2.115,1,15.03,35.49,4.01,33.92,Tanpa Adaptasi
+8238,1992,Canada,Ontario,Coffee,2471.41,12.4,1.18,6,77.02,31.28,62.34,56.92,Rotasi Tanaman
+8239,1991,Argentina,Pampas,Fruits,769.94,29.28,2.718,9,92.51,36.45,87.08,80.03,Tanpa Adaptasi
+8240,2018,China,Central,Barley,513.33,23.36,2.097,1,34.76,45.94,44.17,69.82,Pertanian Organik
+8241,2017,China,North,Cotton,2139.61,20.29,3.573,0,19.24,17.15,70.9,37.5,Rotasi Tanaman
+8242,1997,Argentina,Northwest,Cotton,774.31,24.4,1.845,2,53.62,34.93,37.67,87.72,Tanaman Tahan Kekeringan
+8243,2014,Nigeria,'South East',Soybeans,2308.31,28.63,1.755,0,99.05,48.27,0.83,64.62,Manajemen Air
+8244,1998,Nigeria,'North Central',Wheat,1519.02,15.46,2.601,10,65.98,6.01,63.98,37.44,Tanaman Tahan Kekeringan
+8245,1997,Australia,'New South Wales',Corn,437.78,3.96,0.765,1,92.97,31.6,62.7,31.44,Rotasi Tanaman
+8246,2014,Australia,'New South Wales',Corn,405.73,4.51,3.528,4,57.71,21.71,69.67,53,Rotasi Tanaman
+8247,2006,Australia,'Western Australia',Cotton,1688.55,10.01,1.3,6,24.44,14.57,28.72,57.57,Pertanian Organik
+8248,2016,Brazil,South,Corn,631.73,19.85,2.637,5,57.57,18.52,30.93,55.02,Rotasi Tanaman
+8249,1996,Russia,Siberian,Wheat,1500.2,11.89,1.77,9,84,21.76,71.22,99.97,Manajemen Air
+8250,2016,Argentina,Northeast,Corn,1709.16,10.67,3.72,0,74.47,47.8,21.77,85.52,Tanpa Adaptasi
+8251,1994,Canada,Quebec,Corn,1947.47,4.15,3.93,2,48.32,14.12,7.8,73.49,Pertanian Organik
+8252,2003,China,South,Fruits,1448.23,29.62,2.592,7,96.63,41.34,56.08,50.91,Pertanian Organik
+8253,2004,Australia,Queensland,Corn,1698.69,24.98,2.322,2,61.58,15.44,73.01,75.33,Tanpa Adaptasi
+8254,2016,Brazil,Northeast,Wheat,2946.42,23.95,3.897,8,83.43,42.16,4.51,52.25,Rotasi Tanaman
+8255,2002,Russia,Central,Vegetables,2455.38,9.65,0.63,5,42.51,28.18,2.17,39.86,Manajemen Air
+8256,1996,Australia,'Western Australia',Soybeans,1562.89,11.19,1.52,6,13.21,42.52,41.74,72.74,Tanpa Adaptasi
+8257,2020,France,Ile-de-France,Coffee,2854.49,22.3,3.366,7,91.45,21.36,80.76,47.8,Manajemen Air
+8258,2009,India,'Tamil Nadu',Vegetables,734.27,5,0.94,8,88.8,19.13,6.88,53.34,Tanpa Adaptasi
+8259,2014,Argentina,Pampas,Vegetables,1250.45,5.5,2.24,4,48.98,25.76,14.21,68.19,Tanpa Adaptasi
+8260,2003,China,East,Sugarcane,2397.96,9.87,4.05,4,15.07,4.44,81.39,81.84,Manajemen Air
+8261,2013,Nigeria,'South West',Soybeans,1961.99,13.07,1.31,1,96.2,2.26,47.74,66.44,Pertanian Organik
+8262,2006,China,East,Corn,1769.14,26.98,1.476,7,24.31,0.7,31.96,42.17,Rotasi Tanaman
+8263,1994,India,Punjab,Vegetables,2493.1,29.51,1.233,6,15.63,34.18,16.79,88.34,Tanaman Tahan Kekeringan
+8264,1995,Brazil,Northeast,Rice,2673.33,7.48,1.62,6,20.83,40.1,98.51,54.28,Rotasi Tanaman
+8265,2008,Nigeria,'North West',Vegetables,2498.56,16.87,2.214,2,52.82,43.2,28.03,93.79,Tanpa Adaptasi
+8266,2024,Brazil,Northeast,Corn,2959.76,24.33,2.97,10,90.25,21.5,24.92,70.86,Rotasi Tanaman
+8267,1990,Nigeria,'North West',Vegetables,2415.67,19.99,1.134,2,75.81,15.38,22.87,56.17,Tanpa Adaptasi
+8268,2006,Brazil,Northeast,Soybeans,2101.53,28.82,4.428,6,20.36,42.72,31.4,83.55,Manajemen Air
+8269,1992,Argentina,Northeast,Corn,1501.56,26.49,3.384,1,30.09,10.13,56.51,40.94,Tanaman Tahan Kekeringan
+8270,1999,Argentina,Patagonia,Corn,1004.95,28.59,2.916,10,59.23,43.98,91.19,94.02,Manajemen Air
+8271,2022,Nigeria,'North Central',Corn,1339.62,21.6,4.437,3,53.12,29.09,78.47,55.85,Pertanian Organik
+8272,1990,Australia,Queensland,Wheat,232.69,13.41,4.104,0,58.65,7.45,89.31,85.42,Tanpa Adaptasi
+8273,1995,Nigeria,'North West',Wheat,1429.56,12.94,3.56,9,54.29,36.4,39.72,69.89,Tanaman Tahan Kekeringan
+8274,2023,Brazil,Southeast,Fruits,2950.82,17.35,0.54,5,40.2,4.9,32.87,35.48,Tanaman Tahan Kekeringan
+8275,2013,USA,Midwest,Fruits,1940.31,28.65,1.206,2,88.8,36.11,64.16,86.52,Rotasi Tanaman
+8276,1997,Brazil,North,Barley,2807.15,12.6,1.12,2,57.63,46.01,32.83,99.52,Tanaman Tahan Kekeringan
+8277,1991,China,East,Coffee,309.19,16.58,0.972,7,12.93,17.28,68.25,99.71,Tanpa Adaptasi
+8278,2005,China,South,Rice,688.32,15.61,0.711,2,79.3,18.85,27.96,31.44,Manajemen Air
+8279,2009,Russia,Siberian,Wheat,678.65,21.32,1.314,10,10.6,32.07,29.05,60.39,Pertanian Organik
+8280,2004,Canada,Ontario,Wheat,1311.33,23.91,2.376,0,86.16,26.86,89.47,58.7,Pertanian Organik
+8281,2013,Nigeria,'South West',Soybeans,2212.35,25.43,2.7,5,35.72,27.39,99.7,35.74,Pertanian Organik
+8282,1995,Canada,Prairies,Sugarcane,486.76,9.35,1.935,8,20.94,14.13,89.86,52.94,Manajemen Air
+8283,1997,Canada,Quebec,Rice,1278.35,20.15,1.35,8,71.11,36.04,6.37,83.55,Pertanian Organik
+8284,2016,Nigeria,'South West',Coffee,884.03,6.75,1.4,0,87.34,20.59,62.53,99.45,Tanaman Tahan Kekeringan
+8285,1997,Russia,Northwestern,Corn,992.6,23.07,2.7,4,10.21,11.55,58.49,92.42,Tanpa Adaptasi
+8286,1994,USA,Midwest,Sugarcane,1059.94,27.9,2.916,0,74.25,23.13,23.12,62.07,Rotasi Tanaman
+8287,2021,Canada,Prairies,Wheat,1829.92,7.58,1.31,1,40.62,17.71,58.44,60.93,Rotasi Tanaman
+8288,2006,India,Maharashtra,Barley,2251.54,28.49,1.854,4,82.49,15.48,27.68,61.07,Pertanian Organik
+8289,2014,Canada,'British Columbia',Sugarcane,2032.11,2.6,3.58,4,47.53,3.27,73.51,65.18,Tanpa Adaptasi
+8290,2000,Russia,Central,Barley,584.65,27.8,3.429,3,41.33,43.99,70.62,81.56,Tanaman Tahan Kekeringan
+8291,2005,Australia,Victoria,Rice,2226.3,27.48,2.745,8,92.42,7.45,11.95,34.66,Manajemen Air
+8292,2019,Brazil,Southeast,Corn,2642.69,6.8,1.79,1,51.4,27.74,20.32,51.17,Pertanian Organik
+8293,2011,Russia,Siberian,Soybeans,212.75,10.89,3.807,1,17.25,36.26,27.52,54.25,Rotasi Tanaman
+8294,2009,Canada,Prairies,Cotton,1973.85,8.26,2.18,0,39.49,13.35,96.38,68.71,Rotasi Tanaman
+8295,2017,China,Central,Sugarcane,2479.24,14.11,1.86,3,76.44,44.64,41.36,91.64,Tanpa Adaptasi
+8296,2008,China,South,Cotton,1691.53,27.36,3.087,5,12.6,41.08,8.13,63.29,Tanpa Adaptasi
+8297,1999,France,'Grand Est',Barley,1302.83,4.64,3.28,0,80.72,23.72,45.5,45.77,Rotasi Tanaman
+8298,2010,Brazil,Southeast,Corn,2159.68,29.85,3.528,2,43.28,24.28,65.22,88.72,Pertanian Organik
+8299,2018,Canada,Prairies,Rice,1732.62,13.56,1.98,10,61.17,20.85,10.58,92.17,Pertanian Organik
+8300,2016,Russia,Siberian,Fruits,481.89,2.87,2.403,10,79.43,5.38,17.79,34.15,Tanpa Adaptasi
+8301,2019,USA,Midwest,Wheat,1953.72,22.06,3.159,7,63.74,20.66,99.17,90,Tanaman Tahan Kekeringan
+8302,2004,Argentina,Northwest,Rice,643.94,2.72,2.82,9,21.05,28.7,34.89,58.36,Tanpa Adaptasi
+8303,2018,Russia,Northwestern,Vegetables,1551.71,26.05,3.519,7,28.12,41.19,28.9,39.68,Rotasi Tanaman
+8304,2014,China,South,Soybeans,772.7,16.37,2.493,6,85.36,1.47,13.85,85.04,Tanaman Tahan Kekeringan
+8305,2023,USA,Northeast,Wheat,798.86,29.41,0.738,7,53.81,11.94,38.32,46.63,Manajemen Air
+8306,2012,Russia,Siberian,Rice,586.44,4.25,1.76,9,20.93,27.71,83.41,94.13,Tanpa Adaptasi
+8307,1999,Brazil,North,Sugarcane,1292.99,20.21,0.702,6,81.97,29.51,67.59,34.47,Tanpa Adaptasi
+8308,2018,USA,Northeast,Barley,1496.37,24.25,1.224,2,47.67,2.4,40.19,54.11,Tanpa Adaptasi
+8309,2005,Russia,Siberian,Sugarcane,1120.57,7.78,2.78,5,33.49,31.73,97.17,73.88,Tanaman Tahan Kekeringan
+8310,2009,Australia,'Western Australia',Wheat,1354.51,6.12,2.91,6,56.3,2.37,4.09,75.1,Tanaman Tahan Kekeringan
+8311,1998,Australia,Queensland,Wheat,1174.58,5.52,4.11,1,93.31,8.23,93.58,63.86,Tanpa Adaptasi
+8312,2001,Nigeria,'South East',Vegetables,2181.34,28.13,0.999,9,66.83,4.99,72.79,48.22,Manajemen Air
+8313,1992,USA,West,Sugarcane,423.62,0.67,1.647,3,21.97,7.24,94.38,47.1,Tanpa Adaptasi
+8314,2010,Argentina,Pampas,Corn,1275.27,6.94,1.49,2,85.51,12.43,92.33,44.07,Tanaman Tahan Kekeringan
+8315,2018,Brazil,North,Corn,2647.85,8.95,0.71,8,37.23,19.39,42.02,81.11,Tanpa Adaptasi
+8316,2001,Australia,'New South Wales',Soybeans,1615.58,11.69,1.22,8,59.68,16.71,77.79,79.74,Pertanian Organik
+8317,2018,Australia,Victoria,Fruits,399.71,18.51,2.493,6,26.43,20.41,35.36,92.79,Rotasi Tanaman
+8318,1991,USA,South,Wheat,1056.77,22.85,2.133,5,27.34,25.12,31.44,36.56,Rotasi Tanaman
+8319,1991,Argentina,Pampas,Vegetables,2290.74,4.96,2.87,7,16.27,19.89,50.11,85.74,Tanaman Tahan Kekeringan
+8320,2002,Nigeria,'North Central',Rice,1678.47,9.28,0.52,3,72,15.79,28.37,66.58,Pertanian Organik
+8321,1994,Argentina,Patagonia,Rice,2474.75,28.16,2.187,7,47.1,10.27,19.18,36.52,Tanpa Adaptasi
+8322,2015,Russia,Siberian,Rice,1081.63,17.17,3.051,5,71.75,47.44,13.64,99.03,Pertanian Organik
+8323,2016,Australia,'New South Wales',Coffee,1573.76,16.14,1.665,2,69.41,7.89,35.47,56.84,Manajemen Air
+8324,1990,India,'Tamil Nadu',Corn,1894.74,7.3,2.21,8,74.87,42.63,4.93,80.33,Manajemen Air
+8325,1994,Argentina,Pampas,Sugarcane,2639.24,22.06,3.393,5,96.87,31.17,95.35,58.34,Tanpa Adaptasi
+8326,1990,Russia,Siberian,Corn,824.78,25.06,1.458,7,41.46,2.67,63.71,62.7,Manajemen Air
+8327,2016,Brazil,Northeast,Sugarcane,881.98,28.33,1.827,10,17.8,6.88,18.02,77.17,Tanpa Adaptasi
+8328,2013,Canada,Prairies,Cotton,2369.71,13.97,1.72,1,59.94,19.52,80.04,67.06,Tanaman Tahan Kekeringan
+8329,2024,Brazil,North,Soybeans,1142.36,12.95,3.76,1,96.21,10.4,53.48,41.17,Rotasi Tanaman
+8330,2000,Russia,Central,Vegetables,873.68,21.77,1.638,4,57.45,38.64,82.72,90.61,Tanpa Adaptasi
+8331,2023,China,Central,Soybeans,1604.26,19.82,0.945,3,12.27,35.38,49.83,75.42,Tanaman Tahan Kekeringan
+8332,2014,Nigeria,'North West',Sugarcane,535.11,29.97,1.449,2,41.03,45.48,45.59,60.17,Tanaman Tahan Kekeringan
+8333,2023,Canada,Ontario,Soybeans,1961.43,8.72,2.09,8,45.22,22.33,55.51,41.25,Tanpa Adaptasi
+8334,2006,USA,Midwest,Corn,845.66,8.48,2.25,5,74.12,11.83,13.69,87.51,Pertanian Organik
+8335,2017,France,'Provence-Alpes-Cote d’Azur',Vegetables,714.5,8.72,1.33,1,16.18,29.55,53.06,71.44,Rotasi Tanaman
+8336,1997,China,East,Corn,975.14,3.13,1.04,7,27.62,29.43,12.61,50.49,Tanpa Adaptasi
+8337,1999,Brazil,South,Rice,2098.1,10.42,1.9,4,35.06,28.12,9.6,91.73,Pertanian Organik
+8338,1996,China,South,Barley,2190.9,17.86,2.511,0,62.37,41.73,11.68,46.72,Tanaman Tahan Kekeringan
+8339,1996,Canada,'British Columbia',Wheat,616.59,26.75,1.395,2,39.58,47.54,28.3,80.27,Tanaman Tahan Kekeringan
+8340,2019,Australia,'Western Australia',Barley,2721.47,8.75,3.29,6,91.66,35.09,99.56,60.92,Tanpa Adaptasi
+8341,2005,Russia,Volga,Vegetables,2471.56,15.08,3.42,3,40.71,13.86,95.55,71.28,Tanpa Adaptasi
+8342,2005,USA,West,Barley,915.47,25.16,3.699,8,30.88,24.18,18.27,56.78,Tanaman Tahan Kekeringan
+8343,2014,India,'West Bengal',Vegetables,597.92,19.49,1.98,7,54.74,30.4,60.04,30.59,Manajemen Air
+8344,2002,France,'Grand Est',Rice,1495.66,5.2,0.91,2,82.65,8.23,6.13,94.98,Tanpa Adaptasi
+8345,1997,Australia,Queensland,Vegetables,2539,26.08,1.269,0,56.1,37.53,57.25,94.61,Tanpa Adaptasi
+8346,2021,Argentina,Northwest,Wheat,1623.46,20.66,1.557,2,86.34,38.7,72.24,33.55,Tanaman Tahan Kekeringan
+8347,1990,China,East,Wheat,2807.46,8.66,1.93,0,25.04,33.12,0.39,76.81,Tanpa Adaptasi
+8348,1994,Australia,'Western Australia',Soybeans,328.57,25.37,0.54,1,57.19,6.09,1.68,53.09,Tanpa Adaptasi
+8349,2021,Russia,Volga,Rice,2519.29,10.3,0.92,5,21.55,39.82,23.89,67.31,Pertanian Organik
+8350,1994,Australia,'New South Wales',Wheat,2313.43,5.36,3.72,2,86.48,14.86,72.04,70.79,Rotasi Tanaman
+8351,1990,USA,Northeast,Soybeans,695.72,9.83,2.08,10,19.42,29.97,53.86,76.2,Pertanian Organik
+8352,2022,Nigeria,'South West',Wheat,837.61,11.34,2.75,10,17.69,39.7,55.85,90.41,Pertanian Organik
+8353,1997,China,East,Rice,492.83,3.92,3.492,0,77.95,14.39,20.78,99.24,Tanpa Adaptasi
+8354,2023,Canada,'British Columbia',Barley,1491.58,7.02,3.72,4,22.51,28.95,43.26,78.99,Pertanian Organik
+8355,2008,France,Ile-de-France,Soybeans,2304.13,24.41,3.798,8,58.59,18.34,48.92,91.66,Tanaman Tahan Kekeringan
+8356,2001,France,Ile-de-France,Cotton,529.26,17.76,2.007,10,72.43,5.83,18.19,94.88,Tanpa Adaptasi
+8357,2013,Argentina,Pampas,Corn,1455.1,16.73,1.332,10,44.25,36.62,58.22,79.48,Rotasi Tanaman
+8358,2024,USA,Midwest,Coffee,1091.1,9.21,1.13,9,50.83,46.67,55.01,40.65,Tanaman Tahan Kekeringan
+8359,1992,China,Central,Fruits,2472.74,7.62,2.67,4,66.46,26.13,42.84,72.84,Tanaman Tahan Kekeringan
+8360,2008,USA,Northeast,Sugarcane,2232.6,9.82,4.53,10,45.39,14.65,21.98,38.43,Pertanian Organik
+8361,2007,Russia,Siberian,Barley,2687.75,14.74,1.03,8,82.41,41.96,31.16,82.58,Tanpa Adaptasi
+8362,2022,France,'Provence-Alpes-Cote d’Azur',Vegetables,2081.57,19.67,0.954,4,65.29,15.62,25.12,47.35,Tanaman Tahan Kekeringan
+8363,1991,Nigeria,'South East',Soybeans,2040.07,6.32,3.23,10,27.03,42.49,64.01,69.54,Tanpa Adaptasi
+8364,2015,USA,Northeast,Fruits,1781.35,12.73,1.83,1,21.58,29.83,30.06,33.44,Manajemen Air
+8365,2013,Australia,Victoria,Coffee,855.03,15.8,1.098,2,20.92,22.07,64.63,35.58,Tanaman Tahan Kekeringan
+8366,2010,Canada,Quebec,Rice,2363.73,13.64,1.45,3,60.5,16.14,39.6,91.21,Tanaman Tahan Kekeringan
+8367,2020,France,'Grand Est',Cotton,369.83,29.78,0.954,4,77.49,1.55,24.81,56.65,Manajemen Air
+8368,2010,Brazil,North,Corn,2512.55,3.01,1.99,6,33.54,40.96,55.19,93.17,Tanaman Tahan Kekeringan
+8369,1997,Nigeria,'South East',Corn,2623.79,14.9,2.96,1,22.42,44.36,12.41,56.53,Manajemen Air
+8370,1994,Brazil,North,Coffee,2896.12,17.71,1.377,5,30.31,22.24,73.34,60.13,Manajemen Air
+8371,2009,France,'Provence-Alpes-Cote d’Azur',Fruits,2749.61,17.26,3.168,1,49.82,37.47,6.17,35.9,Tanpa Adaptasi
+8372,1993,Nigeria,'North Central',Vegetables,591.47,17.82,1.836,3,40.36,21.29,30.83,48.47,Pertanian Organik
+8373,2007,China,East,Coffee,2525.52,9.21,2.6,2,26.11,47.39,46.83,40.62,Rotasi Tanaman
+8374,2012,India,Maharashtra,Sugarcane,2043.05,12.28,2.17,8,20.63,11.78,84.4,30.64,Tanpa Adaptasi
+8375,2003,Nigeria,'North Central',Soybeans,911.79,25.71,0.882,2,72.45,36.69,11.19,50.53,Tanaman Tahan Kekeringan
+8376,2001,Brazil,South,Corn,1389.08,23.59,2.439,4,39.1,43.63,47.33,56.63,Rotasi Tanaman
+8377,1991,Russia,Volga,Fruits,863.28,3.58,2.58,0,94,28.3,99.06,77.98,Tanpa Adaptasi
+8378,2003,France,Nouvelle-Aquitaine,Coffee,2527.07,28.55,1.926,8,30.24,26.93,69.04,31.85,Pertanian Organik
+8379,2013,China,East,Fruits,2099.04,20.64,2.205,10,16.83,47.76,26.84,38.67,Pertanian Organik
+8380,2022,USA,Midwest,Sugarcane,2380.88,12.94,1.66,0,28.93,1.04,32.02,32.23,Manajemen Air
+8381,2001,Canada,Ontario,Soybeans,1409.21,19.62,3.078,3,84.56,15.96,86.19,93.43,Pertanian Organik
+8382,1997,Australia,'New South Wales',Wheat,570.44,9.61,1.17,7,27.55,39.18,38.06,61.41,Tanaman Tahan Kekeringan
+8383,2022,Argentina,Northeast,Corn,1733.9,18.36,2.169,2,98.6,27.63,6.27,43.38,Manajemen Air
+8384,2001,USA,West,Cotton,325.77,25.09,3.564,5,31.07,26,91.89,45.64,Tanpa Adaptasi
+8385,2016,Canada,Ontario,Soybeans,573.03,6.49,3.65,6,22.65,0.03,4.49,69.08,Tanaman Tahan Kekeringan
+8386,2012,India,Maharashtra,Coffee,238.01,0.63,1.566,7,35.01,4.24,55.19,99.49,Pertanian Organik
+8387,2006,India,'West Bengal',Corn,2096.57,23.97,1.656,8,21.33,43.06,15.3,36.97,Pertanian Organik
+8388,2013,Australia,Victoria,Fruits,1522.34,25.37,3.276,1,94.69,7.86,55.83,84.75,Rotasi Tanaman
+8389,1996,Australia,Victoria,Soybeans,2216.43,22.01,3.096,2,27.29,12.74,12.01,39.51,Rotasi Tanaman
+8390,2013,Brazil,Southeast,Corn,2085.03,13.04,1.61,8,63.42,22.05,37.6,59.51,Manajemen Air
+8391,2001,Australia,'Western Australia',Coffee,2360.35,17.55,3.438,3,60.62,42.07,12.03,72.99,Pertanian Organik
+8392,1997,Brazil,South,Barley,564.57,16.36,1.269,3,23.37,27.46,44.1,56.97,Tanaman Tahan Kekeringan
+8393,1990,Argentina,Northeast,Corn,785.48,6.58,2.3,8,99.74,47.82,66.29,49.68,Pertanian Organik
+8394,2008,Australia,'Western Australia',Sugarcane,1000.5,14.66,2.9,9,14.33,29.07,50.52,78.67,Tanpa Adaptasi
+8395,2001,Russia,Northwestern,Coffee,1739.83,7.69,3.73,4,59.33,14.14,44.28,35.15,Tanpa Adaptasi
+8396,2011,Brazil,Southeast,Fruits,2935.49,29.65,2.817,6,82.46,36.76,47.5,31.6,Pertanian Organik
+8397,2009,France,Ile-de-France,Corn,381.43,1.67,1.746,3,59.76,11.72,23.22,36.47,Tanaman Tahan Kekeringan
+8398,2009,France,Ile-de-France,Rice,1797.23,12.36,1.89,8,65.4,26.85,9.25,34.94,Tanpa Adaptasi
+8399,2019,Canada,Prairies,Wheat,1770.96,22.29,1.845,2,93.28,14.76,65.89,75.29,Pertanian Organik
+8400,1999,USA,Northeast,Rice,1679.95,8.11,2.43,4,95.83,25.31,12.97,70.69,Rotasi Tanaman
+8401,2000,USA,Midwest,Cotton,2271.14,25.07,3.096,0,50.19,47.39,22.73,61.57,Manajemen Air
+8402,1999,Nigeria,'North Central',Rice,2006.34,9.07,3.12,1,58.38,48.22,4.56,63.95,Tanpa Adaptasi
+8403,2017,Nigeria,'North West',Barley,251.64,6.28,2.898,7,36.2,20.32,27.84,99.96,Tanpa Adaptasi
+8404,1994,Australia,Queensland,Vegetables,1220.3,25.87,4.023,5,63.24,17.76,72.34,62.94,Tanpa Adaptasi
+8405,1998,Argentina,Patagonia,Soybeans,1870.68,3.26,2.53,0,50.19,34.32,71.35,52.89,Manajemen Air
+8406,1999,Argentina,Pampas,Rice,1671.94,22.55,1.404,2,12.98,47.24,12.61,91.49,Rotasi Tanaman
+8407,1990,Russia,Siberian,Sugarcane,2970.2,13.1,1.38,0,63.73,14.91,87.23,98.09,Tanpa Adaptasi
+8408,2019,Brazil,South,Fruits,1935.88,7.79,3.51,10,49.15,47.08,71.74,67.48,Manajemen Air
+8409,2018,Nigeria,'South West',Vegetables,1754.85,12.95,1.4,7,67.9,43.04,37.95,77.06,Tanpa Adaptasi
+8410,2010,Russia,Siberian,Soybeans,604.7,27.85,0.864,6,41.29,37.47,68.67,69.27,Rotasi Tanaman
+8411,2017,USA,Northeast,Soybeans,1405.94,27.15,1.548,7,64.86,38.01,73.98,56.98,Manajemen Air
+8412,1990,Russia,Siberian,Soybeans,1996.24,3.81,2.93,5,36.74,5.76,95.09,38.23,Manajemen Air
+8413,1991,India,Maharashtra,Fruits,2980.09,1.65,1.32,1,71.88,0.53,64.62,72.85,Manajemen Air
+8414,1990,USA,Northeast,Sugarcane,1208.28,26.33,1.629,1,75.41,27.86,21.57,47.5,Tanpa Adaptasi
+8415,2000,Brazil,Northeast,Soybeans,1589.71,26.45,1.782,7,63.1,19.91,73.91,76.14,Pertanian Organik
+8416,2017,Argentina,Patagonia,Barley,1314.91,24.5,1.782,8,33.96,21.22,51.3,98.68,Manajemen Air
+8417,2004,Russia,Siberian,Rice,2495.64,10.19,3.66,2,36.72,43.45,58.03,92.87,Tanaman Tahan Kekeringan
+8418,2013,India,Punjab,Sugarcane,2793.03,25.97,3.528,9,52.8,31.78,90.37,85.08,Pertanian Organik
+8419,2003,China,East,Vegetables,1006.45,3.49,0.9,2,50.27,3.92,4.88,84.39,Manajemen Air
+8420,2020,Canada,Quebec,Sugarcane,964.15,10.94,1.31,4,57.25,23.25,28.87,82.96,Manajemen Air
+8421,1994,Argentina,Northeast,Cotton,1687.95,25.48,3.546,5,38.5,43.43,52.34,65.71,Manajemen Air
+8422,2018,Australia,Victoria,Cotton,2311.2,4.42,3.68,4,28.18,5.24,74.31,89.5,Rotasi Tanaman
+8423,1990,Australia,'Western Australia',Cotton,496.08,17.54,3.951,6,42.34,45.58,99.53,36.82,Rotasi Tanaman
+8424,2010,Nigeria,'North West',Barley,1508.31,3.95,2.6,1,21.08,34.34,51.96,50.38,Pertanian Organik
+8425,1990,India,'West Bengal',Sugarcane,2139.98,6.07,2.26,0,29.71,12.22,6.32,95.16,Pertanian Organik
+8426,2013,France,'Grand Est',Vegetables,2494.17,11.58,4.84,9,59.97,1.61,75.09,83.53,Tanaman Tahan Kekeringan
+8427,2018,France,'Grand Est',Soybeans,1350.08,21.75,2.259,1,60.9,33.55,20.2,72.14,Tanaman Tahan Kekeringan
+8428,2013,France,'Provence-Alpes-Cote d’Azur',Corn,1185.52,10.26,3.49,3,75.04,33.5,54.39,82.75,Tanaman Tahan Kekeringan
+8429,1994,USA,Northeast,Corn,2042.39,18.7,2.304,10,44.57,26.86,81.59,82.54,Tanaman Tahan Kekeringan
+8430,2011,Canada,Ontario,Rice,1910.85,26.71,0.486,0,29.11,39,3.9,84.44,Rotasi Tanaman
+8431,2006,Nigeria,'South West',Rice,2422.18,14.64,2.13,7,38.39,44.42,50.58,31.47,Manajemen Air
+8432,2018,Canada,Quebec,Cotton,1096.97,28.46,2.88,9,73.94,43.98,27.35,32.26,Tanaman Tahan Kekeringan
+8433,2005,USA,West,Vegetables,1653.35,26.2,0.513,0,68.7,35.83,94.4,83.44,Tanpa Adaptasi
+8434,2023,USA,West,Corn,2395.28,6,2.17,6,30.69,6.61,9.43,31.11,Pertanian Organik
+8435,1995,Nigeria,'South East',Coffee,2329.59,25.09,1.53,2,47.26,17.61,14.11,75.76,Tanaman Tahan Kekeringan
+8436,2022,China,East,Corn,2323.13,12.74,3.49,6,36,23.9,43.32,37.53,Manajemen Air
+8437,2016,USA,South,Soybeans,1378.85,20.58,2.853,8,12.61,30.98,32,82.5,Tanpa Adaptasi
+8438,1990,Nigeria,'South West',Sugarcane,1055.76,19.06,1.053,5,75.24,30.64,18.06,86.89,Rotasi Tanaman
+8439,2022,India,Punjab,Vegetables,2273.05,14.8,2.8,2,11.76,22.9,98.04,37.69,Pertanian Organik
+8440,2002,USA,Northeast,Sugarcane,2365.74,16.04,2.367,3,79.68,33.58,0.29,53.41,Manajemen Air
+8441,2001,Argentina,Patagonia,Barley,2707.55,10.73,1.72,7,30.57,39.84,3.4,53.92,Tanpa Adaptasi
+8442,2000,Russia,Central,Corn,879.09,22.52,1.08,1,74.69,13.53,42.7,41.68,Rotasi Tanaman
+8443,2003,USA,Northeast,Wheat,1238.67,28.58,2.691,7,12.85,42.55,41.48,51.98,Pertanian Organik
+8444,2019,Argentina,Northwest,Wheat,1922.38,7.59,0.93,2,68.12,23.15,76.17,92.69,Manajemen Air
+8445,2021,Argentina,Northeast,Wheat,1062.17,27.14,2.151,0,83.58,15.37,43.39,72.98,Rotasi Tanaman
+8446,2016,India,'Tamil Nadu',Wheat,530.14,25.51,2.385,0,13.03,8.43,3.92,59.97,Manajemen Air
+8447,2014,China,North,Cotton,2820.58,16.4,3.213,4,88.06,39.83,82.32,70.33,Tanaman Tahan Kekeringan
+8448,2001,Argentina,Northeast,Wheat,2468.53,17.55,1.629,7,21.59,14.25,47.68,87.55,Manajemen Air
+8449,1999,Canada,'British Columbia',Vegetables,1498.74,15.9,1.512,2,56.71,29.24,72.36,56,Tanpa Adaptasi
+8450,2013,USA,West,Vegetables,2172.3,19.98,2.187,10,11.82,20.66,71.09,54.95,Manajemen Air
+8451,2013,Nigeria,'North Central',Sugarcane,2908.8,4.41,1.66,0,19.61,42.86,52.77,48.04,Rotasi Tanaman
+8452,1998,Nigeria,'North West',Fruits,2176.91,27.72,0.648,9,11.2,30.04,77.58,62.78,Rotasi Tanaman
+8453,2016,Australia,'New South Wales',Fruits,2395.8,29.02,4.284,9,32.23,16.78,23.81,59.9,Rotasi Tanaman
+8454,1995,Russia,Central,Cotton,438.6,16.18,2.466,5,47.23,17.61,6.62,73.82,Tanaman Tahan Kekeringan
+8455,1990,Nigeria,'North West',Fruits,2193.41,22.21,1.863,1,27.64,34.07,13.02,77.09,Pertanian Organik
+8456,2004,France,Nouvelle-Aquitaine,Fruits,2827.76,7.18,1.29,1,12.66,41.22,0.68,41.51,Tanaman Tahan Kekeringan
+8457,2002,Canada,Prairies,Cotton,2937.68,10.78,2.76,8,94.8,48.31,78.6,98.18,Tanaman Tahan Kekeringan
+8458,2021,India,'West Bengal',Vegetables,2741.6,17.01,1.449,7,12.06,20.33,1.86,35.62,Pertanian Organik
+8459,2024,USA,Midwest,Barley,2338.1,17.98,1.62,8,39.33,29.23,0.48,96.36,Tanpa Adaptasi
+8460,2004,Nigeria,'South East',Fruits,2696.38,11.14,3.04,9,38.24,2.18,54.98,67.66,Tanpa Adaptasi
+8461,2020,Nigeria,'South East',Vegetables,2667.3,21.98,3.069,0,57.26,15.15,7.06,61.27,Pertanian Organik
+8462,1995,Russia,Central,Corn,229.74,19.04,2.826,10,72.63,17.85,86.65,99.86,Tanpa Adaptasi
+8463,2018,Brazil,South,Cotton,475.21,19.22,1.089,9,74.53,23.82,79.97,88.86,Manajemen Air
+8464,2008,Canada,Quebec,Soybeans,2867.76,21.16,1.701,7,69.53,11.53,4.82,33.72,Pertanian Organik
+8465,2004,Argentina,Northeast,Wheat,1022.19,28.52,3.564,9,73.33,42.5,58.01,69.86,Rotasi Tanaman
+8466,2000,USA,Midwest,Cotton,270.02,17.99,2.169,5,15.29,38.25,84.04,55.75,Tanaman Tahan Kekeringan
+8467,2010,Argentina,Northwest,Corn,2536.51,7.58,2.19,6,87.54,15.96,33.84,78.8,Manajemen Air
+8468,2018,France,'Grand Est',Sugarcane,1046.54,18.58,1.8,6,63.23,0.93,80.21,73.21,Tanaman Tahan Kekeringan
+8469,2019,Argentina,Northwest,Wheat,1922.68,27.52,3.411,3,74.91,0.15,65.28,49.1,Tanpa Adaptasi
+8470,1998,India,Punjab,Fruits,2476.59,7.14,1.86,1,67.42,36.58,48.01,48.72,Rotasi Tanaman
+8471,2014,Nigeria,'North West',Vegetables,1420.41,15.3,1.818,4,31.44,32.82,59.21,49.31,Pertanian Organik
+8472,2016,France,Nouvelle-Aquitaine,Cotton,2950.1,5.76,2.3,7,56.49,25.33,70.54,61.58,Manajemen Air
+8473,2020,Canada,Quebec,Rice,1722.3,18.08,3.744,3,26.48,41.97,9.47,49.11,Tanaman Tahan Kekeringan
+8474,2013,Argentina,Patagonia,Cotton,1711.78,28.79,4.257,1,82.99,6.7,28.63,99.32,Pertanian Organik
+8475,2001,Russia,Siberian,Sugarcane,2711,11.94,4.84,7,32.07,1.16,31.33,81.77,Tanpa Adaptasi
+8476,1992,Australia,Victoria,Sugarcane,2528.36,3.05,2.14,3,78.34,44.39,91.71,91.78,Manajemen Air
+8477,1998,USA,South,Coffee,2582.43,9.84,0.73,0,87.69,44.88,25.07,92.77,Manajemen Air
+8478,2018,Russia,Volga,Wheat,864.92,0.55,0.85,1,57.39,22.96,44.63,75.49,Rotasi Tanaman
+8479,2003,Canada,Ontario,Vegetables,1441.35,0.86,1.23,5,66.34,29.28,96.7,30.27,Tanpa Adaptasi
+8480,2007,Nigeria,'South West',Coffee,1187.91,0.62,3.94,3,25.18,2.55,86.38,47.58,Tanaman Tahan Kekeringan
+8481,2005,Nigeria,'South West',Fruits,1881.27,9.73,2.17,2,72.13,14.99,95.19,37.32,Manajemen Air
+8482,2018,Argentina,Patagonia,Fruits,2724.46,20.98,2.286,4,87.28,6.46,35.87,96.26,Tanpa Adaptasi
+8483,2011,Canada,'British Columbia',Rice,2100.4,1.21,1.66,3,52.25,22.3,27.5,77.49,Tanpa Adaptasi
+8484,2009,Argentina,Northwest,Corn,1391.54,24.09,1.557,1,66.54,12.6,58.9,64.56,Tanpa Adaptasi
+8485,2020,France,'Grand Est',Sugarcane,1022.1,29.61,1.764,10,77.72,14.03,57.44,96.21,Tanpa Adaptasi
+8486,1993,France,Ile-de-France,Fruits,2979.15,16.85,0.747,7,70.48,42.12,25.29,87.18,Tanpa Adaptasi
+8487,2009,India,Punjab,Rice,2556.22,14.19,3.81,1,31.95,41.25,28.54,90.28,Rotasi Tanaman
+8488,2012,France,'Provence-Alpes-Cote d’Azur',Coffee,2121.73,2.71,2.44,5,67.6,5.22,70.83,94.74,Pertanian Organik
+8489,1999,Russia,Central,Soybeans,2800.79,6.62,1.75,1,77.14,44.15,93.43,43.05,Pertanian Organik
+8490,1995,Brazil,North,Soybeans,479.67,5.59,1.899,2,39.64,40.66,6.44,62.6,Tanaman Tahan Kekeringan
+8491,2008,China,East,Vegetables,2602.06,10.9,0.96,5,80.48,6.24,81.76,35.12,Manajemen Air
+8492,2000,Russia,Central,Soybeans,2780.43,21.56,1.305,9,31.07,48.48,2.68,43.9,Manajemen Air
+8493,2005,Nigeria,'North West',Vegetables,1381.96,27.67,1.179,9,27.98,7.08,88.57,54.03,Pertanian Organik
+8494,1999,Argentina,Pampas,Rice,571.09,14.61,3.93,10,37.82,44.33,61.26,32.2,Pertanian Organik
+8495,2021,Brazil,North,Sugarcane,1033.31,7.22,2.06,0,88.11,27.33,37.69,81.77,Rotasi Tanaman
+8496,2022,France,Nouvelle-Aquitaine,Wheat,1807.01,15.74,1.584,9,20.98,35.43,1.34,52.41,Tanaman Tahan Kekeringan
+8497,1991,Nigeria,'North West',Corn,844.5,14.41,2.63,5,40.84,21.28,42.82,55.15,Tanpa Adaptasi
+8498,1997,Australia,Queensland,Fruits,1674.4,15.23,4.383,8,53.03,11.63,94.67,39.78,Rotasi Tanaman
+8499,2005,Argentina,Northeast,Rice,873,19.25,1.314,0,95.36,18.7,49.61,33.95,Rotasi Tanaman
+8500,1992,Russia,Northwestern,Coffee,2152.43,2.27,2.77,3,55.81,4.64,84.7,88.67,Rotasi Tanaman
+8501,1993,USA,Northeast,Fruits,2516.3,13.46,2.03,10,42.64,20.22,81.55,93.36,Tanaman Tahan Kekeringan
+8502,2019,China,South,Rice,318.86,10.99,1.647,0,78.69,14.53,27.11,75.78,Manajemen Air
+8503,2023,Argentina,Patagonia,Fruits,1136.98,7.91,1.1,3,90.75,35.59,68.02,52.95,Rotasi Tanaman
+8504,2008,Argentina,Patagonia,Sugarcane,1524.19,2.64,3.66,9,56.53,9.41,92.69,40.92,Manajemen Air
+8505,1997,USA,Northeast,Soybeans,1178.99,2.49,1.33,1,46.12,3.82,56.68,54.04,Manajemen Air
+8506,1991,India,Punjab,Vegetables,878.38,17.03,1.242,1,93.61,48.18,41.93,40.45,Tanpa Adaptasi
+8507,2010,China,South,Wheat,1485.92,8.86,2.48,7,87.1,2.33,49.04,31.46,Tanpa Adaptasi
+8508,2015,Russia,Central,Fruits,1778.26,27.25,1.773,7,40.36,6.76,24.27,62.87,Tanpa Adaptasi
+8509,2022,Brazil,Northeast,Sugarcane,264.17,6.9,3.51,2,46.85,39.86,62.6,76.02,Tanaman Tahan Kekeringan
+8510,2002,France,Nouvelle-Aquitaine,Cotton,2179.58,5.9,3.74,3,60.02,46.67,68.67,78.81,Tanaman Tahan Kekeringan
+8511,2005,Russia,Central,Soybeans,1582.6,14.74,2.52,9,99.97,8.3,62.7,58.02,Tanaman Tahan Kekeringan
+8512,1992,USA,West,Sugarcane,683.16,28.51,2.853,9,73.84,20.82,59.08,55.05,Tanaman Tahan Kekeringan
+8513,2019,USA,Northeast,Sugarcane,1271.52,24.23,0.864,7,45.23,3.81,10.05,90.88,Tanaman Tahan Kekeringan
+8514,1996,Brazil,Southeast,Barley,2852.97,11.36,3.32,10,27.41,19.05,65.72,94.4,Manajemen Air
+8515,2000,China,Central,Wheat,2309.81,26.58,3.348,3,21.38,19.4,26.86,87.2,Tanaman Tahan Kekeringan
+8516,2005,USA,West,Barley,1795.96,22.65,2.853,9,53.52,37.18,71.63,81.81,Manajemen Air
+8517,2012,China,East,Soybeans,336.66,19.52,3.294,1,29.78,38.28,1.45,91.55,Pertanian Organik
+8518,2024,Australia,'Western Australia',Corn,2210.97,8.25,3.15,5,61.37,45.92,46.75,49.25,Tanpa Adaptasi
+8519,2023,Australia,Queensland,Vegetables,2564.54,14.16,3.25,3,91.62,32.09,6.42,37.78,Rotasi Tanaman
+8520,2007,Argentina,Patagonia,Coffee,292.74,3.81,1.377,8,38.48,48.03,18.6,56.43,Tanaman Tahan Kekeringan
+8521,2000,Nigeria,'North West',Corn,355.44,7.96,4.473,6,33.89,38.66,67.81,72.7,Tanpa Adaptasi
+8522,2021,Australia,Victoria,Wheat,1306.09,28.26,2.286,5,83.92,37.16,66.79,54.72,Pertanian Organik
+8523,2003,France,Ile-de-France,Cotton,1819.47,7.62,3.82,6,87.99,36.28,74.59,42.72,Rotasi Tanaman
+8524,2002,Australia,'Western Australia',Cotton,2496.66,13.61,2.83,1,16.61,6.56,65.42,42.97,Tanaman Tahan Kekeringan
+8525,1996,China,North,Soybeans,1333.32,4.7,1.27,0,50.47,47.57,14.71,42.22,Rotasi Tanaman
+8526,2013,India,'West Bengal',Cotton,1106.47,22.76,2.187,7,32.61,44.62,75.87,39.1,Tanaman Tahan Kekeringan
+8527,2020,India,Punjab,Sugarcane,267.14,26.89,2.295,6,27.79,5.88,89.68,55.22,Pertanian Organik
+8528,2020,Brazil,Southeast,Wheat,2763.39,26.48,0.531,5,12.09,24.35,11.83,66.05,Rotasi Tanaman
+8529,1997,Nigeria,'South West',Rice,1385.65,25.79,2.43,6,80.98,28.51,67.93,33.14,Rotasi Tanaman
+8530,2021,Russia,Northwestern,Coffee,1095.96,11.66,1.94,0,47.84,6.18,42.09,93.26,Manajemen Air
+8531,1999,China,East,Barley,1715.42,14.53,2.1,7,95.01,10.94,31.87,83.8,Pertanian Organik
+8532,1997,Australia,Victoria,Wheat,1466.28,9.3,0.97,5,92.51,22.02,72.04,45.35,Pertanian Organik
+8533,2015,Brazil,South,Corn,2711.81,4.16,1.25,7,90.3,23.04,55.39,99.77,Tanpa Adaptasi
+8534,2003,France,'Provence-Alpes-Cote d’Azur',Soybeans,2355.89,14.51,1.48,4,43.08,10.73,77.61,90.71,Tanpa Adaptasi
+8535,1990,China,Central,Vegetables,750.4,22.04,1.125,8,29.54,18.38,97.67,72.34,Manajemen Air
+8536,1999,Canada,'British Columbia',Sugarcane,2098.29,11.94,2.28,9,90.11,21.24,32.21,64.68,Tanaman Tahan Kekeringan
+8537,2007,Australia,Queensland,Cotton,2965.89,5.81,1.52,6,55.77,16.93,70.4,54.72,Tanaman Tahan Kekeringan
+8538,1991,France,Nouvelle-Aquitaine,Cotton,1009.82,17.19,2.169,0,28.25,25.74,95.7,31.49,Manajemen Air
+8539,2023,Canada,Ontario,Sugarcane,886.9,27.58,0.936,3,45.2,34.74,59.51,69.65,Rotasi Tanaman
+8540,2004,Brazil,Southeast,Cotton,2795.89,2.46,3.31,9,94.05,48.95,81.22,50.53,Pertanian Organik
+8541,2017,Argentina,Patagonia,Rice,2557.78,15.74,1.53,0,26.39,20.13,2.11,99.88,Tanaman Tahan Kekeringan
+8542,2003,USA,Northeast,Coffee,2332.68,21.36,1.386,5,46.8,30.33,85.85,33.4,Tanaman Tahan Kekeringan
+8543,1991,Brazil,Northeast,Wheat,2574.11,14.85,3.82,9,26.26,22.44,56.72,48.95,Tanaman Tahan Kekeringan
+8544,2020,France,Nouvelle-Aquitaine,Corn,1926.4,2,2.79,10,27.13,43.04,10.44,67.19,Pertanian Organik
+8545,2022,Brazil,South,Vegetables,2365.25,22.4,3.96,6,14.82,18.06,26.38,76.4,Tanpa Adaptasi
+8546,2006,Canada,'British Columbia',Vegetables,300.34,19.76,2.574,10,29,36.86,2,60.4,Manajemen Air
+8547,1999,Nigeria,'North West',Corn,424.84,17.55,3.384,5,59.23,17.76,86.75,93.36,Manajemen Air
+8548,2016,Nigeria,'South East',Barley,2128.68,20.97,3.483,1,79.63,37.27,16.96,62.68,Manajemen Air
+8549,2013,Nigeria,'North Central',Cotton,2212.2,18.09,3.222,9,92.7,25.34,35.93,41.04,Tanaman Tahan Kekeringan
+8550,2000,China,North,Soybeans,319.74,5.07,1.521,5,21.71,45.89,56.84,96.81,Pertanian Organik
+8551,2005,Canada,Ontario,Soybeans,537.64,1.7,4.2,3,96.5,17.4,86.42,96.97,Pertanian Organik
+8552,2018,France,'Grand Est',Fruits,319.03,8.59,1.683,6,30.03,37.98,74.96,93.65,Tanpa Adaptasi
+8553,2022,Canada,Quebec,Coffee,1492.89,7.24,2.14,5,72.81,38.15,12.31,54.22,Manajemen Air
+8554,2018,Argentina,Northeast,Soybeans,1985.15,11.56,3.55,2,68.36,32.4,3.6,54.4,Tanaman Tahan Kekeringan
+8555,2022,India,'West Bengal',Wheat,1004.6,27.34,2.403,9,11.79,23.76,48.44,34.84,Tanaman Tahan Kekeringan
+8556,1995,Brazil,South,Corn,504.49,26.69,0.738,8,56.53,46.21,54.14,56.23,Tanpa Adaptasi
+8557,1994,Brazil,South,Sugarcane,1938.23,23.71,0.828,7,22.53,30.81,37.42,45.3,Manajemen Air
+8558,2009,India,'West Bengal',Rice,1945.13,2.81,3.22,3,84.68,8.06,34.97,35.24,Rotasi Tanaman
+8559,2000,Nigeria,'North West',Rice,1404.1,10.44,2.43,0,85.26,24.41,5.04,39.84,Tanpa Adaptasi
+8560,2007,India,Punjab,Coffee,2339.64,6.42,0.96,6,32.42,48.97,42.79,60.61,Pertanian Organik
+8561,2002,France,'Provence-Alpes-Cote d’Azur',Soybeans,1832.38,28.02,1.953,9,32.9,34.28,89.31,76.52,Rotasi Tanaman
+8562,2014,Australia,'New South Wales',Vegetables,1065.76,7.35,1.51,9,59.13,7.96,37.86,74.74,Tanaman Tahan Kekeringan
+8563,2018,China,North,Wheat,340.65,19.15,3.222,7,67.74,0.05,29.35,53.63,Rotasi Tanaman
+8564,2014,Australia,Victoria,Fruits,2564.94,15.51,4.401,6,69.67,18.6,67.89,51.72,Manajemen Air
+8565,2006,Brazil,South,Vegetables,537.33,25.35,1.17,0,47.54,39.46,32.99,74.68,Pertanian Organik
+8566,1990,Australia,Victoria,Corn,229.38,11.21,0.774,6,71.68,3.75,57.22,77.84,Manajemen Air
+8567,2023,Russia,Volga,Coffee,1198.73,11.78,2.39,9,20.73,17.7,20.38,82.52,Tanaman Tahan Kekeringan
+8568,2024,USA,Midwest,Coffee,2675.61,24.05,0.765,3,68.12,36.67,7.94,78.48,Tanaman Tahan Kekeringan
+8569,2023,India,Punjab,Sugarcane,2879.63,0.98,3.73,4,80.15,9.98,24.58,71.75,Pertanian Organik
+8570,2020,India,'Tamil Nadu',Wheat,834.96,13.15,2.31,1,44.95,33.14,78.84,87.47,Rotasi Tanaman
+8571,1993,Brazil,Northeast,Wheat,1462.56,6.12,0.69,6,34.94,43.08,5.64,90.62,Pertanian Organik
+8572,2024,Russia,Central,Vegetables,1225.36,29.97,2.403,9,11.92,37.83,55.32,56.46,Manajemen Air
+8573,2004,India,Punjab,Vegetables,1160.56,16.49,3.321,3,36.44,39.72,99.88,77.14,Tanaman Tahan Kekeringan
+8574,1990,China,South,Corn,1996.64,25.18,1.917,6,29.34,47.74,25.22,96.74,Tanpa Adaptasi
+8575,2024,Argentina,Northeast,Sugarcane,879.98,29.72,1.737,7,72.81,14.48,72,59.79,Manajemen Air
+8576,2019,Nigeria,'South West',Cotton,2278.03,6.27,1.66,2,83.38,46.14,93.08,62.9,Pertanian Organik
+8577,2009,Australia,Queensland,Vegetables,2738.61,15.9,2.592,5,72.32,22.11,20.89,80.6,Rotasi Tanaman
+8578,2009,Canada,Ontario,Wheat,706.07,29.74,0.918,6,67.61,32.39,83.95,91.35,Pertanian Organik
+8579,1997,France,Nouvelle-Aquitaine,Soybeans,1648.36,12.18,0.69,7,21.16,24.45,80.04,56.85,Tanpa Adaptasi
+8580,1994,Russia,Volga,Corn,2127.98,9.67,2.14,6,39.66,12.63,26.31,86.58,Tanaman Tahan Kekeringan
+8581,2020,Nigeria,'North Central',Vegetables,816.76,2.07,1.92,6,32.9,30.6,70.96,31.51,Tanpa Adaptasi
+8582,2002,Argentina,Northwest,Cotton,737.91,18.88,1.872,2,17.85,44.95,32.98,61.07,Tanaman Tahan Kekeringan
+8583,2015,Australia,'Western Australia',Sugarcane,1180.17,8.66,2.31,10,78.07,26.46,19.76,53.24,Tanpa Adaptasi
+8584,1992,China,North,Wheat,391.24,17.41,1.593,9,79.3,35.72,74.84,70.78,Manajemen Air
+8585,1997,Australia,Queensland,Corn,1485.48,21.77,2.16,4,23.79,18.99,24.45,36.62,Pertanian Organik
+8586,1998,Nigeria,'North Central',Corn,2307.57,13.14,1.28,2,58.25,41.77,97.54,82.19,Rotasi Tanaman
+8587,1994,Nigeria,'North Central',Corn,2490.86,26.27,2.439,6,36.39,31.07,80.92,68.79,Tanpa Adaptasi
+8588,2013,India,Punjab,Fruits,2348.91,22.64,2.277,9,62.14,49.19,99.28,40.97,Rotasi Tanaman
+8589,2024,Brazil,Southeast,Coffee,1141.42,22.02,2.61,9,77.38,38.3,77.23,70.81,Manajemen Air
+8590,1999,Brazil,North,Coffee,1233.5,24.84,2.763,4,40.55,16.18,62.47,34.39,Tanaman Tahan Kekeringan
+8591,1999,Argentina,Northwest,Cotton,1622.03,16.54,2.043,10,90.13,10.7,13.48,86.93,Tanpa Adaptasi
+8592,2018,Nigeria,'North West',Fruits,2621.58,17.75,2.268,2,32.43,24.78,9,51.31,Pertanian Organik
+8593,1995,Russia,Siberian,Barley,238.97,17.82,0.99,7,90.05,11.4,24.5,65.03,Tanpa Adaptasi
+8594,2023,France,'Provence-Alpes-Cote d’Azur',Corn,533.48,26.26,1.845,3,67.88,45.87,53.52,32.26,Rotasi Tanaman
+8595,2005,Nigeria,'North West',Cotton,533.49,20.01,0.945,3,55.68,19.73,89.84,83.67,Rotasi Tanaman
+8596,2002,Nigeria,'South West',Sugarcane,903.44,25.47,1.215,5,43.28,19.54,81.41,85.86,Tanaman Tahan Kekeringan
+8597,2008,China,Central,Vegetables,2735.8,17.4,3.474,3,97.92,27.11,16.57,60.1,Rotasi Tanaman
+8598,2014,Russia,Central,Fruits,2287.81,20.58,3.483,5,22.07,14.76,29.47,52.28,Rotasi Tanaman
+8599,1995,Canada,Quebec,Rice,853.69,21.76,4.014,5,42.56,0.23,29.51,71.32,Tanpa Adaptasi
+8600,1990,France,Ile-de-France,Coffee,2102.28,16.42,2.448,0,51.34,44.54,79.02,91.99,Tanpa Adaptasi
+8601,1999,Russia,Northwestern,Barley,1353.77,13.37,2.69,10,85.99,45.25,35.08,94.23,Manajemen Air
+8602,2004,Brazil,Southeast,Cotton,2163.86,24.52,2.655,0,79.63,35.84,41.23,70.04,Rotasi Tanaman
+8603,2008,Australia,Victoria,Soybeans,1130.79,1.59,1.31,1,57.51,17.61,48.24,36.05,Rotasi Tanaman
+8604,2018,Argentina,Patagonia,Coffee,886,2.79,2.52,8,59.32,15.77,55.34,49.85,Pertanian Organik
+8605,2021,USA,Northeast,Fruits,1604.76,16.8,2.448,6,69.73,1,62.91,39.33,Rotasi Tanaman
+8606,2012,Australia,'New South Wales',Cotton,509.86,8.02,2.58,3,88.95,42.26,74.56,56.09,Tanaman Tahan Kekeringan
+8607,1993,Australia,Queensland,Corn,1677.08,18.61,1.953,4,49.39,2.28,6.64,35.59,Tanpa Adaptasi
+8608,2013,USA,West,Wheat,2274.72,4.89,3.54,7,76.93,37.03,9.64,31.2,Tanaman Tahan Kekeringan
+8609,2016,France,'Provence-Alpes-Cote d’Azur',Soybeans,2107.3,2.15,3.44,3,61.53,28.76,60.02,67.53,Rotasi Tanaman
+8610,2005,Argentina,Northeast,Cotton,2636.28,3.2,3.11,6,59.37,2.42,77.23,38.63,Manajemen Air
+8611,1999,Russia,Volga,Corn,2315.05,11.18,2.14,6,30.56,29.15,87.68,51.45,Tanaman Tahan Kekeringan
+8612,2023,China,South,Coffee,2849.39,10.63,1.01,8,22.35,40.22,77.36,62.31,Manajemen Air
+8613,2016,USA,West,Coffee,2097.41,25.01,3.294,5,40.41,31.97,31.54,99.74,Pertanian Organik
+8614,2000,Australia,Victoria,Cotton,2232.71,5.05,2.73,0,38.91,4.63,82.54,80.47,Tanpa Adaptasi
+8615,2006,Brazil,South,Sugarcane,1076.61,10.11,1.58,7,25.12,30.39,63.56,87.49,Rotasi Tanaman
+8616,2008,Australia,Victoria,Coffee,1535.55,8.64,3.79,0,13.04,28.19,72.4,68.21,Manajemen Air
+8617,1999,Australia,'New South Wales',Soybeans,2558.88,13.98,2.27,3,84.22,36.21,7.95,79.01,Rotasi Tanaman
+8618,2007,China,Central,Wheat,1061.47,17,3.231,3,67.22,28.33,1.88,45.18,Rotasi Tanaman
+8619,2019,France,Ile-de-France,Fruits,2824.02,13.29,2.43,3,23.73,26.96,63.56,69.89,Tanpa Adaptasi
+8620,2010,Canada,'British Columbia',Wheat,496.5,19.85,1.962,6,75.22,37.12,63.52,98.54,Manajemen Air
+8621,1996,Brazil,Northeast,Sugarcane,644.16,23.25,1.755,8,23.83,33.25,78.24,85.7,Pertanian Organik
+8622,2015,India,Maharashtra,Coffee,752.97,2.22,3.08,1,55.57,7.21,97,67.96,Rotasi Tanaman
+8623,2016,Argentina,Pampas,Sugarcane,2862.03,14.8,2.85,1,39.35,19.91,7.94,89.7,Pertanian Organik
+8624,2007,China,East,Vegetables,2733.72,10.49,1.24,3,79.53,45.2,91.93,74.01,Pertanian Organik
+8625,2023,China,Central,Soybeans,875.17,18.95,2.871,2,80.46,5.24,83.22,74.97,Rotasi Tanaman
+8626,2013,China,South,Sugarcane,1738.17,18.99,1.557,8,40.82,29.34,34.56,72.76,Tanpa Adaptasi
+8627,1990,Australia,Victoria,Corn,1361.51,3.8,1.69,2,87.67,11.55,8.96,80.41,Manajemen Air
+8628,2003,Russia,Siberian,Corn,2163.38,13.38,2.38,4,82.5,34.37,76.43,93.96,Pertanian Organik
+8629,1990,Nigeria,'South East',Fruits,503.99,3.82,2.45,4,79.86,18.98,75.03,62.18,Tanaman Tahan Kekeringan
+8630,2010,USA,Northeast,Vegetables,955.7,28.09,3.951,1,92.56,6.76,82.06,89.29,Tanaman Tahan Kekeringan
+8631,2016,Canada,Ontario,Coffee,2125.85,8.9,2.47,9,91.81,14.25,63.05,31.97,Pertanian Organik
+8632,2017,France,Ile-de-France,Soybeans,1036.78,6.3,4.77,1,86.7,20.02,64.6,58.75,Rotasi Tanaman
+8633,2013,India,Punjab,Coffee,2508.71,14.44,1.96,3,71.52,37.89,88.11,96.39,Tanpa Adaptasi
+8634,2014,Nigeria,'South West',Barley,831.6,6.16,2.15,10,19.16,44.69,91.18,69.01,Tanpa Adaptasi
+8635,2000,Nigeria,'North Central',Corn,2013.66,14.9,2.9,0,37.47,5.28,80.59,50.48,Tanaman Tahan Kekeringan
+8636,2005,Argentina,Pampas,Corn,1845.24,27.88,3.249,6,29.43,17.43,68.56,85.48,Pertanian Organik
+8637,2012,USA,South,Barley,1937.08,20.92,1.998,1,32.78,1.96,44.36,91.91,Pertanian Organik
+8638,2014,India,Maharashtra,Fruits,1997.78,10.98,2.76,8,98.1,31.29,16.63,35.51,Pertanian Organik
+8639,1994,USA,Northeast,Fruits,2333.11,7.27,1.82,1,33.52,44.84,50.75,79.21,Tanpa Adaptasi
+8640,2019,Nigeria,'North Central',Corn,1486.35,29.26,2.394,2,39.34,38.5,27.81,34.32,Rotasi Tanaman
+8641,2018,Russia,Northwestern,Fruits,2446.01,9.55,1.71,10,91.04,5.26,76.3,34.31,Rotasi Tanaman
+8642,2022,Australia,'Western Australia',Rice,2953.54,3.66,2.11,2,92.94,3.15,94.48,65.31,Tanpa Adaptasi
+8643,2024,Nigeria,'South East',Vegetables,1174.19,6.43,1.22,7,71.74,3.29,59.39,40.45,Tanpa Adaptasi
+8644,1991,India,'Tamil Nadu',Sugarcane,2178.73,25.54,1.98,3,40.3,35.17,94.37,72.72,Tanaman Tahan Kekeringan
+8645,1994,Brazil,South,Barley,2826.37,14.68,1.31,3,62.9,13.01,3.12,37.58,Rotasi Tanaman
+8646,1997,France,Ile-de-France,Fruits,2174.25,17.6,1.935,6,77.2,15.5,71.26,38.4,Tanaman Tahan Kekeringan
+8647,2013,France,'Grand Est',Barley,2536.15,27.34,3.186,10,67.43,30.13,63.09,73.75,Manajemen Air
+8648,2017,Canada,Prairies,Coffee,2916.23,25.2,2.016,8,99.86,48.93,60.09,60.1,Rotasi Tanaman
+8649,2014,Nigeria,'South West',Soybeans,522.61,27.49,1.44,8,65.78,44.55,63.77,74.9,Pertanian Organik
+8650,1990,France,'Provence-Alpes-Cote d’Azur',Vegetables,2161.28,25.89,1.629,10,83.88,11.28,76.99,72.7,Tanpa Adaptasi
+8651,1998,Russia,Northwestern,Sugarcane,1166.86,13.34,2.54,10,53.01,5.8,72.86,48.37,Tanpa Adaptasi
+8652,2019,Argentina,Patagonia,Wheat,2432.88,14.56,4.87,10,73.27,20.18,6.68,71.26,Pertanian Organik
+8653,2007,China,East,Vegetables,904.9,23.21,1.404,8,45.28,24.06,14.12,68.92,Manajemen Air
+8654,2023,Australia,'New South Wales',Rice,425.8,7.5,2.232,9,97.86,2.41,76.71,51.21,Rotasi Tanaman
+8655,2019,Australia,Victoria,Sugarcane,2645.95,13.42,4.97,3,97.85,44.08,76.63,30.59,Pertanian Organik
+8656,2011,Brazil,Northeast,Rice,858.44,16.38,1.584,7,88.44,21.8,23.7,36.12,Tanpa Adaptasi
+8657,2010,Argentina,Northwest,Cotton,510.13,17.71,2.466,9,71.63,1.49,46.07,57.73,Tanaman Tahan Kekeringan
+8658,2014,Argentina,Northwest,Rice,2701.97,11.55,3.92,5,31.09,2.31,0.18,62.86,Tanpa Adaptasi
+8659,1994,Canada,Prairies,Wheat,608.12,28.31,1.971,2,57.7,28.61,72.14,45.32,Tanaman Tahan Kekeringan
+8660,1992,Canada,'British Columbia',Vegetables,2559.79,29.17,0.684,9,73.29,47.98,57.95,53,Rotasi Tanaman
+8661,2001,China,Central,Soybeans,1961.3,12.23,1.1,9,17.25,1.35,85.17,61.98,Manajemen Air
+8662,2009,Russia,Central,Sugarcane,1454.22,1.14,2.44,10,39.06,26.6,49.22,71.71,Tanaman Tahan Kekeringan
+8663,2009,Nigeria,'South East',Soybeans,2928.25,9.9,1.89,6,26.88,22.99,80.79,89.27,Rotasi Tanaman
+8664,2012,Australia,Victoria,Barley,2624.4,29.25,2.448,7,23.11,21.03,93.14,82.3,Manajemen Air
+8665,2017,France,Nouvelle-Aquitaine,Sugarcane,1737.17,2.18,3.34,9,97.28,32.71,87.77,48.51,Rotasi Tanaman
+8666,2013,France,'Grand Est',Wheat,2585.68,25.34,2.862,1,18.32,32.15,99.05,61.36,Tanpa Adaptasi
+8667,2011,India,'West Bengal',Corn,820.32,21.56,1.377,6,67.25,6.4,90.19,79.99,Rotasi Tanaman
+8668,2002,USA,South,Coffee,1630.31,17.67,1.701,7,58.19,37.76,79.35,31.01,Manajemen Air
+8669,2022,Australia,Queensland,Fruits,1958.5,7.23,1.04,8,21.93,23.32,52.22,79.22,Pertanian Organik
+8670,2006,Argentina,Northwest,Coffee,1544.68,6.45,3.79,3,62.19,30.1,42.99,76.25,Manajemen Air
+8671,2018,France,'Provence-Alpes-Cote d’Azur',Rice,1516.83,28.32,3.672,3,73.28,1.17,90.84,90.49,Tanaman Tahan Kekeringan
+8672,1993,Brazil,North,Barley,867.12,1.39,3.85,5,36.45,4.67,76.43,48.97,Pertanian Organik
+8673,2016,Brazil,Southeast,Coffee,1062.84,14.94,2.19,6,91.15,11.16,90.48,64.6,Manajemen Air
+8674,2012,India,Punjab,Sugarcane,2425.38,5.08,2.52,3,18.39,25.04,57.97,88.5,Manajemen Air
+8675,1996,China,East,Sugarcane,1167.2,11.37,2.6,1,82.07,27.98,28.05,42.14,Tanpa Adaptasi
+8676,2000,India,'West Bengal',Fruits,2032.71,17.78,2.07,5,44.13,42.48,25.94,51.83,Tanpa Adaptasi
+8677,2020,Australia,Victoria,Cotton,2337.11,21.93,0.99,10,88.27,34.12,36.35,50.86,Tanaman Tahan Kekeringan
+8678,2005,Canada,Ontario,Barley,1449.51,25.22,1.782,0,53.7,21.19,1.19,99.52,Tanaman Tahan Kekeringan
+8679,2013,Russia,Central,Fruits,824.53,21.28,1.53,5,58.55,38.88,72.31,68.34,Pertanian Organik
+8680,2021,France,Ile-de-France,Rice,2161.53,5.68,4.52,5,73.98,5.32,7.82,60.23,Manajemen Air
+8681,1994,Russia,Northwestern,Rice,1115.66,17.61,1.638,0,48.55,47.24,51.9,32.58,Tanpa Adaptasi
+8682,2004,USA,Northeast,Barley,654.55,6.36,1.9,3,88.18,12.41,72.36,58,Tanpa Adaptasi
+8683,1991,USA,West,Rice,2994.24,21.16,2.169,5,64.33,9.39,76.31,55.66,Manajemen Air
+8684,2018,USA,Northeast,Sugarcane,1723.81,23.63,1.341,8,55.61,29.12,31.35,30.4,Tanaman Tahan Kekeringan
+8685,2016,Brazil,North,Corn,2450.73,28.87,3.096,9,49.4,41.51,59.8,92.05,Manajemen Air
+8686,2016,China,South,Fruits,1433.51,7.19,2.92,3,98.25,49,28.29,94.12,Rotasi Tanaman
+8687,1998,China,Central,Wheat,2615.49,25.62,2.952,9,84.42,42.68,43.49,97.79,Manajemen Air
+8688,2014,France,'Provence-Alpes-Cote d’Azur',Wheat,881.74,25.55,3.384,8,48.44,45.97,77.39,96.41,Manajemen Air
+8689,2017,France,Nouvelle-Aquitaine,Vegetables,691.04,25.83,2.322,1,49.85,21.85,43.65,60.23,Manajemen Air
+8690,1997,Brazil,South,Wheat,295.72,15.89,1.881,7,92.69,28.94,71.69,37.47,Manajemen Air
+8691,1995,Brazil,Southeast,Soybeans,1565.69,28.47,1.053,1,77.08,35.65,61.36,51.38,Pertanian Organik
+8692,2020,USA,Northeast,Soybeans,2693.53,28.09,3.177,6,91.78,5.76,32.7,75.53,Pertanian Organik
+8693,2012,India,'Tamil Nadu',Rice,2662.65,9.61,1,1,23.1,20.81,98.14,79.42,Tanaman Tahan Kekeringan
+8694,2008,India,'Tamil Nadu',Soybeans,2611.47,25.62,1.98,9,55.49,6.14,13.34,57.08,Manajemen Air
+8695,2000,Canada,'British Columbia',Rice,2342.3,4.23,1.37,4,60.67,12,81.82,83.14,Tanpa Adaptasi
+8696,2016,France,Nouvelle-Aquitaine,Cotton,1834.08,16.76,3.636,0,15.73,44.68,57.63,55.87,Rotasi Tanaman
+8697,2010,Russia,Central,Corn,2193.45,3.86,1.15,4,79.1,41.07,20.29,44.8,Rotasi Tanaman
+8698,1996,Australia,Queensland,Cotton,1885.89,24.5,1.521,10,14.99,12.09,74.68,65.61,Tanaman Tahan Kekeringan
+8699,2003,India,Maharashtra,Wheat,399.11,23.37,0.954,5,67.59,37.99,90.18,93.49,Pertanian Organik
+8700,1995,Canada,Ontario,Sugarcane,2526.65,28.7,1.611,8,74.05,34.07,25.84,98.42,Rotasi Tanaman
+8701,2010,USA,Northeast,Corn,645.31,5.56,1.27,8,67.07,43.72,35.35,92.54,Rotasi Tanaman
+8702,2005,Canada,'British Columbia',Vegetables,2576.07,15.59,2.286,4,51.26,13.03,41.58,89.57,Pertanian Organik
+8703,2009,Canada,Quebec,Fruits,2392.78,28.16,4.14,9,54.45,45.64,75.18,93.13,Tanaman Tahan Kekeringan
+8704,1999,Argentina,Northeast,Corn,478.83,4.86,1.404,4,75.37,41.05,98.98,63.28,Rotasi Tanaman
+8705,2010,Russia,Northwestern,Corn,2114.71,29.53,1.557,3,51.24,46.94,69.08,34.04,Tanpa Adaptasi
+8706,2010,Argentina,Patagonia,Barley,1101.92,14.96,1.99,10,59.55,25.43,39.1,34.42,Tanpa Adaptasi
+8707,2003,Russia,Central,Corn,1486.41,24.5,0.981,0,22.37,32.97,40.98,46.31,Rotasi Tanaman
+8708,2008,Brazil,South,Wheat,1572.68,13.46,0.96,10,43.32,5.52,29.5,77.85,Rotasi Tanaman
+8709,2017,Australia,Victoria,Sugarcane,1444.93,2.38,2.67,8,42.59,23.18,83.77,71.82,Tanpa Adaptasi
+8710,1991,USA,West,Corn,401.85,29.16,1.044,9,87.59,30.32,43.28,43.82,Manajemen Air
+8711,1994,Russia,Siberian,Corn,1352.23,6.4,4.06,9,95.35,11.25,99.29,60.5,Rotasi Tanaman
+8712,1997,Argentina,Northeast,Wheat,1107.07,4.59,2.32,10,97.4,32.93,48.59,44.05,Pertanian Organik
+8713,2018,Russia,Siberian,Vegetables,1094.43,20.74,1.395,8,28.72,28.96,36.96,60.16,Tanpa Adaptasi
+8714,2023,Brazil,North,Cotton,2477.7,19.65,2.925,0,19.61,19.91,40.25,60.45,Rotasi Tanaman
+8715,2021,India,'Tamil Nadu',Cotton,2472.54,3.64,2.53,7,72.51,44.22,69.46,74.41,Pertanian Organik
+8716,2014,Australia,Victoria,Soybeans,2667.6,11.41,1.6,2,72.67,36.81,16.67,74.25,Rotasi Tanaman
+8717,2023,Nigeria,'North West',Sugarcane,1542.6,24.39,2.826,4,98.53,2.91,91.82,72.78,Tanaman Tahan Kekeringan
+8718,2010,Brazil,South,Corn,2019.71,19.58,1.305,2,39.8,13.31,7.31,52.13,Rotasi Tanaman
+8719,1991,Argentina,Northeast,Fruits,2781.15,7.31,2.62,1,56.6,36.76,24.19,41.53,Rotasi Tanaman
+8720,1992,Canada,'British Columbia',Vegetables,979.06,22.58,2.421,5,90.1,20.58,31.35,60.8,Pertanian Organik
+8721,2013,USA,South,Vegetables,2389.92,4.55,2.32,6,66.51,20.38,82.01,82.47,Tanaman Tahan Kekeringan
+8722,1997,USA,Midwest,Rice,930.38,1.25,1.97,1,21.34,44.75,98.62,83.89,Tanaman Tahan Kekeringan
+8723,2020,China,Central,Sugarcane,1204.36,15.99,3.33,4,44.75,19.41,68.06,87.28,Tanpa Adaptasi
+8724,2015,Canada,Ontario,Soybeans,2741.19,4.77,2.03,2,14.01,47.29,39.9,45.26,Rotasi Tanaman
+8725,2017,USA,West,Vegetables,2819.15,23.08,2.304,1,49.63,38.66,48.11,37.12,Tanpa Adaptasi
+8726,2020,Argentina,Patagonia,Soybeans,324.27,25.44,1.242,5,12.63,6.2,66.2,38.85,Manajemen Air
+8727,1993,France,'Grand Est',Cotton,2963,15.89,3.015,10,90.01,45.42,97.86,64.64,Tanaman Tahan Kekeringan
+8728,2021,Brazil,Northeast,Rice,2942.99,8.34,1.86,5,56.83,1.86,45.09,76.45,Rotasi Tanaman
+8729,2014,China,North,Soybeans,1013.04,6.06,1.55,8,40.52,32.37,72.63,63.06,Manajemen Air
+8730,2005,Argentina,Northeast,Wheat,1012.39,4.94,3.92,6,68.01,40.94,69.45,60.48,Tanaman Tahan Kekeringan
+8731,2018,Russia,Volga,Wheat,444.7,4.74,3.537,2,91.04,16.73,31.8,30.74,Tanpa Adaptasi
+8732,2021,Nigeria,'North Central',Wheat,1122.47,10.41,4.76,2,80.64,29.27,80.15,62,Rotasi Tanaman
+8733,2010,USA,South,Rice,1861.13,2.88,0.83,1,97.86,36.13,57.51,99.21,Pertanian Organik
+8734,2016,Argentina,Northeast,Fruits,896.1,13.95,3.97,2,37.21,32.51,11.25,67.11,Tanaman Tahan Kekeringan
+8735,2022,China,South,Fruits,2280.55,22.39,0.945,1,93.29,25.57,38.23,39.24,Manajemen Air
+8736,2007,India,Maharashtra,Soybeans,2778.33,6.69,2.22,3,21.05,8.57,86.83,91.5,Tanaman Tahan Kekeringan
+8737,2010,Canada,Quebec,Barley,1195.83,2.52,0.87,5,66.34,39.29,16.85,83.51,Tanpa Adaptasi
+8738,2021,Brazil,North,Corn,2651.27,9.01,3.54,0,22.19,20.99,50.63,41.6,Rotasi Tanaman
+8739,2014,Brazil,Northeast,Wheat,2072.54,7.58,1.09,4,57.31,15.75,35.7,45.75,Pertanian Organik
+8740,2009,Argentina,Northeast,Sugarcane,849.51,8.91,1.88,7,24.44,11.58,39.79,95.57,Pertanian Organik
+8741,2004,China,Central,Rice,1879.76,26.8,3.357,5,83,43.75,35.7,56.27,Tanaman Tahan Kekeringan
+8742,2001,France,Nouvelle-Aquitaine,Vegetables,2399.24,22.06,1.278,8,26.68,2.01,70.78,71.12,Manajemen Air
+8743,1995,Canada,Ontario,Soybeans,338.35,29.43,2.961,8,32.31,1.25,14.39,36.53,Tanpa Adaptasi
+8744,2011,India,Maharashtra,Vegetables,2356.99,4.35,1.88,0,55.34,34.92,5.32,34.45,Tanaman Tahan Kekeringan
+8745,1993,Nigeria,'South East',Cotton,2208.96,8.33,1.13,8,95.32,4.99,43.89,30.83,Rotasi Tanaman
+8746,2023,Russia,Central,Vegetables,690.48,24.64,0.846,10,74.83,16.25,28.38,89.63,Pertanian Organik
+8747,1990,Australia,Victoria,Cotton,2213.43,1.39,3.74,7,95.94,6.39,1.58,34.68,Tanaman Tahan Kekeringan
+8748,2012,Australia,'New South Wales',Cotton,674.99,22.17,0.738,3,57.56,1.47,13.85,32.89,Rotasi Tanaman
+8749,2000,Canada,Quebec,Soybeans,2937.44,24.14,0.657,3,46.7,34.09,7.92,57.92,Rotasi Tanaman
+8750,2020,Argentina,Patagonia,Sugarcane,2461.92,21.82,4.104,1,65.37,46.55,30.58,45.28,Tanpa Adaptasi
+8751,1992,China,East,Coffee,2301.11,13.93,2.21,10,41.75,49.76,86.06,35.89,Manajemen Air
+8752,2015,Canada,Ontario,Vegetables,1859.82,26.59,4.041,7,19.84,9.18,78.35,37.03,Manajemen Air
+8753,2002,USA,West,Wheat,952.47,13.88,2.56,2,93.01,4.4,25.64,55.21,Manajemen Air
+8754,1990,USA,Midwest,Coffee,773.59,29.09,2.772,10,27.67,8.73,80.53,80.16,Rotasi Tanaman
+8755,2022,Russia,Northwestern,Corn,759.76,11.18,2.78,7,75.94,4.88,8.51,67.77,Pertanian Organik
+8756,2014,Nigeria,'South West',Barley,1067.25,9.32,0.53,1,38.68,25.69,27.28,67.78,Tanpa Adaptasi
+8757,2005,Russia,Siberian,Coffee,2245.89,28.29,2.583,0,79.64,22.64,13.31,70.57,Rotasi Tanaman
+8758,2006,Argentina,Pampas,Barley,2378.76,10.43,2.14,0,72.69,47.48,69.3,45.45,Rotasi Tanaman
+8759,1994,China,East,Soybeans,968.53,27.19,1.62,9,62.61,48.97,32.73,58.02,Manajemen Air
+8760,2003,France,Nouvelle-Aquitaine,Fruits,2237.12,22.86,3.276,10,34.41,35.43,41.63,33.39,Pertanian Organik
+8761,1994,China,Central,Corn,2042.7,4.88,1.52,8,93.98,42.48,52.78,65.33,Tanpa Adaptasi
+8762,2011,Nigeria,'South West',Vegetables,1687.48,25.68,3.852,7,58.81,12.96,53.38,55.55,Tanpa Adaptasi
+8763,2019,India,'West Bengal',Fruits,2741.68,7.91,1.74,10,35.05,45.26,42.16,93.52,Pertanian Organik
+8764,1995,Argentina,Northeast,Fruits,784.39,29.78,2.673,8,14.14,22.1,78.06,99.75,Manajemen Air
+8765,2014,China,East,Soybeans,1119.46,7.32,1.2,5,24.77,18.89,88.18,43.45,Pertanian Organik
+8766,1992,France,Nouvelle-Aquitaine,Vegetables,2040.52,26.26,1.755,4,20.63,2.53,91.05,72.41,Pertanian Organik
+8767,2002,Argentina,Northeast,Cotton,2493.34,6.94,1.05,6,71.95,33.79,91.06,34.41,Manajemen Air
+8768,2004,France,'Provence-Alpes-Cote d’Azur',Wheat,2027.51,1.79,3.84,4,59.49,20.89,42.35,79.6,Tanaman Tahan Kekeringan
+8769,2011,Nigeria,'South West',Sugarcane,1751.14,11.2,2.8,0,67.56,18.2,95.47,38.83,Rotasi Tanaman
+8770,1992,Argentina,Northeast,Wheat,200.15,29.63,1.656,2,77.35,49.48,40.16,44.24,Pertanian Organik
+8771,2018,France,Nouvelle-Aquitaine,Soybeans,1222.15,12.84,4.68,6,35.41,47.54,69.64,54.43,Tanpa Adaptasi
+8772,2022,Brazil,South,Rice,1471.88,13.33,0.9,9,54.32,46.66,20.13,57.19,Tanpa Adaptasi
+8773,2006,Canada,'British Columbia',Sugarcane,2977.2,27,1.386,3,78.8,8.23,77.57,58.65,Tanaman Tahan Kekeringan
+8774,2014,Australia,Queensland,Fruits,889.31,26.23,4.491,5,10.31,10.56,46.5,37.14,Tanaman Tahan Kekeringan
+8775,2004,Brazil,Northeast,Rice,206.74,29.95,1.854,2,63.19,48.59,5.47,57.2,Tanpa Adaptasi
+8776,2023,France,'Provence-Alpes-Cote d’Azur',Soybeans,2311.18,18.92,2.511,10,34.45,22.75,95.8,63.84,Manajemen Air
+8777,2023,Canada,'British Columbia',Coffee,321.36,12.44,1.899,2,64.29,0.94,23.66,92.45,Rotasi Tanaman
+8778,1990,Russia,Northwestern,Cotton,1129.05,21.32,1.368,7,32.72,41.09,5.36,95.11,Pertanian Organik
+8779,2014,China,East,Barley,2141.7,28.08,3.132,5,18.43,5.75,60.87,69.78,Rotasi Tanaman
+8780,1995,Brazil,Southeast,Vegetables,1542.18,7.1,1.07,3,50.16,35.7,78.17,73.68,Pertanian Organik
+8781,2008,Russia,Northwestern,Fruits,2713.68,26.17,1.269,5,61.71,12.35,55.66,79.26,Pertanian Organik
+8782,1997,India,Maharashtra,Soybeans,1984.28,3.48,1.79,3,48.58,45.42,98.01,55.81,Tanaman Tahan Kekeringan
+8783,2008,USA,Northeast,Barley,240.85,0.88,2.493,7,69.99,47.07,45.68,67.92,Rotasi Tanaman
+8784,2006,Australia,'New South Wales',Coffee,706.45,15.78,2.727,9,99.28,13.68,92.08,97.23,Manajemen Air
+8785,1991,Nigeria,'North Central',Vegetables,1942.15,13.16,0.88,0,70.36,6.91,46.42,33.15,Tanpa Adaptasi
+8786,1992,Argentina,Pampas,Fruits,612.69,27.62,0.738,9,18.48,11.79,14.27,79.23,Tanaman Tahan Kekeringan
+8787,2013,India,Maharashtra,Corn,1027.19,9.18,2.01,5,40.41,1.03,27.01,98.05,Pertanian Organik
+8788,2010,France,Nouvelle-Aquitaine,Wheat,1672.49,25.99,1.854,10,96.46,41.86,4.01,71.89,Manajemen Air
+8789,2012,Nigeria,'North West',Barley,2218.57,18.92,0.756,3,74.43,21.41,16.21,67.71,Tanpa Adaptasi
+8790,1994,Argentina,Northwest,Fruits,1967.48,23.88,2.043,0,38.98,34.24,69.09,50.78,Tanpa Adaptasi
+8791,1994,Australia,'New South Wales',Vegetables,2352.54,3.39,1.79,1,57.77,19.88,79.67,60.57,Rotasi Tanaman
+8792,2011,Brazil,Southeast,Rice,1241.06,15.18,3.177,7,21.41,3.7,10.83,99.05,Tanaman Tahan Kekeringan
+8793,2004,France,Nouvelle-Aquitaine,Vegetables,1931.27,1.4,3.57,8,14.4,12.41,86.17,33.94,Rotasi Tanaman
+8794,2009,France,'Provence-Alpes-Cote d’Azur',Barley,746.54,14.06,0.82,9,32.88,37.44,37.39,49.53,Rotasi Tanaman
+8795,2005,Australia,Queensland,Vegetables,864.01,20.75,0.612,6,75.72,3.76,8.11,54.09,Manajemen Air
+8796,2010,France,'Grand Est',Wheat,268.71,18.5,1.53,4,69.64,31.3,92.38,91.57,Tanaman Tahan Kekeringan
+8797,2005,China,East,Coffee,2145.55,17.21,2.286,7,50.56,44.06,15.42,92.47,Pertanian Organik
+8798,2004,Australia,Victoria,Corn,1319.21,12.21,1.46,10,22.82,27.21,32.95,80.93,Rotasi Tanaman
+8799,1993,USA,South,Soybeans,1459.81,16.13,2.862,9,21.97,34.37,36.37,63.64,Tanpa Adaptasi
+8800,2003,Nigeria,'North West',Wheat,868.37,11.84,1.51,7,76.19,3.73,50.55,97.63,Manajemen Air
+8801,2002,Canada,Prairies,Corn,2121.51,8.15,2.32,10,17.71,11,44.11,98.56,Pertanian Organik
+8802,2023,Nigeria,'North West',Corn,1605.89,17.98,1.944,10,69.82,10.68,48.62,67.61,Tanpa Adaptasi
+8803,2003,France,Nouvelle-Aquitaine,Soybeans,2949.33,12.02,1.98,2,36.49,37.86,82.92,77.43,Tanaman Tahan Kekeringan
+8804,1999,Argentina,Northeast,Fruits,273.9,1.22,2.277,9,18.71,39.47,6.75,57.36,Tanpa Adaptasi
+8805,1997,USA,Midwest,Wheat,1874.08,3.67,3.14,5,12.63,18.49,32.62,50.63,Tanpa Adaptasi
+8806,1997,France,'Grand Est',Rice,1841.78,2.3,2.55,7,72.73,11.57,20.17,33.82,Rotasi Tanaman
+8807,2009,Nigeria,'North West',Barley,2973.29,6.21,3.99,1,80.44,16.12,89.33,88.71,Rotasi Tanaman
+8808,2004,Australia,'New South Wales',Sugarcane,2231.79,16.44,0.594,9,48.7,34.53,50.01,49.97,Manajemen Air
+8809,2010,Nigeria,'South East',Vegetables,435.62,29.86,1.044,6,66.12,19.61,2.61,78.57,Tanaman Tahan Kekeringan
+8810,2004,Russia,Siberian,Sugarcane,2119.7,12.18,2.49,6,58.55,37.56,8.67,73.46,Pertanian Organik
+8811,2020,India,Punjab,Sugarcane,1108.25,25.75,3.231,0,83.89,41.02,23.73,43.69,Tanpa Adaptasi
+8812,2022,India,Maharashtra,Soybeans,2793.27,13.26,3.55,0,92.74,45.68,13.31,75.87,Pertanian Organik
+8813,2012,Nigeria,'South East',Soybeans,637.39,27.99,1.359,6,47.76,11.42,87.1,55.07,Tanpa Adaptasi
+8814,1994,Argentina,Pampas,Cotton,401.35,7.62,1.305,1,66.25,49.73,98.35,54.21,Tanaman Tahan Kekeringan
+8815,2016,Australia,'New South Wales',Barley,1148.11,25.7,0.864,1,67.17,38.83,36.62,49,Tanaman Tahan Kekeringan
+8816,2007,Argentina,Patagonia,Wheat,943.05,1.35,2.97,7,13.33,34.4,61.01,48.37,Rotasi Tanaman
+8817,1991,China,East,Barley,497.86,2.35,1.251,6,85.08,35.76,92.13,69.02,Manajemen Air
+8818,2014,India,'West Bengal',Fruits,1863.7,2.38,1.1,8,75.28,49.53,94.51,41.65,Tanpa Adaptasi
+8819,2018,China,East,Sugarcane,1761.86,20.13,1.566,6,33.9,6.59,22.01,84.87,Tanpa Adaptasi
+8820,2003,Australia,'New South Wales',Vegetables,420.63,18.89,2.268,9,31.64,42.08,39.52,38.21,Pertanian Organik
+8821,1997,Australia,Queensland,Barley,1099.83,27.33,1.521,5,24.96,44.24,2.18,48.1,Manajemen Air
+8822,1999,Nigeria,'North West',Rice,674.74,19.69,1.557,5,52.68,30.51,54.23,75.01,Rotasi Tanaman
+8823,1995,USA,South,Rice,2281.18,12.5,3.25,6,46.05,43.74,10.68,43.8,Tanaman Tahan Kekeringan
+8824,2019,Russia,Central,Wheat,2572.06,7.19,4.08,10,61.97,29.36,7.24,70.17,Pertanian Organik
+8825,2005,Canada,Ontario,Sugarcane,2266.43,22.76,2.709,10,17.04,39.05,92.98,92.85,Manajemen Air
+8826,2016,Argentina,Patagonia,Fruits,1718.73,9.48,2.39,9,85.36,43.73,82.03,60.19,Rotasi Tanaman
+8827,2008,USA,South,Rice,445.86,28.55,0.702,0,92.98,38.8,15.39,42.5,Pertanian Organik
+8828,2014,USA,Midwest,Barley,824.04,6.69,2.77,5,34.2,11.31,96.81,36.57,Rotasi Tanaman
+8829,2006,India,Maharashtra,Fruits,1309.15,1.47,4.6,8,78.51,17.96,45.35,46.26,Manajemen Air
+8830,1990,India,'West Bengal',Cotton,1026.42,0.72,1.77,5,98.48,5.78,90.66,68.9,Tanaman Tahan Kekeringan
+8831,2008,China,North,Rice,2992.49,16.39,3.177,8,71.31,24.58,93.64,47.12,Manajemen Air
+8832,2022,Russia,Volga,Sugarcane,232.98,10.67,1.917,7,84.53,37.18,30.68,40.32,Rotasi Tanaman
+8833,2002,China,East,Coffee,875.46,16.22,0.45,6,50.46,18.85,99.68,32.91,Tanaman Tahan Kekeringan
+8834,1999,USA,Northeast,Vegetables,2074.31,11.78,0.98,0,55.85,24.74,93.39,77.87,Pertanian Organik
+8835,1997,India,'Tamil Nadu',Soybeans,2157.76,29.19,3.465,7,15.87,9.9,50.01,49.04,Rotasi Tanaman
+8836,2000,Canada,Prairies,Sugarcane,753.36,2.99,3.59,5,45.06,38.7,32.11,71.65,Pertanian Organik
+8837,2006,Argentina,Pampas,Rice,2541.77,20.97,1.89,3,24.03,35.67,8.05,58.32,Pertanian Organik
+8838,1994,China,North,Rice,1887.75,25.89,2.268,3,38.5,37.97,37.17,69.13,Tanaman Tahan Kekeringan
+8839,2002,Brazil,North,Rice,569.05,27.85,3.321,5,59.31,29.42,85.45,96.06,Rotasi Tanaman
+8840,2004,Canada,'British Columbia',Cotton,389.7,4.32,2.574,0,65.12,12.35,75.17,48.57,Tanpa Adaptasi
+8841,2017,Argentina,Northwest,Rice,664.3,11.12,4.2,7,67.68,44.99,9.98,53.07,Rotasi Tanaman
+8842,2022,Argentina,Northeast,Cotton,1067.6,29.69,0.684,3,36.61,49.31,86.8,33.1,Rotasi Tanaman
+8843,1994,China,Central,Rice,1773.79,21.99,1.152,2,36.64,6.23,69.73,51.28,Pertanian Organik
+8844,2017,Russia,Volga,Vegetables,1892.46,27.26,1.215,8,22.82,34.54,37.18,73.83,Pertanian Organik
+8845,2001,India,'West Bengal',Rice,722.54,15.46,1.593,0,51.13,0.72,97.98,82.41,Manajemen Air
+8846,2004,Argentina,Northeast,Soybeans,2294.15,22.03,0.972,7,44.77,14.7,89.88,49.14,Rotasi Tanaman
+8847,2018,Canada,Prairies,Sugarcane,2964.36,1.89,4.83,2,42.84,0.91,47.54,41.75,Tanaman Tahan Kekeringan
+8848,2001,Argentina,Northwest,Wheat,1549.97,10.79,3.47,10,19.52,38.79,88.3,78.61,Manajemen Air
+8849,1990,Russia,Siberian,Soybeans,2111.83,21.4,2.115,8,35.7,30.78,30.7,34.22,Tanaman Tahan Kekeringan
+8850,1992,India,'West Bengal',Vegetables,2090.66,16.36,2.349,6,56.48,36.53,36.2,99.95,Manajemen Air
+8851,2021,China,Central,Vegetables,1116.67,2.54,2.13,7,70.75,8,95.25,85.58,Rotasi Tanaman
+8852,1995,India,'Tamil Nadu',Corn,2264.28,7.07,2.72,9,42.69,47.35,45.28,86.68,Pertanian Organik
+8853,2024,Brazil,Northeast,Vegetables,2056.69,22.62,3.663,5,97.5,34.35,48.55,99.86,Tanaman Tahan Kekeringan
+8854,1992,China,East,Barley,1694.5,27.78,3.51,1,35.57,1.99,46.88,71.71,Tanpa Adaptasi
+8855,1994,USA,Northeast,Fruits,395,28.8,0.666,1,45.99,17.58,43.4,92.57,Pertanian Organik
+8856,2012,China,Central,Corn,2250.7,1.96,3.25,10,98.2,39.35,67.52,64.04,Manajemen Air
+8857,2011,USA,Midwest,Rice,541.69,26.95,0.657,2,53.17,34.35,66.42,55.12,Rotasi Tanaman
+8858,2004,Nigeria,'North Central',Soybeans,2888.98,1.66,3.07,0,83.96,41.84,3.2,40.23,Tanaman Tahan Kekeringan
+8859,2024,India,'West Bengal',Fruits,1562.77,17.51,1.071,10,73.53,11.56,33.71,30.1,Pertanian Organik
+8860,1999,Argentina,Northwest,Rice,1183.24,25.33,2.259,6,49.01,3.41,61.32,83.06,Tanaman Tahan Kekeringan
+8861,2021,India,Punjab,Coffee,2027.43,20.87,2.466,4,73.15,35.27,55.36,35.98,Tanpa Adaptasi
+8862,2017,USA,South,Cotton,1100.07,7,3.97,5,61.5,4.27,85.87,74.67,Rotasi Tanaman
+8863,2018,Nigeria,'North West',Corn,2452.42,15.02,1.278,9,59.67,35.65,79.37,93.15,Rotasi Tanaman
+8864,2022,Russia,Volga,Corn,1954.63,13.23,0.58,4,23.44,15.32,13.8,38.81,Rotasi Tanaman
+8865,1990,Australia,'New South Wales',Corn,2400.93,22.41,1.665,4,50.9,8.18,31.08,98.27,Tanaman Tahan Kekeringan
+8866,2017,France,'Provence-Alpes-Cote d’Azur',Rice,599.55,1.05,1.23,1,89.04,27.3,65.27,83,Tanaman Tahan Kekeringan
+8867,2004,India,Maharashtra,Sugarcane,1874.77,28.65,2.799,4,86.38,4.53,69.39,32.6,Tanaman Tahan Kekeringan
+8868,2012,Brazil,North,Cotton,2451.51,14.22,0.93,3,53.16,48.77,65.01,30.4,Manajemen Air
+8869,2022,France,'Grand Est',Barley,1886.25,22.07,1.053,6,23.48,3.25,20.82,39.11,Manajemen Air
+8870,1990,Australia,Victoria,Cotton,1340.3,26.18,2.511,3,99.25,12.53,84.01,70.35,Pertanian Organik
+8871,1992,India,'West Bengal',Wheat,2553.17,3.48,2.29,10,67.29,47.98,25.83,62.31,Manajemen Air
+8872,2006,Russia,Central,Sugarcane,2766.72,1.07,2.28,5,53.3,8.61,73.25,79.92,Pertanian Organik
+8873,2017,USA,South,Vegetables,1180.23,27.83,2.502,1,82.71,40.92,43.58,60.75,Pertanian Organik
+8874,2004,Australia,Victoria,Rice,2975.05,7.95,3.64,7,54.87,22.72,42.9,78.61,Tanpa Adaptasi
+8875,2009,China,North,Wheat,2227.9,3.63,2.86,1,98.35,10.77,97.71,87.21,Manajemen Air
+8876,2019,Nigeria,'South East',Cotton,2375.37,12.67,2.32,3,29.05,26.29,83.87,30.32,Rotasi Tanaman
+8877,2020,Russia,Volga,Corn,519.75,27.63,0.981,6,14.85,29.21,89.22,77.68,Tanpa Adaptasi
+8878,1991,France,Nouvelle-Aquitaine,Vegetables,1042.89,25.23,2.187,0,23.04,22.06,45.56,78.6,Tanaman Tahan Kekeringan
+8879,1990,China,East,Fruits,2859.51,14.9,2.82,1,12.14,46.42,81.36,89.11,Manajemen Air
+8880,2003,Brazil,Northeast,Vegetables,960.96,22.63,1.386,6,70.65,23.12,27,49.02,Tanpa Adaptasi
+8881,2015,Brazil,Southeast,Wheat,1858.11,5.24,1.59,0,42.47,44.39,69.17,57.99,Rotasi Tanaman
+8882,2000,China,South,Rice,773.47,29.58,2.376,5,97.2,19.35,52.65,64.97,Rotasi Tanaman
+8883,1995,Brazil,Southeast,Wheat,2200.06,26.67,2.097,6,54.21,7.16,1.25,32.34,Tanaman Tahan Kekeringan
+8884,2007,Brazil,North,Wheat,2426.37,18.04,0.801,4,60.3,15.43,15.76,70.94,Manajemen Air
+8885,2008,Canada,Prairies,Corn,1658.66,27.11,4.014,4,36.38,32.99,42.28,30.14,Tanpa Adaptasi
+8886,2019,Argentina,Northeast,Wheat,1011.16,26.29,3.258,0,93.84,30.8,27.37,90.23,Tanaman Tahan Kekeringan
+8887,1994,Nigeria,'South East',Wheat,808.47,0.94,0.95,10,46.87,41.42,62.32,53.83,Pertanian Organik
+8888,2015,Nigeria,'North West',Fruits,2685.16,3.11,2.94,9,54.04,1.19,88.79,85.7,Rotasi Tanaman
+8889,2020,Brazil,North,Coffee,1674.62,13.58,2.78,4,34.42,43.84,26.31,56.34,Tanpa Adaptasi
+8890,2008,Argentina,Pampas,Sugarcane,749.57,13.69,3.35,1,27.19,14.2,2.5,51.86,Rotasi Tanaman
+8891,2021,Canada,Quebec,Wheat,1274.89,15.3,2.88,8,74.69,42.66,45.19,82.38,Rotasi Tanaman
+8892,2015,China,Central,Coffee,1384.21,26.19,2.934,4,99.73,30.13,82.69,86.2,Manajemen Air
+8893,2010,Brazil,Northeast,Rice,1464.77,6.45,1.99,0,24.88,19.63,21.58,46.29,Pertanian Organik
+8894,2007,Brazil,South,Rice,593.57,13.74,1.07,9,76.95,33.91,54.88,49.17,Tanpa Adaptasi
+8895,2012,India,Maharashtra,Corn,663.86,15.97,0.801,7,93.1,20.49,98.42,87.52,Manajemen Air
+8896,2020,Canada,Quebec,Wheat,284.2,27.79,1.809,8,74.9,16.72,14.33,89.25,Rotasi Tanaman
+8897,2019,Argentina,Northeast,Rice,2065.78,25.27,2.232,9,45.68,31.6,20.52,48.29,Rotasi Tanaman
+8898,1995,USA,South,Cotton,2832.54,7.27,2.24,6,32.78,14.9,58.61,67.91,Pertanian Organik
+8899,2014,Brazil,North,Coffee,1643.44,4.25,0.57,1,98.08,38.58,78.29,71.42,Pertanian Organik
+8900,2001,Australia,'New South Wales',Fruits,1683.91,9.13,2.53,6,21.96,4.63,76.82,85.27,Tanpa Adaptasi
+8901,2022,France,Nouvelle-Aquitaine,Corn,1515.03,13.4,1.05,3,92.98,16.85,58.7,53.68,Tanaman Tahan Kekeringan
+8902,2000,Brazil,North,Barley,2473.26,14.46,1.79,0,18.01,26.6,24.81,71.06,Manajemen Air
+8903,2010,USA,Midwest,Cotton,1634.98,29.36,1.278,5,87.63,19.44,88.33,31.48,Rotasi Tanaman
+8904,2016,Canada,Quebec,Rice,692.85,27.68,4.284,5,23.14,1.43,65.53,89.04,Pertanian Organik
+8905,2013,France,Nouvelle-Aquitaine,Wheat,2308.78,29.48,2.808,6,81.06,49.45,41.57,88.97,Tanpa Adaptasi
+8906,2020,China,Central,Fruits,2882.32,6.2,2.44,7,38.93,29.58,79.68,42.18,Tanaman Tahan Kekeringan
+8907,2013,China,South,Cotton,1934.63,2.28,1.95,9,16.92,39.14,81.81,59.48,Tanpa Adaptasi
+8908,2024,USA,Northeast,Rice,2360.04,21.58,1.224,5,45.83,9.1,24.34,35.09,Pertanian Organik
+8909,2013,Canada,Ontario,Cotton,828.98,15.13,3.6,7,97.42,21.76,17.33,70.65,Rotasi Tanaman
+8910,2014,Russia,Central,Wheat,1800.93,14.49,3.91,2,64.19,3.62,21.15,86.54,Tanaman Tahan Kekeringan
+8911,2015,Nigeria,'North West',Sugarcane,1782.33,8.8,2.87,3,11.24,43.2,35.52,75.63,Pertanian Organik
+8912,2006,Canada,Ontario,Cotton,2478.17,20.02,2.376,6,72.06,22.12,44.21,92.78,Tanpa Adaptasi
+8913,2010,USA,Midwest,Vegetables,2501.13,15.7,2.763,0,48.26,45.87,67.17,51.81,Pertanian Organik
+8914,1996,China,Central,Corn,1439.79,13.04,2.73,1,52.61,18.59,27.92,41.62,Tanpa Adaptasi
+8915,1991,France,Nouvelle-Aquitaine,Rice,1038.47,26.09,3.375,4,66.1,46.12,35.25,42.5,Pertanian Organik
+8916,2024,France,Ile-de-France,Corn,2667.58,28.66,4.311,3,47.67,30.69,10.51,40.95,Tanpa Adaptasi
+8917,2024,USA,Northeast,Coffee,974.91,14.66,1.54,0,14.41,47.89,66.05,39.63,Rotasi Tanaman
+8918,1997,Brazil,North,Cotton,612.95,10.58,3.46,7,99.7,42.57,68.2,58.44,Pertanian Organik
+8919,2015,France,'Grand Est',Barley,803.96,26.77,2.259,2,62.01,48.3,22.17,36.99,Pertanian Organik
+8920,1999,Nigeria,'South West',Sugarcane,1094.51,11.81,3.57,9,34.79,45.65,13.06,95.35,Pertanian Organik
+8921,2001,France,'Grand Est',Vegetables,1148.55,26.91,2.061,3,73.33,33.68,4.68,66.14,Pertanian Organik
+8922,2020,China,South,Wheat,1339.14,10.59,1.24,10,20.92,9.33,33.39,78.61,Rotasi Tanaman
+8923,2003,France,Ile-de-France,Cotton,1929.13,2.54,3.87,6,79.09,40.56,79.56,55.17,Tanpa Adaptasi
+8924,2012,India,Punjab,Vegetables,2015.55,19.05,1.242,10,41.7,42.01,34.91,96.24,Tanaman Tahan Kekeringan
+8925,1991,Nigeria,'South East',Coffee,1780.56,4.55,1.81,4,77.32,9.85,92.82,93.63,Tanpa Adaptasi
+8926,1996,France,Ile-de-France,Rice,1613.16,19.08,1.854,7,69.72,21.84,99.37,40.85,Rotasi Tanaman
+8927,1993,USA,West,Soybeans,2386.45,12.73,3.75,10,54.82,16.61,84.88,60.42,Manajemen Air
+8928,2010,Nigeria,'South East',Vegetables,1236.29,23.97,2.916,4,98.33,11.58,95.62,99.94,Tanaman Tahan Kekeringan
+8929,1994,France,Ile-de-France,Corn,580.64,20.66,1.674,5,48.92,9.19,37.31,54.51,Pertanian Organik
+8930,2010,Nigeria,'South East',Vegetables,1972.87,4.08,1.02,8,82.68,13.72,8.49,34.64,Tanaman Tahan Kekeringan
+8931,2004,USA,Northeast,Soybeans,1972.15,1.46,1.93,8,58.78,25.82,51.87,69.06,Tanpa Adaptasi
+8932,1998,India,Punjab,Corn,2882.02,15.62,1.584,9,32.23,47.3,90.87,66.17,Tanpa Adaptasi
+8933,2009,India,Punjab,Barley,796.18,26.5,3.636,6,20.2,16.13,11.57,80.24,Pertanian Organik
+8934,2003,France,'Provence-Alpes-Cote d’Azur',Cotton,1664.99,15.58,4.041,0,38.23,23.41,49.39,53.09,Pertanian Organik
+8935,2019,China,South,Vegetables,739.28,22.89,2.97,4,66.34,11.79,0.73,58.21,Tanaman Tahan Kekeringan
+8936,2023,France,Ile-de-France,Sugarcane,2007.26,11.8,2.12,5,60.04,33.51,27.27,37.71,Rotasi Tanaman
+8937,1993,Argentina,Pampas,Barley,1542.5,5.86,3.85,7,65.03,43.62,92.96,39.76,Tanpa Adaptasi
+8938,1990,Argentina,Pampas,Fruits,2526.82,25.76,0.927,9,85.92,3.46,66.44,51.59,Tanpa Adaptasi
+8939,2020,Australia,'Western Australia',Sugarcane,1251.05,5.38,1.63,4,47.47,45.07,67.44,46.62,Rotasi Tanaman
+8940,2016,India,'West Bengal',Fruits,1498.73,22.73,3.33,3,95.07,29.69,3.42,88.53,Pertanian Organik
+8941,2023,Canada,Quebec,Rice,2766.78,29.12,3.231,1,26.89,30.96,19.12,84.67,Manajemen Air
+8942,2020,USA,Northeast,Barley,2907.56,13.5,1.46,7,89.73,40.95,53.04,37.72,Manajemen Air
+8943,2011,China,East,Corn,1484.12,29.67,1.764,4,56.18,35.13,49.24,42.02,Tanpa Adaptasi
+8944,2014,Canada,'British Columbia',Sugarcane,2912.07,3.11,3.15,3,47.01,9.53,37.42,47.72,Tanaman Tahan Kekeringan
+8945,1995,Nigeria,'South East',Coffee,2308.26,12.08,2.04,10,53.87,18.49,11.9,37.4,Tanpa Adaptasi
+8946,2018,Australia,Victoria,Barley,1627.01,1.16,1.52,4,62.58,47.16,70.68,55.12,Pertanian Organik
+8947,2002,China,East,Cotton,2154.21,23.4,1.197,8,51.32,46.8,25.91,77.67,Tanaman Tahan Kekeringan
+8948,1998,USA,South,Corn,1564.04,28.92,2.268,9,85.6,3.79,84.38,56.56,Manajemen Air
+8949,2016,Russia,Volga,Rice,2188.12,14.67,2.9,8,66,42.57,18.46,75.59,Pertanian Organik
+8950,2008,Russia,Siberian,Sugarcane,1998.6,17.81,0.576,1,65.02,13.08,96.55,64.88,Rotasi Tanaman
+8951,2014,Australia,'New South Wales',Barley,960.18,10.15,1.64,8,28.57,27.76,91.47,90.96,Pertanian Organik
+8952,2004,Brazil,North,Soybeans,1788.53,22.32,1.278,5,75.32,37.29,42.78,48.48,Pertanian Organik
+8953,2021,China,Central,Rice,2458.78,15.74,3.411,8,15.87,11.84,85.79,86.61,Tanpa Adaptasi
+8954,2011,Russia,Central,Cotton,2593.67,5.68,1.65,7,55.36,31.94,53.65,59.53,Manajemen Air
+8955,2017,India,'Tamil Nadu',Rice,917.26,16.93,1.566,0,76.86,41.65,5.9,33.24,Rotasi Tanaman
+8956,2008,Russia,Northwestern,Wheat,1918.22,22.59,2.907,7,93.08,12.25,83.31,30.51,Tanaman Tahan Kekeringan
+8957,2010,India,'Tamil Nadu',Rice,378.61,21.62,1.809,8,75.14,12.84,67.63,81.61,Tanaman Tahan Kekeringan
+8958,2023,Russia,Volga,Soybeans,1759.64,5.03,1.19,1,48.63,4.69,94.45,87.08,Pertanian Organik
+8959,2023,Russia,Northwestern,Coffee,538.66,12.53,0.94,5,77.74,25.44,54.25,41.35,Rotasi Tanaman
+8960,2011,France,Ile-de-France,Soybeans,1460.49,12.4,2.01,3,87.77,19.08,19.54,84.13,Tanaman Tahan Kekeringan
+8961,2010,Nigeria,'South West',Sugarcane,747.15,0.73,1,10,11.55,25.61,65.03,81.61,Tanpa Adaptasi
+8962,2006,Argentina,Pampas,Rice,1009.8,19.37,1.395,0,15.71,47.84,59.36,80.06,Tanpa Adaptasi
+8963,1991,China,East,Wheat,2439.05,9.86,4.79,6,27.81,38.14,54.45,94.62,Manajemen Air
+8964,2016,India,'Tamil Nadu',Fruits,1845.35,13.26,2.8,1,22.68,45.76,35.35,65.37,Rotasi Tanaman
+8965,1996,France,'Grand Est',Wheat,841.29,28.23,2.655,10,23.78,31.96,65.7,72.01,Manajemen Air
+8966,2002,Russia,Siberian,Vegetables,528.5,3.22,0.86,10,94.12,35.43,45.13,76.51,Tanpa Adaptasi
+8967,1994,India,'Tamil Nadu',Corn,1903.96,23.48,1.845,4,14.36,42.95,20.02,39.66,Pertanian Organik
+8968,2006,China,South,Rice,2478.47,28.98,2.124,6,47.25,10.42,98.47,97.2,Pertanian Organik
+8969,2009,India,Maharashtra,Barley,1364.67,25.08,2.106,5,85.9,17.39,27.24,77.78,Manajemen Air
+8970,2011,China,South,Cotton,1591.33,14,0.91,7,32.99,35.12,41.84,88.38,Manajemen Air
+8971,1997,Nigeria,'South West',Soybeans,2984.77,10.22,1.68,6,41.27,29.33,21.3,79.59,Pertanian Organik
+8972,2009,USA,West,Fruits,2323.33,3.37,4.51,0,26.37,34.74,54.35,87.86,Tanaman Tahan Kekeringan
+8973,2024,Australia,'New South Wales',Corn,1562.72,16.31,2.979,3,41.27,16.01,49.72,42.63,Tanpa Adaptasi
+8974,1995,China,South,Soybeans,390.78,12.37,2.358,6,97.43,33.59,98.7,71.05,Tanaman Tahan Kekeringan
+8975,2017,USA,Northeast,Vegetables,600.65,1.67,2.29,3,39.03,36.11,88.97,60.65,Tanaman Tahan Kekeringan
+8976,2011,India,'Tamil Nadu',Wheat,854.35,18.42,1.773,0,56.56,40.75,9.5,93.13,Tanaman Tahan Kekeringan
+8977,2012,Argentina,Northeast,Sugarcane,1820.53,9.84,3.04,4,51.18,31.03,84.88,55.55,Rotasi Tanaman
+8978,1993,Australia,Queensland,Fruits,2172.04,25.07,1.386,10,11.71,34.88,70.44,92.45,Rotasi Tanaman
+8979,2018,Argentina,Patagonia,Wheat,1525.84,4.9,3.21,10,78.49,45.26,98.63,99.92,Manajemen Air
+8980,2002,China,South,Soybeans,2365.52,14.64,2.66,2,70.15,21.12,10.79,77.84,Tanaman Tahan Kekeringan
+8981,1997,Canada,Ontario,Fruits,489.84,28.47,0.81,3,12.25,38.18,23.87,43.77,Tanpa Adaptasi
+8982,2016,Nigeria,'North Central',Fruits,510.96,28.95,2.718,9,33.78,17.75,75.59,88.99,Tanaman Tahan Kekeringan
+8983,2003,Russia,Northwestern,Sugarcane,2855.34,28.8,3.312,10,56.47,47.66,43.12,34.35,Tanaman Tahan Kekeringan
+8984,2024,Argentina,Northeast,Fruits,1435.13,8.64,3.06,0,25.22,11.04,12.68,41.16,Pertanian Organik
+8985,1995,Brazil,Southeast,Barley,2009.09,26.55,1.62,8,31.33,2.01,41.42,65.21,Tanpa Adaptasi
+8986,2001,Australia,'New South Wales',Cotton,482.93,12.25,4.014,7,34.72,35.11,93.36,66.38,Tanaman Tahan Kekeringan
+8987,2020,Canada,Prairies,Vegetables,2388.38,2.85,1.82,5,11.89,5.32,62.24,74.62,Manajemen Air
+8988,2015,China,East,Sugarcane,2038.28,17.32,2.277,10,87.92,41.39,22.8,90.18,Pertanian Organik
+8989,2021,Argentina,Northwest,Wheat,2007.44,4.82,1.01,10,98.42,28.4,31.98,97.45,Manajemen Air
+8990,2007,USA,South,Wheat,1341.53,6.27,1.37,0,11.58,39.11,16.24,63.98,Manajemen Air
+8991,2021,China,East,Coffee,2496.22,2.71,3.61,6,61.03,0.55,89.71,32.98,Pertanian Organik
+8992,2021,Brazil,South,Cotton,808.81,14.15,3.41,8,38.15,44.58,52.21,56.27,Tanpa Adaptasi
+8993,1991,Argentina,Pampas,Rice,581.08,20.55,2.394,0,23.79,25.78,87.2,43.56,Pertanian Organik
+8994,1995,Russia,Volga,Corn,1743.85,7.25,3.42,7,42.47,43.63,88.77,98.33,Pertanian Organik
+8995,2022,India,'Tamil Nadu',Cotton,2619.47,16.78,1.872,3,84.51,26.29,86.91,37.36,Tanaman Tahan Kekeringan
+8996,1999,China,South,Coffee,1655.21,10.47,2.71,5,58.88,8.75,11.74,38.3,Manajemen Air
+8997,2014,Brazil,Northeast,Corn,1043.98,7.75,1.49,1,14.68,45.84,23.12,32.07,Tanpa Adaptasi
+8998,2018,Canada,Ontario,Vegetables,2249.85,29.06,2.322,1,43.27,49.99,8.87,39.03,Manajemen Air
+8999,2002,Nigeria,'South West',Fruits,858.34,16.15,1.746,1,63.85,35.3,4.1,58.14,Manajemen Air
+9000,1995,France,'Grand Est',Fruits,1994.08,29.76,2.178,4,78.67,2.57,84.61,95.09,Pertanian Organik
+9001,1997,Canada,Quebec,Barley,923.13,29.35,2.853,9,37.95,36.61,94.01,66.93,Tanaman Tahan Kekeringan
+9002,2009,Canada,Quebec,Coffee,2828.19,27.82,1.278,9,54.19,16.1,81.98,66.63,Tanpa Adaptasi
+9003,1998,China,East,Vegetables,1783.83,5.75,0.85,6,35.87,16.08,23.23,90.22,Manajemen Air
+9004,2016,France,'Grand Est',Barley,621.21,8.76,2.76,9,38.98,0.59,64.51,52.29,Tanaman Tahan Kekeringan
+9005,2012,India,'West Bengal',Wheat,1475.08,3.92,1.18,1,56.1,32.45,39.35,84.68,Tanaman Tahan Kekeringan
+9006,1995,Russia,Central,Fruits,1130.47,19.92,1.944,6,60.21,8.87,76.68,35.85,Tanpa Adaptasi
+9007,2004,France,Nouvelle-Aquitaine,Coffee,2250.91,25.83,2.997,1,79.21,1.06,32.9,62.88,Rotasi Tanaman
+9008,1994,China,Central,Vegetables,993.05,25.47,1.683,3,52.53,39.33,82.94,61.33,Tanaman Tahan Kekeringan
+9009,2022,Canada,Quebec,Cotton,965.1,22.88,3.375,9,80.18,2.8,55.48,81.3,Tanaman Tahan Kekeringan
+9010,2019,Russia,Siberian,Cotton,1495.41,21.65,0.504,6,59.97,26.79,21.26,70.49,Manajemen Air
+9011,1999,Australia,'New South Wales',Barley,2028.22,15.21,2.178,3,11.72,8.04,27.35,53.28,Tanpa Adaptasi
+9012,2001,Russia,Volga,Wheat,309.68,12.37,1.44,7,85.81,43.36,0.31,84.9,Tanaman Tahan Kekeringan
+9013,1993,USA,South,Barley,2105.64,21.13,3.312,10,44.51,24.29,17.57,66.56,Manajemen Air
+9014,1991,Argentina,Northwest,Sugarcane,2596.91,27.58,4.248,5,61.8,19.99,19.45,41.92,Tanpa Adaptasi
+9015,2004,Nigeria,'North West',Vegetables,343.71,27.77,1.26,0,79.08,8.71,60.97,49.79,Tanpa Adaptasi
+9016,2009,USA,Northeast,Corn,980.26,3.89,1.27,4,30.26,23.15,97.14,92.9,Tanpa Adaptasi
+9017,1990,France,Ile-de-France,Soybeans,2540,7.23,3.35,5,45.3,9.25,7.71,52.14,Tanaman Tahan Kekeringan
+9018,2014,Nigeria,'South West',Corn,1119.33,7.26,1.97,7,92.48,6.52,56.92,59.84,Tanpa Adaptasi
+9019,1990,Argentina,Northeast,Barley,398.45,21.62,2.043,8,89.37,16.44,33.8,39.44,Pertanian Organik
+9020,2015,USA,South,Barley,753.4,10.88,3.46,1,94.63,40.11,23.92,90.11,Tanaman Tahan Kekeringan
+9021,1991,France,Ile-de-France,Sugarcane,2685.57,27.98,3.249,10,49.07,45.17,99.48,52.49,Pertanian Organik
+9022,2019,India,Maharashtra,Cotton,2682.32,24.75,1.926,4,18.36,6.73,89.58,56.44,Tanaman Tahan Kekeringan
+9023,2006,Argentina,Pampas,Rice,2249.08,0.75,2.25,6,93.76,49.53,42.53,88.87,Pertanian Organik
+9024,2012,France,Nouvelle-Aquitaine,Cotton,665.8,3.01,1.1,6,62.19,1.83,64.17,60.53,Manajemen Air
+9025,2013,Russia,Central,Corn,587.11,6.72,2.78,1,24.13,27.54,70.38,66.73,Rotasi Tanaman
+9026,1999,Brazil,Southeast,Soybeans,425.21,11.33,2.286,0,41.84,11.1,99.1,75.59,Tanpa Adaptasi
+9027,2002,Canada,Prairies,Barley,2730.97,10.98,1.19,8,20.86,4.21,64.56,93.65,Manajemen Air
+9028,1996,China,Central,Sugarcane,505.54,3.44,1.91,7,54.92,22.21,25.65,50.38,Tanaman Tahan Kekeringan
+9029,2010,Argentina,Pampas,Rice,1203.83,5.49,1.65,7,23.62,42.29,39.39,86.6,Pertanian Organik
+9030,2003,Argentina,Pampas,Rice,406.12,10.68,0.9,5,51.16,39.61,93.36,82.74,Tanaman Tahan Kekeringan
+9031,2013,India,'Tamil Nadu',Soybeans,2994.1,24.55,2.529,8,84.47,30.5,26.68,37.48,Rotasi Tanaman
+9032,2002,Brazil,Southeast,Sugarcane,1694.37,11.34,3.49,2,45.11,40.21,92.73,40.08,Manajemen Air
+9033,1991,Russia,Siberian,Soybeans,1941.34,11.01,1.41,3,60.6,0.04,51.21,88.49,Manajemen Air
+9034,2004,USA,Northeast,Barley,1297.79,29.66,3.708,7,72.24,23.15,29.97,80.95,Manajemen Air
+9035,2022,Brazil,North,Sugarcane,2371.32,10.87,1.18,1,27.28,49.34,77.35,35.48,Manajemen Air
+9036,1991,USA,West,Rice,1080.14,10.36,1.53,0,54.11,38.04,91.82,52.73,Rotasi Tanaman
+9037,2016,USA,South,Sugarcane,621.5,27.93,0.675,8,84.35,16.95,45.16,39.18,Pertanian Organik
+9038,1993,Australia,'New South Wales',Corn,2203.06,17.2,2.214,7,79.55,28.51,18.5,71.85,Tanaman Tahan Kekeringan
+9039,2014,Nigeria,'North West',Barley,2392.65,6.35,1.3,2,15.36,15.75,27.71,58.38,Pertanian Organik
+9040,1997,Canada,Ontario,Vegetables,2247.01,29.64,1.656,10,33.8,40.36,25.98,51.73,Rotasi Tanaman
+9041,2002,Russia,Central,Barley,511.01,20.75,3.321,10,15.84,20.31,68.02,86.97,Manajemen Air
+9042,1990,Nigeria,'South East',Corn,2867.62,2.68,3.28,10,32.1,10.41,59.23,38.14,Tanpa Adaptasi
+9043,2012,France,'Provence-Alpes-Cote d’Azur',Barley,2857.09,4.39,2.81,0,86.3,29,5.71,63.26,Tanaman Tahan Kekeringan
+9044,2009,China,East,Cotton,1600.55,5.12,3.67,3,90.64,45.27,37.86,91.28,Rotasi Tanaman
+9045,2021,France,'Grand Est',Fruits,2850.79,22.07,2.331,10,47.96,9.19,50.32,85.01,Rotasi Tanaman
+9046,2000,India,Punjab,Vegetables,213.48,28.29,1.053,8,96.2,8.23,8.59,48.74,Tanaman Tahan Kekeringan
+9047,2007,USA,Northeast,Soybeans,2438.71,5.11,2.98,5,25.88,45.09,11.55,31.8,Tanaman Tahan Kekeringan
+9048,1992,Nigeria,'South West',Cotton,658.01,22.16,3.555,4,58.78,5.11,24.2,70.8,Pertanian Organik
+9049,1998,Russia,Volga,Corn,1853.54,9.97,1.97,9,25.32,39.54,9.66,84.49,Rotasi Tanaman
+9050,1999,China,South,Coffee,1239.51,3.95,0.87,5,97.65,29.64,92.61,78.01,Tanpa Adaptasi
+9051,2002,Russia,Volga,Fruits,586.62,3.76,1.6,6,16.42,25.65,99.54,38.01,Tanaman Tahan Kekeringan
+9052,2021,USA,West,Cotton,1475.43,7.01,1.78,10,86,48.43,43.68,30.79,Rotasi Tanaman
+9053,1990,Argentina,Pampas,Wheat,559.01,10.82,0.99,0,22.6,13.41,89.45,84.51,Pertanian Organik
+9054,2020,France,Nouvelle-Aquitaine,Sugarcane,796.73,10.18,3.67,6,58.78,1.44,75.03,57.88,Rotasi Tanaman
+9055,1990,Australia,'Western Australia',Fruits,1707.89,1.95,3.87,2,40.38,3.43,9.45,80.18,Pertanian Organik
+9056,2018,Russia,Central,Coffee,1513,10.85,4.9,3,73.57,3.53,35.05,83.95,Rotasi Tanaman
+9057,2003,France,'Provence-Alpes-Cote d’Azur',Barley,2690.31,15.61,0.63,10,28.46,48.21,98.69,30.57,Pertanian Organik
+9058,2019,Australia,'New South Wales',Coffee,2689.43,27.89,0.747,1,52.6,11.27,31.07,92.1,Pertanian Organik
+9059,2008,Canada,Ontario,Fruits,2731.86,5.71,1.22,9,87.68,31.18,64.7,68.91,Tanpa Adaptasi
+9060,2022,Nigeria,'South West',Corn,859.04,2.83,3.17,9,22.21,0.38,25.48,45.03,Tanpa Adaptasi
+9061,2015,Canada,Prairies,Soybeans,2719.71,10.58,3.61,8,82.02,17.38,67.54,68.4,Tanpa Adaptasi
+9062,2003,Brazil,Northeast,Rice,1575.99,20.03,1.296,0,25.6,5.8,54.36,79.7,Rotasi Tanaman
+9063,1991,USA,Northeast,Coffee,1438.82,26.78,2.115,3,14.97,7.9,34.7,52.07,Tanpa Adaptasi
+9064,2000,China,North,Fruits,386.79,14.51,1.512,10,13.72,48.09,29.38,92.71,Tanaman Tahan Kekeringan
+9065,1991,Argentina,Northwest,Fruits,2537.24,27.52,1.962,5,13.39,30.81,38,30.68,Manajemen Air
+9066,1997,China,East,Vegetables,2337.94,10.57,1.71,8,13.77,11.71,43.67,91.11,Tanaman Tahan Kekeringan
+9067,2017,USA,South,Coffee,1681.26,0.85,1.86,10,54.13,16.67,13.22,90.02,Tanaman Tahan Kekeringan
+9068,2010,USA,South,Fruits,1014.55,16,1.557,1,24.35,21.75,75.28,51.63,Manajemen Air
+9069,2022,China,North,Soybeans,1290.41,2.05,2.18,0,56.6,10,80.11,37.87,Tanpa Adaptasi
+9070,2016,Brazil,Northeast,Vegetables,785.72,22.35,2.295,10,89.97,15.33,32.74,59.68,Tanpa Adaptasi
+9071,2004,India,Maharashtra,Soybeans,455.33,4.44,2.232,7,71.23,17.32,59.75,65.07,Rotasi Tanaman
+9072,2005,Argentina,Pampas,Coffee,1734.15,12.23,2.23,3,45.81,1.69,90.29,44.68,Manajemen Air
+9073,2020,Nigeria,'South West',Sugarcane,907.69,29.05,1.791,6,95.26,9.79,63.23,94.77,Tanaman Tahan Kekeringan
+9074,2012,Russia,Volga,Sugarcane,1017.7,11.38,3.99,5,36.05,36.11,30.65,68.66,Tanpa Adaptasi
+9075,2012,USA,Midwest,Vegetables,698.5,27.68,1.206,2,69.03,14.97,9.47,80,Tanpa Adaptasi
+9076,2010,USA,South,Fruits,1668.11,0.71,2.13,8,52.93,17.89,4.67,93.75,Tanpa Adaptasi
+9077,2015,China,South,Corn,309.73,12.87,0.81,3,75.74,28.77,42.57,87.1,Manajemen Air
+9078,1999,China,Central,Cotton,691.21,18.79,2.349,7,91.79,18.39,70.61,56.14,Tanpa Adaptasi
+9079,2012,India,'Tamil Nadu',Corn,2100.38,18.18,1.404,2,24.05,11.57,46.22,36.56,Manajemen Air
+9080,2001,Brazil,Southeast,Cotton,2341.62,15.21,2.547,10,39.44,37.47,65.59,98.86,Rotasi Tanaman
+9081,2011,Brazil,North,Wheat,1188.31,9.15,1.69,5,71.62,10.79,34.27,99.87,Pertanian Organik
+9082,2017,India,Maharashtra,Wheat,244.03,24.78,1.926,0,47.34,16.99,76.73,82.88,Tanpa Adaptasi
+9083,2023,Argentina,Northeast,Coffee,1262.24,24.06,0.927,2,44.25,37.8,35.36,78.82,Manajemen Air
+9084,2005,Australia,'New South Wales',Barley,525.16,1.64,4.23,1,54.52,2.04,19.47,82.51,Manajemen Air
+9085,2017,Russia,Volga,Corn,2405.89,21.97,3.798,4,72.41,25.77,34.39,96.15,Tanaman Tahan Kekeringan
+9086,1991,China,Central,Wheat,2646.81,27.37,3.438,0,96.95,22.94,8.19,59.22,Pertanian Organik
+9087,2019,India,Punjab,Coffee,1456.16,2.36,0.85,10,58.93,18.48,63.19,96.59,Manajemen Air
+9088,2000,Nigeria,'South East',Rice,1557.72,6.9,2.65,2,49.13,27.73,82.07,85.79,Manajemen Air
+9089,2004,Argentina,Pampas,Wheat,2549.91,24.25,0.981,10,40.23,43.35,23.68,31.91,Tanaman Tahan Kekeringan
+9090,2011,India,Maharashtra,Rice,992.46,3.86,1.63,5,31.24,2.84,64.96,37.3,Rotasi Tanaman
+9091,1999,Canada,Quebec,Coffee,2119.33,18.64,4.302,2,20.1,7.67,68.09,60.65,Rotasi Tanaman
+9092,1997,Australia,Queensland,Fruits,1872.24,28.89,4.059,8,71.2,1.28,52.25,86.07,Tanpa Adaptasi
+9093,2015,China,South,Cotton,1768.16,0.9,2.33,3,31.46,26.54,61.1,93.39,Tanpa Adaptasi
+9094,2024,Brazil,Northeast,Barley,1598.5,8.5,3.99,6,86.6,6.25,20.37,98.36,Tanpa Adaptasi
+9095,2015,Nigeria,'South East',Rice,2208.27,27.66,1.836,8,11.55,19.33,6.87,60.52,Pertanian Organik
+9096,1991,Brazil,North,Cotton,2659.32,18.75,1.728,6,85.55,38.76,46.85,72.56,Tanpa Adaptasi
+9097,1997,India,'Tamil Nadu',Barley,1793.98,15.81,2.448,0,39.28,10.33,16.25,95.89,Pertanian Organik
+9098,2014,India,Maharashtra,Cotton,2152.11,12.55,2.86,5,24.51,6.79,95.99,42.14,Tanaman Tahan Kekeringan
+9099,2002,USA,Northeast,Cotton,2326.64,5.33,3.57,9,24.84,49.76,92.43,72.81,Manajemen Air
+9100,2018,France,'Grand Est',Corn,2008.2,22.46,3.924,0,55.51,44.62,50.97,95.97,Manajemen Air
+9101,2009,Australia,'Western Australia',Sugarcane,236.89,29.94,2.853,10,24.49,43.13,76.62,77.89,Tanpa Adaptasi
+9102,2017,Nigeria,'South West',Coffee,2402.62,24.49,4.248,6,74.74,3.41,34.11,32.91,Tanpa Adaptasi
+9103,2024,Australia,Queensland,Cotton,1174.87,6.51,0.81,5,29.35,25.2,78.95,80.03,Tanaman Tahan Kekeringan
+9104,2002,France,Nouvelle-Aquitaine,Vegetables,2348.64,4.1,3.95,8,17.76,30.24,92.96,99.82,Pertanian Organik
+9105,2009,Argentina,Northeast,Cotton,794.1,26.02,1.692,6,27.67,6.95,60,94.91,Tanpa Adaptasi
+9106,1996,China,East,Sugarcane,1318.57,23.44,1.881,1,50.06,39.19,69.04,64.29,Manajemen Air
+9107,1996,Argentina,Northwest,Rice,2679.3,26.95,1.071,6,89.06,11.58,11.04,77.19,Pertanian Organik
+9108,1990,France,'Provence-Alpes-Cote d’Azur',Vegetables,2385.6,24.29,3.51,5,59.46,13.66,73.86,80.3,Tanaman Tahan Kekeringan
+9109,1995,Argentina,Patagonia,Corn,1746.65,13.36,4.37,7,90.66,10.08,67.88,81.7,Rotasi Tanaman
+9110,2010,France,Ile-de-France,Rice,718.17,26.78,1.881,9,92.09,10.31,5.26,97.87,Pertanian Organik
+9111,2022,Australia,Queensland,Coffee,1275.17,26.47,1.026,9,84.61,6.72,30.92,43.71,Pertanian Organik
+9112,2008,India,Maharashtra,Corn,1993.18,15.72,1.692,1,68.23,26.76,20.18,40.46,Rotasi Tanaman
+9113,1998,Argentina,Northeast,Wheat,2096.52,3.89,1.88,3,84.18,10.01,48.97,89.12,Pertanian Organik
+9114,2004,Argentina,Patagonia,Rice,1412.11,24.23,1.089,8,80.22,32.16,46.6,52.63,Pertanian Organik
+9115,2015,France,Ile-de-France,Cotton,2075.87,23.8,0.765,1,32.53,3.38,13.03,61.23,Tanpa Adaptasi
+9116,2003,Australia,Victoria,Rice,2535.97,11.83,3.11,2,50.36,43.67,47.9,58.56,Manajemen Air
+9117,2000,India,'West Bengal',Barley,440.93,21.69,2.547,8,98.62,9.02,45.99,70.21,Rotasi Tanaman
+9118,2008,India,Punjab,Vegetables,1001.81,27.24,1.917,7,53.07,45.35,77.46,48.24,Rotasi Tanaman
+9119,1992,Brazil,South,Vegetables,971.12,1.24,0.72,7,39.57,49.38,86.86,96.26,Tanpa Adaptasi
+9120,2022,Nigeria,'North Central',Barley,2952.33,2.33,1.85,10,85.76,42.34,61.34,98.3,Manajemen Air
+9121,2010,Brazil,South,Sugarcane,249.56,5.99,1.08,9,44.36,47.64,75.62,51.66,Tanaman Tahan Kekeringan
+9122,2009,Russia,Central,Corn,361.25,11.43,2.007,0,21.25,0.21,71.2,40.94,Tanpa Adaptasi
+9123,2005,Argentina,Pampas,Cotton,496.27,1.9,1.458,0,56,5.04,77.89,30.58,Pertanian Organik
+9124,2011,China,North,Corn,2634.06,9.85,4.38,3,81.17,37.08,49.17,57.72,Rotasi Tanaman
+9125,1996,India,'Tamil Nadu',Cotton,1130.57,29.21,3.024,4,47.58,15.24,13.92,42.05,Rotasi Tanaman
+9126,1993,Brazil,North,Wheat,2819.72,23.05,2.565,5,60.08,32.97,55.99,81.76,Tanaman Tahan Kekeringan
+9127,2008,Australia,Queensland,Soybeans,2127.48,19.75,0.774,6,60.02,0.03,93.99,72.19,Manajemen Air
+9128,2012,China,East,Soybeans,1678.9,1.01,2.83,7,41.73,33.38,28.79,94.17,Manajemen Air
+9129,2005,Nigeria,'South West',Soybeans,2897.19,18,2.79,4,48.59,30.87,66.21,60.41,Tanaman Tahan Kekeringan
+9130,2002,Brazil,South,Sugarcane,2959.12,27.43,1.521,10,55.16,42.99,48.39,85.58,Rotasi Tanaman
+9131,2015,Australia,Queensland,Sugarcane,2946.49,18.54,4.275,4,60.65,29.95,14.01,33.6,Manajemen Air
+9132,1994,Brazil,Northeast,Rice,345.9,11.77,2.16,6,29.11,35.46,99.62,65.51,Manajemen Air
+9133,2019,Canada,Ontario,Cotton,1902.88,20.89,2.106,1,33.66,30.01,92.58,39.11,Rotasi Tanaman
+9134,2019,France,Ile-de-France,Corn,1575.58,2.65,3.08,2,61.04,39.08,84.8,88.01,Pertanian Organik
+9135,2013,USA,Northeast,Corn,1410.78,29.15,2.106,1,76.67,43.33,99.59,65.5,Tanpa Adaptasi
+9136,2022,Canada,Prairies,Rice,367.51,25.24,2.439,8,99.01,41.01,58.13,92.89,Tanaman Tahan Kekeringan
+9137,2022,India,Maharashtra,Rice,358.19,4.06,0.945,0,90.75,6.07,64.58,91.68,Tanaman Tahan Kekeringan
+9138,2004,France,'Provence-Alpes-Cote d’Azur',Corn,607.48,23.21,1.287,5,65.69,11.75,61.74,91.26,Pertanian Organik
+9139,1996,Nigeria,'North West',Rice,2563.76,8.22,2.21,8,44.55,4.5,35.81,46.92,Tanpa Adaptasi
+9140,1997,India,Punjab,Fruits,2028.96,16.95,2.385,3,15.67,3.87,39.76,56.19,Pertanian Organik
+9141,1992,Brazil,Northeast,Soybeans,1462.35,2.64,2.21,10,78.33,31.22,56.94,80.17,Tanpa Adaptasi
+9142,2014,Canada,Ontario,Barley,1301.9,0.68,1.88,0,82.73,35.62,84.17,92.09,Tanaman Tahan Kekeringan
+9143,2015,USA,South,Vegetables,773.5,4.71,1.1,6,13.75,13.09,5.95,60.11,Rotasi Tanaman
+9144,1999,Canada,Quebec,Wheat,880.98,6.49,1.89,3,59.29,35.52,40.98,45.83,Manajemen Air
+9145,2002,USA,Midwest,Wheat,1193.64,27.77,2.475,7,69.13,8.56,81.46,44,Tanpa Adaptasi
+9146,1992,India,'West Bengal',Fruits,1562.49,10.57,2.05,8,71.65,30.37,2.41,57.01,Pertanian Organik
+9147,2018,USA,West,Cotton,1694.55,25.29,1.962,1,77.56,9.84,19.6,93.76,Tanpa Adaptasi
+9148,2009,Nigeria,'South West',Rice,1310.84,1.62,2.28,5,92.93,43.05,42.15,98.34,Tanpa Adaptasi
+9149,1998,Argentina,Patagonia,Cotton,1752.11,21.18,2.133,2,44.53,3.49,22.42,63.08,Manajemen Air
+9150,2001,India,Maharashtra,Sugarcane,260.28,3.11,2.646,7,40.03,18.15,88.97,58.41,Tanaman Tahan Kekeringan
+9151,2018,Canada,Quebec,Rice,1157.78,23.53,0.945,7,84.17,19,58.06,73.3,Pertanian Organik
+9152,2024,France,'Grand Est',Rice,299.11,25.46,2.007,10,80.13,1.05,20.6,95.54,Tanpa Adaptasi
+9153,1999,Brazil,Southeast,Cotton,1331.44,15.29,1.827,0,65.67,35.55,85.42,51.48,Pertanian Organik
+9154,1991,Canada,Prairies,Barley,2574.23,3.86,4.05,6,66.98,49.59,72.29,49.45,Manajemen Air
+9155,1997,Nigeria,'South West',Corn,2169.95,29.67,2.592,4,68.79,39.53,1.5,95.08,Tanaman Tahan Kekeringan
+9156,1998,Argentina,Patagonia,Rice,2714.99,17.45,0.666,9,12.75,19.88,87.15,98.97,Manajemen Air
+9157,2011,India,'West Bengal',Rice,495.7,6.04,0.9,0,23.65,1.66,2.9,52.57,Tanpa Adaptasi
+9158,2005,India,Punjab,Sugarcane,2347.67,10.29,2.29,9,60.89,48.64,64.08,58.7,Pertanian Organik
+9159,2010,Brazil,Southeast,Cotton,890.59,11.77,3.81,2,48.76,46.68,90.65,54.46,Tanaman Tahan Kekeringan
+9160,2001,Canada,Prairies,Coffee,1154.36,13.91,3.89,5,94.06,14.38,87.58,91.39,Tanpa Adaptasi
+9161,2005,China,East,Coffee,1231.89,4.97,2.79,2,30.94,13.63,3.75,67.5,Tanpa Adaptasi
+9162,1990,France,Ile-de-France,Wheat,2752.2,3.21,1.45,2,50.61,34.43,78.37,36.11,Pertanian Organik
+9163,2014,Canada,Ontario,Corn,1402.31,13.36,3,4,82.64,45.67,38.44,82.1,Tanaman Tahan Kekeringan
+9164,2008,USA,Northeast,Soybeans,1718.96,13.63,2.8,6,87.61,44.07,3.65,84.52,Tanaman Tahan Kekeringan
+9165,2010,Argentina,Patagonia,Cotton,383.99,3.49,0.801,2,35.06,10.32,85.08,77.56,Pertanian Organik
+9166,2007,France,Nouvelle-Aquitaine,Fruits,2808.49,4.68,1.92,10,75.43,15.92,7.17,58.24,Pertanian Organik
+9167,2004,Brazil,Northeast,Corn,2528.04,12.34,3.26,7,60.58,16.12,70.68,92.5,Tanpa Adaptasi
+9168,1990,France,Nouvelle-Aquitaine,Coffee,1125.7,19.98,2.196,3,66.5,10.74,22.55,50.72,Rotasi Tanaman
+9169,2012,USA,South,Wheat,2271.3,27.01,2.358,10,98.61,32.3,41.89,42.89,Manajemen Air
+9170,1997,India,'West Bengal',Coffee,2909.31,22.59,2.097,6,86.8,18.33,75.56,37.97,Pertanian Organik
+9171,2023,Brazil,North,Cotton,1656.41,23.48,2.277,10,18.52,47.43,31.09,70.02,Tanpa Adaptasi
+9172,1997,Argentina,Northeast,Vegetables,1727.17,0.7,2.18,5,10.05,33.5,66.15,83.87,Tanaman Tahan Kekeringan
+9173,2011,China,North,Cotton,2199.16,15.74,0.918,6,30.67,44.43,55.38,53.12,Tanaman Tahan Kekeringan
+9174,2002,India,Punjab,Corn,2310.19,23.27,1.053,2,19.87,37.64,5.83,97.48,Manajemen Air
+9175,2010,Nigeria,'North Central',Coffee,924.8,16.96,1.17,3,51.55,37.29,45.11,73.97,Tanaman Tahan Kekeringan
+9176,2023,China,East,Vegetables,2151.04,7.6,3.28,8,71.17,25.78,64.83,87.33,Pertanian Organik
+9177,2005,Brazil,South,Cotton,2633.46,1.58,1,6,23.88,1.42,39.79,62.14,Tanpa Adaptasi
+9178,2021,Nigeria,'South East',Rice,2935.27,11.8,4.83,6,67.84,20.23,65.42,91.77,Tanaman Tahan Kekeringan
+9179,2023,USA,Northeast,Cotton,486.92,16.95,0.666,7,61.22,44.81,41.83,37.56,Tanaman Tahan Kekeringan
+9180,2024,Argentina,Patagonia,Coffee,1944.52,20.71,0.828,4,58.99,47.96,3.9,73.47,Manajemen Air
+9181,2015,Russia,Siberian,Fruits,511.88,22.37,2.493,5,66.4,44.97,69.91,64.63,Tanpa Adaptasi
+9182,1996,France,'Provence-Alpes-Cote d’Azur',Soybeans,1328.1,14.96,2.99,5,53.77,18.39,53.26,36.96,Manajemen Air
+9183,2005,Australia,'New South Wales',Wheat,1309.14,18.74,1.953,3,62.01,3.56,94.84,33.74,Manajemen Air
+9184,2007,India,'West Bengal',Rice,1433.18,19.37,1.782,5,79.11,14.82,89.32,59.11,Pertanian Organik
+9185,2021,India,'West Bengal',Fruits,1046.42,4.79,3.36,7,66.84,48.49,9.26,73.92,Manajemen Air
+9186,2014,USA,Midwest,Barley,523.42,4.9,1.99,9,14.07,10.29,10.97,31.29,Manajemen Air
+9187,2020,Nigeria,'South East',Wheat,748.11,16.39,1.683,8,50.25,31.66,95.45,89.43,Manajemen Air
+9188,2005,Brazil,North,Corn,1707.87,3.52,3.01,2,34.48,16.51,84.85,68.41,Tanaman Tahan Kekeringan
+9189,2009,Brazil,South,Corn,2157.28,25.89,1.89,2,42.22,49.52,77.58,86.98,Manajemen Air
+9190,2004,China,South,Cotton,748.6,3.84,3.93,5,13.79,3.45,58.38,87,Manajemen Air
+9191,1994,Canada,Prairies,Coffee,669.51,26.65,2.745,6,56.64,18.45,32.21,50.34,Manajemen Air
+9192,2013,USA,West,Barley,2792.34,18.78,1.8,6,41.55,1.42,57.24,70.11,Tanaman Tahan Kekeringan
+9193,1999,Brazil,Southeast,Cotton,672.7,16.98,1.593,10,51.29,37.03,94.41,79.98,Pertanian Organik
+9194,2023,Brazil,Northeast,Corn,1845.14,16.3,1.107,10,91.18,46.61,51.03,42.73,Pertanian Organik
+9195,1999,France,'Grand Est',Fruits,378.3,9.88,0.603,6,15.62,11.74,70.2,78.09,Tanaman Tahan Kekeringan
+9196,2003,France,Ile-de-France,Soybeans,2523.97,7.73,2.12,7,73.38,27.14,89.13,43.59,Rotasi Tanaman
+9197,2023,Canada,'British Columbia',Sugarcane,2788.3,29.68,1.413,8,92.41,41.68,92.39,39.29,Tanaman Tahan Kekeringan
+9198,2011,Nigeria,'South East',Rice,1242.72,21.74,4.293,1,55.82,47.66,21.35,31.14,Tanpa Adaptasi
+9199,2010,Russia,Siberian,Rice,638.68,1.36,1.68,1,75.22,40.37,29.87,40.37,Pertanian Organik
+9200,2019,China,North,Soybeans,216.51,18.97,0.585,0,42.65,6.1,13.01,36.08,Pertanian Organik
+9201,1996,Canada,Ontario,Barley,863.57,21.29,2.052,9,16.79,15.08,77.44,77.37,Tanpa Adaptasi
+9202,2010,China,Central,Coffee,2241.94,27.21,1.71,6,61.34,42.95,16.84,85.57,Tanpa Adaptasi
+9203,2018,Nigeria,'South West',Sugarcane,288.77,23.28,3.879,2,60.85,22.73,43.26,58.39,Rotasi Tanaman
+9204,2022,Canada,Quebec,Barley,1585.26,13.09,2.81,1,70.95,32.89,92.72,81.33,Tanaman Tahan Kekeringan
+9205,1998,India,'Tamil Nadu',Sugarcane,1627.48,11.81,1.08,9,95.75,44.35,88.08,49.61,Rotasi Tanaman
+9206,2015,Canada,Ontario,Cotton,2718.79,28.92,1.179,2,46.72,20.78,90.46,34.11,Rotasi Tanaman
+9207,2011,China,East,Fruits,2883.43,7.33,3.58,0,99.15,19.34,49.87,64.88,Manajemen Air
+9208,2024,Australia,Queensland,Wheat,300.85,4.89,2.556,6,33.19,24.35,77.09,62.45,Tanpa Adaptasi
+9209,2004,India,'Tamil Nadu',Corn,2921.79,1.73,2.39,0,93.49,43.75,77.62,73.69,Tanaman Tahan Kekeringan
+9210,2003,Nigeria,'South West',Wheat,2705.41,20.35,1.845,6,60,2.36,43.25,54.34,Pertanian Organik
+9211,2002,Argentina,Northwest,Vegetables,1412.75,13.9,2.42,3,67.85,30.43,52.9,62.18,Tanpa Adaptasi
+9212,2014,Canada,Ontario,Vegetables,1271.81,17.92,1.377,4,22.85,44.22,99.27,99.17,Pertanian Organik
+9213,2017,France,Ile-de-France,Fruits,1676.64,22.98,2.421,5,55.75,9.29,49.2,47.56,Manajemen Air
+9214,2007,India,'West Bengal',Vegetables,846.91,11.74,2.54,5,36.31,40.27,92.94,91.75,Manajemen Air
+9215,2015,Argentina,Patagonia,Fruits,904.78,17.39,2.646,10,68,40.16,85.09,73.11,Tanpa Adaptasi
+9216,1993,Canada,Quebec,Vegetables,971.96,7.32,2.08,8,43.92,2.34,19.58,43.71,Manajemen Air
+9217,2013,Nigeria,'North West',Rice,1971.28,24.18,3.537,0,45,48.04,92.56,61.59,Tanpa Adaptasi
+9218,2002,USA,West,Vegetables,2860.04,3.74,2.36,6,99.03,29.25,72.11,30.2,Manajemen Air
+9219,2002,Russia,Siberian,Fruits,2422.66,25.69,1.476,3,74.63,4.86,91.15,81.37,Pertanian Organik
+9220,2005,China,South,Wheat,458.9,17.77,1.251,0,64.76,24.26,35.9,39.01,Tanaman Tahan Kekeringan
+9221,1994,USA,Northeast,Soybeans,952.74,20.24,2.826,7,27.65,0.71,96.92,68.43,Tanaman Tahan Kekeringan
+9222,2024,India,Maharashtra,Coffee,2417.34,4.95,2.63,1,72.19,14.87,73.62,40.24,Tanpa Adaptasi
+9223,2024,India,Punjab,Cotton,1688.22,27.84,0.774,8,39.68,25.01,49.69,79.13,Rotasi Tanaman
+9224,2008,Argentina,Pampas,Rice,2398.91,19.01,1.746,7,68.1,18.75,34.26,39.78,Rotasi Tanaman
+9225,1992,Brazil,Southeast,Soybeans,391.02,19.16,3.591,2,23.91,36.51,92.66,56.75,Manajemen Air
+9226,2014,Argentina,Northwest,Rice,1025.25,23.89,2.682,6,95.03,17.41,38.15,73.94,Tanpa Adaptasi
+9227,1995,China,East,Cotton,2152.25,20.83,2.925,6,47.12,33.37,94.6,62.14,Pertanian Organik
+9228,2022,China,Central,Cotton,1492.1,15.18,3.294,5,17.35,48.2,67.66,94.83,Tanpa Adaptasi
+9229,2000,Nigeria,'North Central',Corn,1671.85,7.32,3.59,9,48.19,40.03,78.32,51.8,Manajemen Air
+9230,2023,Russia,Central,Corn,1987.77,15.3,0.873,1,33.49,12.54,83.1,70.23,Rotasi Tanaman
+9231,1995,USA,Midwest,Barley,2811.24,29.95,1.314,4,10.13,15.16,37.86,62.06,Pertanian Organik
+9232,1999,Argentina,Patagonia,Cotton,1321.68,16.45,2.16,9,67.96,18.88,98.5,95.68,Pertanian Organik
+9233,2014,Australia,Victoria,Vegetables,735.43,15.36,1.98,10,37.74,5.23,24.76,36.99,Tanaman Tahan Kekeringan
+9234,2024,Australia,'Western Australia',Rice,2062.84,1.95,3.19,2,61.5,3.14,64.38,55.23,Pertanian Organik
+9235,2021,Nigeria,'North West',Sugarcane,2636.15,29.37,1.629,6,43.99,7.17,37.1,40.31,Tanaman Tahan Kekeringan
+9236,1991,Nigeria,'South East',Fruits,2617.79,23.37,2.196,2,75.42,40.67,87.67,73.78,Pertanian Organik
+9237,2008,USA,Midwest,Coffee,1776.27,4.57,2.39,1,92.26,14.41,31.42,62.86,Tanaman Tahan Kekeringan
+9238,1993,USA,Northeast,Vegetables,2995.18,4.84,4.42,6,11.24,46.47,11.49,96.39,Tanpa Adaptasi
+9239,2024,Australia,Queensland,Sugarcane,2478.74,22.06,1.359,3,59.56,44.73,37.52,64.65,Tanpa Adaptasi
+9240,1997,Australia,'Western Australia',Soybeans,2305.92,1.17,1.8,0,90.04,22.25,14.8,57.1,Rotasi Tanaman
+9241,2012,France,'Grand Est',Fruits,2752.74,17.14,2.322,5,34,16.46,58.45,44.82,Rotasi Tanaman
+9242,2020,Russia,Siberian,Barley,947.32,26.15,2.691,9,21.91,44.49,7.51,85.94,Pertanian Organik
+9243,2000,Nigeria,'North Central',Sugarcane,969.6,19.9,1.242,0,37.21,42,0.82,48.61,Pertanian Organik
+9244,1996,Brazil,Southeast,Rice,710.26,16.45,1.17,0,30.38,16.58,53.21,81.92,Manajemen Air
+9245,1992,Nigeria,'South East',Wheat,1770.07,27.85,2.619,7,86.68,16.07,44.45,50.06,Pertanian Organik
+9246,2000,Argentina,Northwest,Corn,1868.05,29.33,2.151,8,32.67,18.58,88.33,88.53,Tanaman Tahan Kekeringan
+9247,2012,France,Nouvelle-Aquitaine,Sugarcane,257.56,17.19,2.16,8,18.15,38.19,64.21,55.6,Manajemen Air
+9248,2006,Nigeria,'South East',Wheat,413.81,3.71,1.296,8,74.51,33.46,12.79,45.62,Manajemen Air
+9249,2012,China,East,Sugarcane,253.89,17.71,2.448,9,52.44,32.58,46,53.51,Pertanian Organik
+9250,2013,Argentina,Northeast,Corn,798.29,20.62,1.269,5,18.57,4.96,16.72,95.54,Tanaman Tahan Kekeringan
+9251,1996,France,Ile-de-France,Fruits,2121.11,8.06,2.62,3,15.98,46.57,67.64,75.77,Rotasi Tanaman
+9252,2015,Australia,Victoria,Vegetables,727.49,19.75,2.772,7,83.79,36.15,39,62.11,Manajemen Air
+9253,2014,USA,West,Wheat,688.64,21.34,3.141,1,44.68,14.67,13.54,87.48,Tanpa Adaptasi
+9254,2015,China,East,Vegetables,615.37,3.9,2.82,9,38.78,46.69,51.2,83.96,Manajemen Air
+9255,2024,Russia,Central,Coffee,2364.11,25.25,1.566,5,92.86,29.52,47.14,98.12,Rotasi Tanaman
+9256,2022,Russia,Volga,Sugarcane,2154.34,25.81,3.249,9,17.52,15.96,52.66,97,Pertanian Organik
+9257,2017,Brazil,North,Rice,2584.38,9.64,0.98,4,85.17,4.89,18.9,71.43,Manajemen Air
+9258,2019,USA,South,Rice,2248.19,3.99,1.08,3,48.44,28.38,37.49,58.99,Tanaman Tahan Kekeringan
+9259,2023,USA,West,Fruits,2621.2,14.7,2.73,4,29.51,11.85,44.82,46.09,Pertanian Organik
+9260,2019,Australia,Queensland,Corn,731.6,20.26,1.341,3,23.8,8.48,90.78,94.67,Manajemen Air
+9261,1997,Canada,Prairies,Rice,1483.72,22.76,0.927,1,42.32,16.34,66.65,61.23,Rotasi Tanaman
+9262,2005,Argentina,Patagonia,Corn,2858.46,3.99,4.56,0,28.68,4.71,40.82,74.12,Rotasi Tanaman
+9263,1999,Australia,'Western Australia',Sugarcane,2286.82,22.57,0.585,10,93.56,42.32,60.24,61.85,Pertanian Organik
+9264,2022,Australia,Victoria,Sugarcane,1050.44,2.35,0.95,5,50.79,32.26,18.88,95.06,Tanaman Tahan Kekeringan
+9265,2018,USA,West,Barley,351.15,23.86,1.755,5,64.35,21.99,57.25,64.28,Tanpa Adaptasi
+9266,2023,India,Punjab,Wheat,1332.29,28.97,2.979,9,67.74,41.11,68.96,99.6,Rotasi Tanaman
+9267,2008,India,Punjab,Soybeans,1729.28,7.87,1.99,4,39.86,27.55,33.29,44.56,Pertanian Organik
+9268,2001,Australia,'Western Australia',Sugarcane,2416.32,26.66,2.61,0,64.27,31.11,92.59,85.58,Pertanian Organik
+9269,2015,India,'Tamil Nadu',Cotton,623.97,8.11,0.89,4,47.28,37.52,32.43,39.93,Tanpa Adaptasi
+9270,2009,USA,Northeast,Barley,508.32,13.75,4.08,6,75.12,38.22,37.7,81.14,Tanaman Tahan Kekeringan
+9271,2007,Australia,Victoria,Wheat,2900.3,26.5,4.203,0,76.41,18.11,81,32.95,Tanpa Adaptasi
+9272,2009,Russia,Northwestern,Rice,1904.4,20.15,1.458,0,82.52,18.05,31.72,98.88,Rotasi Tanaman
+9273,2017,China,North,Soybeans,294.61,9.59,3.042,9,30.78,24.09,45.04,84.71,Pertanian Organik
+9274,2021,Brazil,South,Wheat,1113.55,25.22,0.522,7,11.02,41.74,55.57,95.82,Rotasi Tanaman
+9275,2016,Nigeria,'North West',Coffee,2075.65,3.55,2.15,0,52.87,31.33,0.25,78.15,Manajemen Air
+9276,1992,Argentina,Northeast,Rice,1023.22,19.98,3.195,5,34.46,18.71,81.77,37.55,Pertanian Organik
+9277,1994,Australia,'New South Wales',Fruits,2546.69,18.87,1.17,6,18.04,28.11,60.13,62.53,Tanpa Adaptasi
+9278,1995,China,North,Corn,2511.59,1.21,2.44,6,40.55,41.66,85.86,94.12,Tanpa Adaptasi
+9279,2003,India,'West Bengal',Sugarcane,2786.51,16.23,1.449,2,32.49,21.65,45.01,69.4,Rotasi Tanaman
+9280,2002,Russia,Volga,Sugarcane,484.61,24.01,2.412,7,16.23,13.34,92.5,36.52,Rotasi Tanaman
+9281,2011,India,Punjab,Coffee,1254.22,23.76,2.106,3,25.12,4.55,63.66,32.5,Tanpa Adaptasi
+9282,2023,USA,West,Sugarcane,1472.35,0.71,1.79,5,87.23,46.82,17.74,81.29,Rotasi Tanaman
+9283,2019,Argentina,Pampas,Rice,839.77,25.67,2.016,5,18.4,8.92,70.37,82.21,Pertanian Organik
+9284,2006,Australia,'New South Wales',Soybeans,1067.46,24.91,1.647,1,73.7,44.97,41.94,48.35,Manajemen Air
+9285,2018,China,North,Cotton,601.55,23.6,3.222,1,39.13,34.94,22.7,46.82,Tanaman Tahan Kekeringan
+9286,2010,India,Punjab,Rice,495.64,8.78,2.205,7,32.91,44.81,94.37,66.52,Manajemen Air
+9287,1995,Nigeria,'North Central',Vegetables,1309.94,20.46,1.152,0,81.85,7.97,58.91,49.95,Tanpa Adaptasi
+9288,2007,France,Nouvelle-Aquitaine,Corn,2682.03,6.02,2.13,4,54.29,31.69,24,45.4,Pertanian Organik
+9289,2010,USA,South,Rice,623.88,1.06,4.29,4,89.32,4.31,86.97,68.06,Manajemen Air
+9290,2022,Australia,'Western Australia',Coffee,410.06,20.39,1.395,1,15.24,14.76,5.3,74.49,Manajemen Air
+9291,2006,China,East,Vegetables,290.97,3.78,1.989,9,34.92,22.15,90.24,44.37,Tanpa Adaptasi
+9292,2001,Argentina,Pampas,Sugarcane,1578.55,18.7,0.621,5,47.23,45.05,92.2,46.02,Manajemen Air
+9293,2002,Nigeria,'North West',Barley,2644.42,17.9,2.646,8,15.72,15.3,3.1,70.7,Manajemen Air
+9294,2008,France,Ile-de-France,Cotton,721.73,24.56,1.8,4,70.19,30.81,22.8,92.28,Tanaman Tahan Kekeringan
+9295,2018,Nigeria,'North Central',Sugarcane,2080.82,21.22,2.52,6,43.02,47.09,8.95,67.63,Tanpa Adaptasi
+9296,2004,France,'Provence-Alpes-Cote d’Azur',Vegetables,380.48,28.48,2.277,2,79.25,15.1,48.6,48.9,Rotasi Tanaman
+9297,2014,Canada,Prairies,Coffee,225.58,19.43,2.367,1,73.04,26.24,36.31,68.68,Manajemen Air
+9298,2010,France,'Provence-Alpes-Cote d’Azur',Soybeans,1986.36,18.75,2.385,10,41.65,1.23,18.03,76.64,Manajemen Air
+9299,1996,Australia,'Western Australia',Coffee,1420.61,8.55,1.59,10,17.19,1.65,22.67,33.07,Pertanian Organik
+9300,2000,Brazil,North,Vegetables,1472.83,22,1.485,7,58.58,22.65,50.65,77.93,Pertanian Organik
+9301,2009,Nigeria,'South West',Fruits,1390.15,4.56,3.36,1,46.1,30.15,62.03,61.49,Pertanian Organik
+9302,2023,Australia,'New South Wales',Corn,972.34,18.95,1.116,10,29.64,35.57,75.62,82.05,Tanpa Adaptasi
+9303,1995,Nigeria,'North Central',Coffee,644.34,27.04,2.187,10,15.08,10.72,93.3,84.98,Tanaman Tahan Kekeringan
+9304,2013,Canada,Prairies,Soybeans,2455.45,29.63,0.72,5,59.27,49.01,71.09,51.63,Manajemen Air
+9305,2023,Canada,Quebec,Wheat,1177.96,2.93,1.3,5,90.18,13.05,68.57,45.45,Tanpa Adaptasi
+9306,2008,France,'Grand Est',Vegetables,1597.77,6.21,3.83,7,47.78,43.89,29.66,71.99,Pertanian Organik
+9307,2013,USA,West,Rice,211.07,24.28,1.26,4,80.44,43.45,19.6,58.13,Rotasi Tanaman
+9308,2023,Argentina,Northwest,Wheat,830.58,1.13,1.77,4,32.46,7.72,43.79,42.57,Rotasi Tanaman
+9309,2007,Australia,'New South Wales',Coffee,1928.07,10.21,1.6,8,19.7,7.06,30.99,74.15,Manajemen Air
+9310,1995,Nigeria,'South East',Rice,1129.88,16.37,3.051,1,94.36,33.16,38.1,60.11,Pertanian Organik
+9311,2005,France,Ile-de-France,Sugarcane,2812.81,26.82,1.008,0,35.65,18.07,38.04,54.07,Tanaman Tahan Kekeringan
+9312,2006,France,'Grand Est',Rice,938.33,10.56,2.71,4,84.32,38.07,79.19,83.35,Tanaman Tahan Kekeringan
+9313,2008,Australia,'New South Wales',Sugarcane,1604.72,18.8,2.601,9,15.87,29.45,74.99,61.57,Rotasi Tanaman
+9314,1991,China,East,Sugarcane,679.8,20.52,2.646,10,40.56,18.11,80.14,85.32,Manajemen Air
+9315,1997,France,Nouvelle-Aquitaine,Cotton,1694.47,15.97,1.323,7,66.39,28.07,96.75,69.2,Manajemen Air
+9316,1995,USA,South,Rice,590.33,8.81,2.55,9,31.12,12.46,93.62,37.27,Manajemen Air
+9317,1991,Russia,Volga,Soybeans,2112.35,3.15,1.69,0,24.44,12.67,44.9,78.55,Rotasi Tanaman
+9318,2013,Russia,Northwestern,Vegetables,677.69,1.23,4.09,4,87.26,15.7,45.52,79.15,Tanaman Tahan Kekeringan
+9319,2023,Canada,Ontario,Soybeans,2710,9.81,3.94,9,96.16,12.28,23.26,80.39,Pertanian Organik
+9320,2002,Argentina,Pampas,Wheat,1804.44,2.65,0.78,10,39.98,41.19,3.18,84.21,Manajemen Air
+9321,2017,France,'Grand Est',Coffee,1466.13,3.83,1.53,1,21.25,46.76,53.51,44.49,Tanpa Adaptasi
+9322,2024,Argentina,Pampas,Cotton,2535.86,14.61,0.57,10,94.33,30.2,67.32,64.34,Pertanian Organik
+9323,2020,China,Central,Soybeans,2513.37,14.34,2.43,6,22.97,21.88,3.35,40.03,Tanpa Adaptasi
+9324,2007,USA,South,Vegetables,2213.1,1.67,1.37,6,80.23,43.51,71.78,76.43,Tanaman Tahan Kekeringan
+9325,2024,USA,Midwest,Coffee,1713.58,24.46,2.817,3,60.58,42.46,33.26,70.2,Pertanian Organik
+9326,2022,Canada,Prairies,Vegetables,837.21,4.14,1.59,3,11.23,44.49,88.99,64.04,Pertanian Organik
+9327,2001,Nigeria,'South West',Sugarcane,1537.71,1.56,3.64,0,84.67,29.65,59.79,96.74,Tanpa Adaptasi
+9328,2018,Canada,Prairies,Vegetables,541.68,10.99,1.74,6,77.62,28.61,73.74,41.67,Tanpa Adaptasi
+9329,2019,Canada,'British Columbia',Soybeans,2879.15,28.69,2.916,5,51.52,16.03,48.04,74.34,Pertanian Organik
+9330,2009,France,Nouvelle-Aquitaine,Barley,1384.82,13.72,2.43,7,77.44,12.44,36.06,95.08,Pertanian Organik
+9331,1995,India,'West Bengal',Soybeans,2897.22,4.56,1.98,8,62.28,45.94,83.3,90.69,Tanpa Adaptasi
+9332,2023,France,'Provence-Alpes-Cote d’Azur',Wheat,1786.63,10.87,3.56,1,41.13,38.71,64.21,87.05,Manajemen Air
+9333,2004,Russia,Volga,Wheat,1908.28,4.29,2.71,9,59.44,48.55,25.86,33.84,Rotasi Tanaman
+9334,1998,Nigeria,'North West',Coffee,1325.52,5.23,1.72,3,56.3,44.01,50.81,50.31,Rotasi Tanaman
+9335,1990,USA,West,Soybeans,2704.89,3.86,2.45,8,54.67,13.1,2.56,50.75,Tanpa Adaptasi
+9336,2015,Russia,Volga,Coffee,2317.06,26.23,2.682,8,24.03,49.46,0.15,71.7,Manajemen Air
+9337,2007,Argentina,Northwest,Fruits,1279.32,17.03,1.944,10,27.8,21.51,98.11,79.13,Tanpa Adaptasi
+9338,2020,Australia,'New South Wales',Soybeans,1696.94,10.68,3.83,2,60.1,42.36,41.39,55.02,Tanaman Tahan Kekeringan
+9339,1990,Australia,Victoria,Rice,556.06,27.03,0.9,0,43.11,18.42,96.01,42.74,Tanpa Adaptasi
+9340,2013,France,Nouvelle-Aquitaine,Fruits,818.06,9.22,2.45,10,55.39,14.9,19.95,70.48,Manajemen Air
+9341,1997,Nigeria,'North West',Sugarcane,2644.55,21.37,1.08,8,86.61,18.8,9.56,84.82,Tanaman Tahan Kekeringan
+9342,2004,France,Nouvelle-Aquitaine,Cotton,659.95,5.84,1.34,1,33.31,14.46,16.8,78.41,Tanpa Adaptasi
+9343,2020,China,North,Cotton,1335.03,19.13,3.312,2,34.96,23.67,92.53,38.1,Manajemen Air
+9344,2021,Canada,Quebec,Fruits,2124.21,7.63,1.48,4,32.79,42.52,85.46,88.57,Tanpa Adaptasi
+9345,2023,Canada,Quebec,Corn,250.47,10.94,1.737,4,45.4,24.93,16.93,75.18,Rotasi Tanaman
+9346,2024,Brazil,Southeast,Cotton,2254.27,13.77,2.93,3,41.34,27.61,24.37,62.12,Manajemen Air
+9347,2016,Nigeria,'South West',Soybeans,1957.07,4.73,2.87,6,48.6,43.69,8.09,83.51,Pertanian Organik
+9348,1991,Brazil,Northeast,Cotton,566,4.34,2.41,4,98.36,39.57,99.73,44.66,Tanpa Adaptasi
+9349,2008,USA,Northeast,Rice,1881.55,8.59,1.57,8,40.01,24.43,99.37,98.16,Tanaman Tahan Kekeringan
+9350,2014,Nigeria,'North Central',Cotton,2683.48,14.62,2.53,4,76.66,11.53,6.85,36.54,Tanpa Adaptasi
+9351,1999,France,'Grand Est',Rice,2932.93,7.07,1.94,6,14,47.5,54.95,98.26,Tanaman Tahan Kekeringan
+9352,2006,Brazil,North,Corn,824.62,5.39,3.44,10,66.64,34.14,94.41,52.31,Manajemen Air
+9353,1993,Argentina,Pampas,Soybeans,1564.51,3.27,1.8,2,75.64,25.91,15.38,99.11,Manajemen Air
+9354,2000,Russia,Central,Corn,1050.58,14.62,1.67,9,94.1,8.5,23.63,40.26,Rotasi Tanaman
+9355,2004,China,Central,Barley,1481.94,29.46,1.872,10,72.12,33.17,13.23,60.68,Manajemen Air
+9356,1996,Canada,Quebec,Sugarcane,2348.57,19.46,1.512,10,23.02,13.01,53.57,81.27,Manajemen Air
+9357,2005,USA,Midwest,Vegetables,2628.58,10.78,3.75,9,45.9,24.39,99.39,72.78,Tanaman Tahan Kekeringan
+9358,1999,Australia,Queensland,Cotton,1061.71,8.88,1.86,4,82.49,43.19,96.19,67.91,Pertanian Organik
+9359,1998,France,Ile-de-France,Soybeans,2251.4,17.72,1.053,0,56.27,1.87,65.98,38.26,Tanaman Tahan Kekeringan
+9360,2019,India,'West Bengal',Barley,968.39,25.26,2.097,7,26.57,49.09,77.13,81.22,Tanpa Adaptasi
+9361,2002,Canada,'British Columbia',Wheat,935.83,4.49,1.63,2,36.31,47.02,28,51.21,Pertanian Organik
+9362,1997,Australia,'New South Wales',Barley,2713.32,15.85,2.367,0,16.28,47.3,51.33,30.58,Tanaman Tahan Kekeringan
+9363,2000,India,Maharashtra,Barley,2611.9,25.73,2.853,1,83.24,34.48,26.28,79.49,Manajemen Air
+9364,2007,France,Nouvelle-Aquitaine,Wheat,1295.11,29.87,1.98,7,90.63,21.67,36.42,62.68,Pertanian Organik
+9365,2018,Nigeria,'South West',Soybeans,1248.54,4.59,1.97,4,14.29,13.75,79.94,40.96,Manajemen Air
+9366,2021,Canada,Prairies,Barley,1553.77,5.08,2.94,6,50.29,38.58,60.58,41.72,Rotasi Tanaman
+9367,1991,France,'Provence-Alpes-Cote d’Azur',Corn,717.6,5.97,2.96,10,43.59,31.15,86.33,31.35,Tanaman Tahan Kekeringan
+9368,2006,Argentina,Northeast,Wheat,2262.83,7.48,1.57,5,79.15,19.78,98.7,89.5,Rotasi Tanaman
+9369,2020,India,Punjab,Soybeans,725.09,18.75,3.42,9,54.69,42.81,58.29,43.02,Tanpa Adaptasi
+9370,2000,Argentina,Patagonia,Sugarcane,2089.1,11.05,1.63,2,68.86,26.62,45.91,83.24,Manajemen Air
+9371,2002,India,'Tamil Nadu',Vegetables,1761.12,17.56,1.422,5,71.67,47,90.64,93.08,Pertanian Organik
+9372,2014,Australia,Victoria,Fruits,1450.85,28.3,3.015,2,97.67,42.81,72.05,56.63,Tanaman Tahan Kekeringan
+9373,1992,Nigeria,'South East',Barley,2229.09,22.76,4.491,2,33.49,6.93,49.66,99.71,Rotasi Tanaman
+9374,2001,Russia,Central,Coffee,2574.28,27.85,0.657,4,97.02,13.38,59.7,51.93,Manajemen Air
+9375,1995,Brazil,Northeast,Cotton,418.68,1.41,2.052,5,71.43,43.67,14.78,77.14,Rotasi Tanaman
+9376,1999,China,Central,Rice,853.27,29.68,1.404,1,14.25,38.96,13.79,52.42,Manajemen Air
+9377,2019,France,Ile-de-France,Vegetables,1761.96,15.97,1.512,10,36.67,4.13,35.26,96.52,Tanpa Adaptasi
+9378,2004,India,Punjab,Vegetables,1685.45,17.89,1.989,3,42.77,33.13,41.24,48.86,Manajemen Air
+9379,1990,Russia,Volga,Cotton,469.85,27.81,1.107,3,72.6,39.73,7.23,46.96,Pertanian Organik
+9380,1991,Russia,Volga,Soybeans,601.79,6.62,3.81,1,39.34,6.68,4.49,37.27,Tanpa Adaptasi
+9381,2019,Australia,'New South Wales',Rice,205.69,18.1,0.468,6,71.95,39.87,55.5,92.88,Tanaman Tahan Kekeringan
+9382,1994,Australia,'Western Australia',Sugarcane,566.91,7.31,2.84,4,86.22,36.54,11.46,55.25,Rotasi Tanaman
+9383,2002,Australia,'New South Wales',Rice,1047.77,6.71,4.47,5,54.36,19.8,52.01,88.85,Manajemen Air
+9384,1990,Nigeria,'South West',Vegetables,373.29,12.03,3.042,6,60.14,44.58,4.04,60.59,Tanaman Tahan Kekeringan
+9385,2000,Nigeria,'South West',Cotton,1652.95,3.66,2.92,8,96.88,34.34,94.57,87.33,Pertanian Organik
+9386,2001,Canada,Prairies,Vegetables,2070.71,27.23,2.646,7,72.76,29.09,61.86,78.42,Rotasi Tanaman
+9387,2008,Argentina,Patagonia,Sugarcane,910.29,3.66,2.25,1,66.15,40.35,24.78,68.03,Rotasi Tanaman
+9388,1996,Canada,Quebec,Barley,2518.3,26.73,1.44,3,28.68,10.1,43.48,65.53,Manajemen Air
+9389,1994,Russia,Northwestern,Vegetables,2428.85,19.97,2.277,2,35.22,10.18,14.13,44.8,Manajemen Air
+9390,2014,Russia,Northwestern,Coffee,2665.75,8.19,4.04,5,65.94,44.24,18.96,95.47,Rotasi Tanaman
+9391,2000,Canada,Prairies,Sugarcane,1939.04,21.34,2.286,4,43.38,24.48,94.72,78.31,Manajemen Air
+9392,2023,Nigeria,'North West',Corn,1701.93,22.18,1.386,1,68.47,20.15,32.26,63.13,Rotasi Tanaman
+9393,2007,China,East,Rice,2546.94,3.58,2.55,2,12.47,10.73,65.76,87.15,Tanpa Adaptasi
+9394,2017,Brazil,Southeast,Vegetables,599.35,27.42,2.601,3,22.91,10.83,84.63,46.57,Tanaman Tahan Kekeringan
+9395,2013,Nigeria,'South West',Coffee,1713,25.21,2.034,5,89.05,6.41,16.99,35.42,Manajemen Air
+9396,2005,USA,South,Soybeans,450.99,15.53,3.042,2,67.66,39.05,1.67,98.49,Tanpa Adaptasi
+9397,1990,Australia,Queensland,Vegetables,984.13,22.57,2.673,5,59.84,4.36,13.82,84.58,Tanaman Tahan Kekeringan
+9398,2022,India,Punjab,Sugarcane,1836.46,0.67,3.15,9,54.76,49.19,61.87,31.76,Pertanian Organik
+9399,2022,India,Punjab,Coffee,920.3,15.94,0.918,9,63.62,4.56,42.69,41.47,Manajemen Air
+9400,2009,France,'Grand Est',Fruits,2827.68,18.48,2.286,6,99.59,23.98,53.07,58.13,Pertanian Organik
+9401,2021,France,Nouvelle-Aquitaine,Soybeans,1857.6,22.33,1.566,2,31.18,20.68,71.54,59,Tanaman Tahan Kekeringan
+9402,2004,India,Punjab,Corn,1254.7,29.78,1.143,2,41.22,44.87,22.95,62.23,Manajemen Air
+9403,1996,Canada,Quebec,Wheat,1067.04,20.37,1.791,10,69.46,21.17,5.62,58.26,Manajemen Air
+9404,2010,France,'Grand Est',Coffee,1571.55,26.59,0.756,3,96.45,15.97,90.26,93.63,Tanaman Tahan Kekeringan
+9405,2011,Canada,Quebec,Rice,1083.46,6.54,4.21,4,86.91,21.36,70.08,36.38,Tanpa Adaptasi
+9406,2003,Nigeria,'South West',Vegetables,1765.92,27.12,2.286,3,71.11,37.44,75.11,53.19,Tanaman Tahan Kekeringan
+9407,2014,Russia,Volga,Wheat,1758.43,1.57,3.71,5,11.9,4.14,34.36,95.16,Manajemen Air
+9408,2013,Canada,'British Columbia',Vegetables,2754.93,18.02,1.431,10,39.96,23.45,48.1,52.4,Tanpa Adaptasi
+9409,2013,Canada,Prairies,Wheat,1261.46,23.14,3.87,8,13.36,30.06,65.46,66.15,Pertanian Organik
+9410,2019,Australia,Queensland,Corn,1127.22,5.78,2.32,10,35.82,12.6,76.53,99.12,Pertanian Organik
+9411,2015,Russia,Siberian,Cotton,2798.35,3.1,0.64,2,23.99,43.83,10.74,74.68,Tanpa Adaptasi
+9412,2005,Nigeria,'South West',Cotton,2801.69,12.12,1.96,1,27.94,27.36,11.52,73.59,Tanpa Adaptasi
+9413,2000,Nigeria,'North Central',Wheat,2852.9,15.84,2.376,9,88.16,2.39,90.26,86.22,Pertanian Organik
+9414,1994,Brazil,North,Sugarcane,2871.02,18.24,2.673,7,21.01,45.97,1.95,43.91,Tanpa Adaptasi
+9415,2010,Russia,Northwestern,Barley,325.52,27.02,1.683,0,67.91,10.95,18.5,38.64,Tanaman Tahan Kekeringan
+9416,1993,Russia,Siberian,Soybeans,1372.78,21.48,1.917,0,45.39,13.27,15.8,94.71,Manajemen Air
+9417,2001,India,'West Bengal',Cotton,2957.04,23.41,1.503,5,29.1,12.98,24.5,88.87,Manajemen Air
+9418,2012,Nigeria,'South West',Barley,1727.39,4.43,1.56,10,19.09,45.55,76.72,60.9,Rotasi Tanaman
+9419,2021,India,Punjab,Rice,1269.97,13.71,4.36,2,98.22,38.65,18.52,32.32,Tanaman Tahan Kekeringan
+9420,2016,India,'Tamil Nadu',Coffee,995.19,1.61,3.32,2,65.45,24.97,71.26,34.64,Tanaman Tahan Kekeringan
+9421,1994,Australia,'Western Australia',Vegetables,412.32,3.83,2.241,5,46.84,33.53,8.67,91.78,Tanpa Adaptasi
+9422,2016,Brazil,Northeast,Coffee,567.28,23.93,2.835,8,35.78,0.57,34.83,94.03,Tanaman Tahan Kekeringan
+9423,2018,India,Punjab,Barley,2411.97,9.17,3.88,3,16.74,7.13,5.97,46.19,Tanpa Adaptasi
+9424,2020,France,'Provence-Alpes-Cote d’Azur',Corn,1948.61,3.34,2.27,3,38.69,4.24,77.4,96.59,Manajemen Air
+9425,2010,Russia,Volga,Cotton,1880.88,3.49,3.36,9,41.14,19.07,60.68,86.11,Tanpa Adaptasi
+9426,1993,Australia,'Western Australia',Coffee,262.16,13.5,1.917,9,93.5,47.04,80.7,98.6,Tanaman Tahan Kekeringan
+9427,2016,Australia,Queensland,Rice,2045.5,5.8,3.83,2,85.66,45.06,59.25,86.16,Pertanian Organik
+9428,2018,France,'Provence-Alpes-Cote d’Azur',Fruits,1135.73,17.4,2.223,1,80.64,19.48,11.88,81.89,Rotasi Tanaman
+9429,2003,USA,West,Soybeans,1158.27,18.47,1.08,10,43.08,22.42,74.43,85.72,Tanpa Adaptasi
+9430,1997,India,'West Bengal',Barley,2795.26,9.01,0.77,4,97.86,33.28,79.57,66.22,Rotasi Tanaman
+9431,2014,China,North,Fruits,2143.88,1.06,2.47,2,61.92,28.69,9.29,70.82,Tanpa Adaptasi
+9432,2005,France,Nouvelle-Aquitaine,Fruits,2145.57,27.47,3.825,8,33.79,27.53,64,79.81,Pertanian Organik
+9433,2014,Argentina,Northeast,Sugarcane,202.81,14.79,2.412,1,98.03,38.54,54.47,45.3,Tanpa Adaptasi
+9434,2021,Argentina,Pampas,Soybeans,661.19,16.08,1.071,8,32.5,20.31,83.02,39.88,Tanaman Tahan Kekeringan
+9435,2003,Australia,Queensland,Vegetables,706.76,6.37,1.42,6,74.83,28.51,8.41,85.24,Pertanian Organik
+9436,1990,France,'Grand Est',Barley,895.69,9.06,4.71,3,76.08,8.29,88.69,73.17,Pertanian Organik
+9437,1999,China,South,Fruits,434.32,20.23,3.168,0,62.08,40.12,68.71,46.46,Tanaman Tahan Kekeringan
+9438,2008,Nigeria,'South West',Fruits,1358.62,3.46,2.46,0,77.73,25.09,68.95,49.58,Pertanian Organik
+9439,2021,France,Nouvelle-Aquitaine,Barley,1203.35,7.25,0.57,8,60.69,25.75,78.61,81.11,Rotasi Tanaman
+9440,2000,Australia,'New South Wales',Rice,1639.26,15.78,3.465,1,51.82,49.91,92.34,62.2,Tanpa Adaptasi
+9441,1994,India,Maharashtra,Vegetables,2897.47,2,3.48,4,78.94,28.97,95.22,32.25,Manajemen Air
+9442,2015,Australia,Victoria,Vegetables,333.76,26.51,3.186,4,48.09,22.24,50.61,75.77,Tanpa Adaptasi
+9443,2009,India,Maharashtra,Wheat,1766.16,17.82,2.628,6,71.49,16.98,83.03,82.96,Rotasi Tanaman
+9444,2010,Russia,Northwestern,Wheat,738.21,22.65,2.745,4,13.93,5.15,61.21,45.83,Tanaman Tahan Kekeringan
+9445,1995,Canada,'British Columbia',Wheat,2921.34,20.59,2.655,2,72.56,9.76,1.58,31.24,Rotasi Tanaman
+9446,2018,Russia,Siberian,Rice,1881.44,19.32,3.303,0,49.07,1.87,47.22,70.43,Pertanian Organik
+9447,1994,India,Punjab,Coffee,1763.35,22.61,0.684,6,72.58,20.9,10.46,80.68,Rotasi Tanaman
+9448,2020,Australia,'Western Australia',Wheat,269.13,16.61,2.088,9,87.16,0.69,53.8,43.76,Pertanian Organik
+9449,2014,Argentina,Northwest,Soybeans,1170.34,4.39,3.68,6,95.63,12.94,5.45,98.95,Tanaman Tahan Kekeringan
+9450,2010,Russia,Central,Wheat,624.18,20.54,1.368,8,30.06,49.87,5.86,77.17,Tanpa Adaptasi
+9451,1991,China,North,Wheat,239.37,19.02,1.512,1,77.98,31.16,56.54,77.31,Pertanian Organik
+9452,1991,China,North,Soybeans,1777.04,6.16,1.04,6,70.74,22.86,82.24,85.53,Tanaman Tahan Kekeringan
+9453,2002,Australia,Victoria,Cotton,2987.89,2.76,1.38,0,70.68,0.48,69.52,48.07,Tanaman Tahan Kekeringan
+9454,2005,Argentina,Patagonia,Barley,2106.89,18.3,1.836,3,73.35,46.07,74.42,44.93,Rotasi Tanaman
+9455,2004,USA,Northeast,Vegetables,1593.79,2.61,3.58,2,34.26,18.83,79.01,59.86,Tanaman Tahan Kekeringan
+9456,2001,China,East,Sugarcane,2094.91,1.75,0.84,8,56.83,31.67,38.07,36.78,Tanpa Adaptasi
+9457,1996,India,Punjab,Soybeans,2298.02,6.46,2.35,1,52.3,26.1,14.73,92.55,Rotasi Tanaman
+9458,2001,Canada,'British Columbia',Cotton,1926.28,16.67,2.304,10,19.44,21.03,60.58,33.22,Tanaman Tahan Kekeringan
+9459,2020,Nigeria,'South West',Coffee,1163.26,12.51,1.34,5,10.53,3.06,19.44,51.13,Rotasi Tanaman
+9460,2014,USA,West,Vegetables,2652.23,15.55,2.331,4,98.36,16.02,42.11,42.77,Tanaman Tahan Kekeringan
+9461,2019,Brazil,Northeast,Cotton,306.88,26.2,2.322,5,65.08,42.3,46.03,99.94,Rotasi Tanaman
+9462,2006,China,North,Barley,669.8,25.96,1.836,1,47.05,41.04,20.45,62.62,Tanpa Adaptasi
+9463,2010,Australia,'New South Wales',Sugarcane,2703.88,22.37,2.367,8,46.78,12.09,5.92,58.16,Pertanian Organik
+9464,2013,Russia,Central,Wheat,1770.43,4.03,0.89,2,70.16,16.01,27.28,40.65,Tanpa Adaptasi
+9465,2004,Nigeria,'North West',Cotton,2956.63,18.42,0.684,8,24.73,7.47,1.43,76.18,Manajemen Air
+9466,1990,India,'Tamil Nadu',Vegetables,1394.83,21.87,3.087,2,49.92,9.47,97.23,67.64,Tanpa Adaptasi
+9467,1999,USA,South,Rice,1011.07,18.11,1.053,5,70.91,16.37,52.23,53.78,Tanpa Adaptasi
+9468,2015,France,Nouvelle-Aquitaine,Corn,533.65,12.38,4.49,4,50.06,11.26,38.01,76.8,Tanpa Adaptasi
+9469,2003,Argentina,Patagonia,Rice,930.06,24.67,0.9,9,12.86,46.3,43.85,78.66,Pertanian Organik
+9470,2017,France,'Provence-Alpes-Cote d’Azur',Wheat,510.15,19.77,2.259,10,21.41,25.99,17.43,95.47,Pertanian Organik
+9471,1991,Canada,Quebec,Rice,1430.76,24.61,1.44,8,14.17,43.75,29.82,98.3,Tanpa Adaptasi
+9472,2001,China,South,Wheat,438.38,2.17,1.386,5,15.41,47.91,11.93,65.43,Rotasi Tanaman
+9473,2014,France,Ile-de-France,Vegetables,1674.84,28.7,2.979,5,35.13,23.68,35.47,83.12,Manajemen Air
+9474,2002,India,'Tamil Nadu',Rice,1230.77,4.78,3.63,6,18.26,4.7,3.97,95.22,Manajemen Air
+9475,2012,USA,Northeast,Vegetables,2850.37,16.98,1.629,6,87.08,35.27,17.42,53.59,Pertanian Organik
+9476,2022,Australia,'Western Australia',Cotton,329.5,20.07,1.62,10,75.81,36.23,61.9,69.31,Manajemen Air
+9477,2019,Nigeria,'North West',Barley,2946.08,1.83,2.6,1,27.67,35.5,36.86,31.57,Tanpa Adaptasi
+9478,1991,China,South,Sugarcane,2502.39,13.89,4.28,2,48.97,48.94,44.2,39.93,Pertanian Organik
+9479,2005,Nigeria,'North Central',Barley,676.33,24.68,1.746,8,58.47,14.98,39.1,68.31,Rotasi Tanaman
+9480,1998,Russia,Siberian,Wheat,2163.06,15.55,2.97,1,61.85,46.58,83.97,95.77,Tanpa Adaptasi
+9481,1990,Russia,Central,Fruits,1214.72,19.87,2.52,0,34.74,45.21,13.22,98.24,Tanaman Tahan Kekeringan
+9482,1996,France,'Grand Est',Vegetables,477.12,29.59,2.259,6,15.09,11.61,59.1,82.6,Rotasi Tanaman
+9483,2007,China,East,Coffee,2260.19,4.24,0.89,9,74.23,0.07,13.09,36.81,Pertanian Organik
+9484,2007,France,Nouvelle-Aquitaine,Vegetables,2017.15,17.84,0.837,8,93.51,21.37,81.56,87.69,Pertanian Organik
+9485,2015,Brazil,South,Rice,648.29,16.26,3.177,1,95.77,41.97,64.16,57.06,Tanaman Tahan Kekeringan
+9486,2017,France,'Provence-Alpes-Cote d’Azur',Sugarcane,897.39,12.47,1.03,7,92.78,49.36,90.5,38.72,Tanpa Adaptasi
+9487,2017,USA,Northeast,Wheat,1814.76,11.34,2.76,1,28.48,18.39,94.65,38.62,Pertanian Organik
+9488,2016,Brazil,North,Corn,1195.05,12.67,3.44,0,94.59,30.63,32.64,65.28,Manajemen Air
+9489,1998,Argentina,Patagonia,Sugarcane,1300.41,12.03,1.24,5,17.03,6.43,94.39,30.66,Rotasi Tanaman
+9490,2005,USA,Midwest,Fruits,1339.45,9.85,3.45,0,97.49,44.92,81.19,36.4,Tanpa Adaptasi
+9491,2014,Argentina,Northwest,Fruits,1009.89,26.49,1.575,8,95.95,24.61,98.18,88.85,Rotasi Tanaman
+9492,2017,Brazil,South,Sugarcane,1704.74,12.39,3.24,4,86.88,47.75,78.72,34.9,Tanpa Adaptasi
+9493,2007,India,'West Bengal',Barley,1147.83,8.99,3.35,8,66.29,28.05,92.8,84.22,Tanaman Tahan Kekeringan
+9494,2006,Canada,Ontario,Vegetables,1898.33,15.34,1.71,3,26.51,19.85,99.58,41.29,Pertanian Organik
+9495,2018,Argentina,Patagonia,Sugarcane,1554.67,2.67,2.51,10,61.14,36.63,31.6,89.7,Tanpa Adaptasi
+9496,2007,Russia,Volga,Corn,2549.06,12.53,2.36,3,50.29,33.98,41.68,39.52,Manajemen Air
+9497,2003,Nigeria,'South West',Corn,736.51,2.72,1.57,7,26.43,4.35,72.75,80.97,Rotasi Tanaman
+9498,1994,India,Punjab,Coffee,1230.78,16.24,3.492,10,50.71,4.64,37.54,96.95,Pertanian Organik
+9499,2018,Australia,Queensland,Sugarcane,2566.96,4.87,1.43,10,79.08,1.34,12.88,82.3,Rotasi Tanaman
+9500,2017,China,South,Coffee,908.37,2.93,2.49,10,20.12,35.6,63.92,83.41,Rotasi Tanaman
+9501,2023,Australia,'New South Wales',Cotton,1117.47,1.46,2.92,9,48.24,10.43,53.4,86.6,Tanaman Tahan Kekeringan
+9502,2023,Russia,Central,Rice,1195.28,9.96,3.65,7,25.18,9.11,62.04,96.38,Pertanian Organik
+9503,2012,Russia,Siberian,Coffee,1865.25,28.27,2.997,8,52.43,19.22,59.79,97.96,Tanaman Tahan Kekeringan
+9504,2004,India,Punjab,Vegetables,1623.89,16.14,2.07,6,57.73,7.48,9.04,61.82,Tanpa Adaptasi
+9505,2022,Australia,'New South Wales',Cotton,1797.31,29.58,4.41,1,87.84,13.26,46.7,47.93,Rotasi Tanaman
+9506,2015,India,Maharashtra,Wheat,1011.53,20.42,2.466,8,85.98,29.93,35.28,55.09,Tanaman Tahan Kekeringan
+9507,2007,Russia,Central,Sugarcane,1942.72,12.57,3.29,7,10.33,34.94,21.38,47.2,Manajemen Air
+9508,2018,Russia,Central,Coffee,1578.24,16.1,0.765,6,86.16,22.26,48.66,52.52,Tanpa Adaptasi
+9509,1996,France,'Grand Est',Corn,2085.42,8.97,1.22,6,65.72,0.22,79.28,41.83,Rotasi Tanaman
+9510,1994,France,Ile-de-France,Fruits,2747.77,21.9,3.519,6,83.4,49.66,94.11,59.76,Tanpa Adaptasi
+9511,2019,Brazil,Northeast,Rice,1756.24,29.12,1.773,9,12.98,31.4,64.89,67.85,Rotasi Tanaman
+9512,2011,USA,West,Corn,2099.87,27.23,1.737,2,59.58,43.19,71.19,75.44,Tanpa Adaptasi
+9513,2020,Brazil,Southeast,Fruits,1769.31,20.17,3.276,1,39.69,46.95,78.17,87.01,Manajemen Air
+9514,2002,Argentina,Northwest,Rice,2733.15,11.34,1.66,5,73.41,20.61,5.16,54.39,Rotasi Tanaman
+9515,2020,France,Nouvelle-Aquitaine,Barley,466.22,28.83,1.755,0,40.27,8.33,93.93,40.22,Manajemen Air
+9516,2023,Australia,'New South Wales',Sugarcane,1183.54,26.51,3.186,1,48.74,23.87,34.56,70.86,Manajemen Air
+9517,1997,Canada,Prairies,Fruits,679.31,24.9,0.981,1,17.34,16.46,45.15,92.46,Rotasi Tanaman
+9518,2004,Russia,Siberian,Rice,2705.15,28.03,2.259,3,59.83,32.31,17.85,43.36,Pertanian Organik
+9519,1991,Australia,Queensland,Soybeans,2793.19,22.21,1.296,9,38.75,13.26,20.7,44.2,Tanpa Adaptasi
+9520,2018,USA,West,Cotton,1635.08,16.4,2.52,8,94.84,45.13,60.27,48.68,Pertanian Organik
+9521,1997,Argentina,Northeast,Fruits,2434.63,15.25,0.504,9,26.08,42.83,61.28,35.34,Rotasi Tanaman
+9522,2008,China,North,Sugarcane,2470.61,27.28,4.221,6,12.18,26.73,85.59,83.43,Rotasi Tanaman
+9523,1996,Australia,Queensland,Cotton,310.67,27.42,1.935,5,56.69,41.46,94.26,60.12,Rotasi Tanaman
+9524,2002,Nigeria,'South East',Fruits,1895.18,12.99,1.88,8,35.87,8.41,3.11,44.6,Tanpa Adaptasi
+9525,1994,Brazil,Southeast,Vegetables,393.08,4.56,1.215,7,37.38,39.74,18.28,73.67,Pertanian Organik
+9526,2021,Brazil,South,Fruits,978.42,29.89,3.384,0,71.42,6.11,92.14,94.7,Rotasi Tanaman
+9527,2024,China,North,Rice,841.74,3.11,2.56,1,16.27,14.42,75.51,74.88,Tanaman Tahan Kekeringan
+9528,1996,India,Punjab,Fruits,1622.77,10.76,2.88,9,63.8,14.38,12.53,72.78,Pertanian Organik
+9529,2011,Australia,'Western Australia',Fruits,2285.6,9.39,1.35,5,63.29,21.91,47.17,81.19,Manajemen Air
+9530,2008,Australia,Queensland,Coffee,2273.21,2.89,4.57,3,42.37,47.69,46.17,54.18,Manajemen Air
+9531,2024,Canada,Ontario,Soybeans,654.65,9.88,1.88,7,67.42,41.3,30.09,39.43,Tanaman Tahan Kekeringan
+9532,2003,Russia,Volga,Soybeans,2147.17,17.18,0.882,7,68.27,37.08,94.9,62.88,Tanaman Tahan Kekeringan
+9533,1997,India,Maharashtra,Cotton,1698.64,7.52,1.7,1,88.95,27.71,56.12,80.47,Tanpa Adaptasi
+9534,2007,France,Nouvelle-Aquitaine,Fruits,1871.36,24.51,1.458,3,80.12,15.66,87.31,64.76,Rotasi Tanaman
+9535,2008,Argentina,Patagonia,Barley,2288.53,18.52,3.204,4,11.19,45.64,32.97,83.7,Rotasi Tanaman
+9536,1994,Russia,Siberian,Rice,465.26,4.5,1.881,6,98.24,37.57,59.35,47.87,Manajemen Air
+9537,2004,Canada,Prairies,Fruits,1308.43,2.7,1.52,5,93.8,27.68,11.99,63.62,Tanpa Adaptasi
+9538,2006,Brazil,North,Soybeans,2224.63,1.16,2.18,7,54.4,25.51,3.63,43.7,Manajemen Air
+9539,2014,Canada,Ontario,Vegetables,601.36,7.75,1.05,9,11.83,11.48,15.65,57.05,Manajemen Air
+9540,1997,Australia,Victoria,Wheat,2364.58,13.16,3.33,4,72.38,48.77,12.25,94.46,Tanaman Tahan Kekeringan
+9541,2013,Australia,'Western Australia',Sugarcane,606.16,8.7,2.89,8,97.89,29.5,77.72,71.25,Pertanian Organik
+9542,2014,China,North,Wheat,1382.84,11.09,4.27,5,94.46,37.3,90.54,55.34,Manajemen Air
+9543,1992,Brazil,Southeast,Corn,301.1,25.62,1.098,8,24.78,49.63,15.11,64.53,Tanpa Adaptasi
+9544,2001,Brazil,Northeast,Vegetables,2368.52,26.57,2.781,8,77.6,33.51,12.1,60.25,Pertanian Organik
+9545,2004,Nigeria,'North Central',Wheat,485.95,0.64,2.457,5,94.31,10.19,62.02,78.44,Manajemen Air
+9546,2016,India,Punjab,Vegetables,2378.03,7.64,2.84,5,90.42,19.57,74.43,37.5,Tanaman Tahan Kekeringan
+9547,2014,Australia,'New South Wales',Wheat,2315.25,22.34,1.161,4,95.29,43.75,58.86,85.83,Tanaman Tahan Kekeringan
+9548,2014,Canada,Quebec,Wheat,517.06,26.03,1.332,2,87.44,28.36,92.89,34.16,Manajemen Air
+9549,2001,Brazil,Southeast,Fruits,899.41,4.44,4.32,5,52.36,20.51,96.25,44.88,Rotasi Tanaman
+9550,2024,Russia,Northwestern,Fruits,2767.86,22.94,2.637,2,32.42,29.77,41.1,87.36,Tanaman Tahan Kekeringan
+9551,1992,USA,Northeast,Vegetables,1651.8,9.58,2.49,2,42.81,14.09,81.19,47.07,Tanaman Tahan Kekeringan
+9552,1991,Australia,'New South Wales',Sugarcane,2982.65,6.23,1.4,9,32.02,33,90.87,52.28,Tanpa Adaptasi
+9553,2011,USA,South,Cotton,1414.12,23.06,2.754,9,78.79,30.97,51.83,53.07,Pertanian Organik
+9554,2017,India,'West Bengal',Rice,2258.67,11.86,1.14,10,93.59,25.32,71.9,74.34,Tanpa Adaptasi
+9555,2019,Argentina,Northwest,Corn,856.81,15.47,2.52,5,58.41,0.2,78.23,84.51,Manajemen Air
+9556,1991,Argentina,Pampas,Sugarcane,1789.06,27.45,2.853,9,82.04,10.02,94.64,66.68,Tanpa Adaptasi
+9557,2002,Brazil,South,Corn,1921.73,25.38,3.168,6,69.37,45.26,51.29,54.5,Manajemen Air
+9558,2022,India,'Tamil Nadu',Sugarcane,2250.7,11.26,4.74,5,78.64,39.29,98.91,85.41,Rotasi Tanaman
+9559,2001,China,East,Corn,2507.34,26.14,0.972,10,16.71,41.37,37.25,94.56,Rotasi Tanaman
+9560,2000,India,Maharashtra,Vegetables,1986.89,16.58,1.224,10,19.08,42.75,32.16,94.2,Manajemen Air
+9561,1998,France,Nouvelle-Aquitaine,Wheat,1631.08,25.75,2.565,4,28.05,49.31,21,78.07,Tanaman Tahan Kekeringan
+9562,1999,Nigeria,'North West',Coffee,1985.17,12.98,0.86,7,19.71,41.64,87.24,61.53,Manajemen Air
+9563,2022,Australia,Victoria,Wheat,2473.53,26.9,2.385,1,42.14,0.95,60.82,39.55,Pertanian Organik
+9564,2011,Nigeria,'North Central',Wheat,1484.9,7.3,1.13,2,21.81,33.71,61.41,51.24,Manajemen Air
+9565,2021,Argentina,Northeast,Barley,2581.21,6.96,1.68,7,30.87,1.38,9.16,56.72,Pertanian Organik
+9566,2015,Canada,Ontario,Coffee,638.3,13.05,1.41,1,43.62,10.62,18.17,61.99,Pertanian Organik
+9567,1993,Brazil,South,Barley,708.51,27.21,2.358,2,67.6,16.9,51.11,71.28,Tanaman Tahan Kekeringan
+9568,2007,India,Punjab,Wheat,2924.33,26.67,4.014,1,70.28,33.65,40.46,95.81,Pertanian Organik
+9569,1992,Nigeria,'North West',Coffee,1330.82,21.85,0.783,4,30.04,25.24,28.16,55.26,Pertanian Organik
+9570,2015,Canada,Ontario,Coffee,458.46,18.99,0.576,10,71.35,6.97,52.26,43.16,Tanpa Adaptasi
+9571,1994,Russia,Northwestern,Cotton,653.36,21.51,0.837,2,11.52,21.34,41.46,49.55,Tanaman Tahan Kekeringan
+9572,2002,India,'West Bengal',Coffee,2360.83,17.09,2.862,1,43.74,32.3,15.59,64.23,Rotasi Tanaman
+9573,2018,USA,South,Cotton,1923.38,29.92,0.936,9,10.17,23.05,0.52,46.25,Manajemen Air
+9574,2011,Brazil,Southeast,Fruits,2935.02,29.31,2.637,1,31.28,41.49,30.87,73.95,Tanpa Adaptasi
+9575,2016,Australia,Victoria,Cotton,1090.06,20.78,1.539,3,27.96,9.68,72.92,66.12,Manajemen Air
+9576,2004,USA,South,Cotton,535.15,0.7,1.34,2,43.61,22.61,97.67,80.66,Tanpa Adaptasi
+9577,1999,Russia,Northwestern,Cotton,272.31,7.45,0.819,2,33.92,1.58,87.08,99.71,Tanpa Adaptasi
+9578,1995,Brazil,North,Vegetables,2448.4,27.23,0.945,4,46.14,43.04,82.68,83.72,Tanaman Tahan Kekeringan
+9579,2015,USA,Midwest,Wheat,960.33,19.79,0.855,8,12.18,26.27,38.61,62.28,Pertanian Organik
+9580,2017,Argentina,Patagonia,Wheat,2085.44,20.72,2.619,10,20.15,13.3,87.33,58.38,Tanaman Tahan Kekeringan
+9581,2017,China,South,Fruits,1329.7,9.62,2.91,9,50.35,40.82,32.24,34.8,Rotasi Tanaman
+9582,2003,China,North,Corn,2245.42,9.71,2.66,0,95.46,30.71,75.84,74.38,Tanpa Adaptasi
+9583,1991,Brazil,North,Coffee,688.27,5.39,3.22,0,82.47,0.43,97.43,44.03,Rotasi Tanaman
+9584,2005,Canada,Ontario,Barley,2254.66,16.06,0.981,9,15.92,36.47,67.36,78.04,Pertanian Organik
+9585,1999,China,South,Wheat,2597.93,11.59,0.56,5,14.28,12.52,70.41,75.46,Rotasi Tanaman
+9586,1998,Canada,Quebec,Soybeans,444.68,12.09,0.837,3,18.24,33.8,28.47,62.85,Manajemen Air
+9587,1994,India,Punjab,Fruits,251.54,9.11,2.628,2,15.15,33.11,15.21,85.13,Tanpa Adaptasi
+9588,2020,Argentina,Pampas,Corn,2476.93,16.57,1.926,0,58.21,38.53,81.23,59.37,Tanpa Adaptasi
+9589,2004,Russia,Northwestern,Cotton,2575.82,23.96,3.159,8,93.24,10.31,89.16,52.21,Manajemen Air
+9590,2001,China,East,Soybeans,2605.84,15.82,4.194,10,52.33,8.26,26.56,52.76,Manajemen Air
+9591,1999,India,Punjab,Barley,1394.02,1.63,0.83,5,14,17.62,19.54,41.58,Tanaman Tahan Kekeringan
+9592,2019,India,Maharashtra,Rice,927.87,0.81,3.62,3,98.41,14.62,17.16,72.46,Pertanian Organik
+9593,2005,China,East,Vegetables,606.3,5.24,2.32,0,10.29,17.28,23.11,73.32,Tanpa Adaptasi
+9594,2009,Brazil,Southeast,Cotton,2971,17.89,1.854,3,43,18.87,95.49,99.33,Pertanian Organik
+9595,1995,India,'West Bengal',Coffee,1176.38,15.1,0.936,4,67.3,7.33,30.78,80.1,Manajemen Air
+9596,1993,USA,Midwest,Coffee,474.51,1.45,1.251,6,59.27,49.45,9.06,55.73,Rotasi Tanaman
+9597,2008,Australia,Victoria,Barley,1045.38,25.15,0.468,1,96.55,14.89,5.24,72.65,Pertanian Organik
+9598,2020,India,Maharashtra,Cotton,1755.59,4.67,1.36,6,45.58,4.68,58.54,68.65,Pertanian Organik
+9599,2022,Australia,Queensland,Barley,1116.5,25.1,1.503,6,13,32.41,88.55,89.67,Manajemen Air
+9600,1995,Australia,'New South Wales',Cotton,1322.54,28.24,3.501,4,12.24,19.18,28.48,72.02,Manajemen Air
+9601,2003,Australia,Victoria,Vegetables,1425.81,6.97,2.34,7,53,48.21,92.09,76.37,Pertanian Organik
+9602,2019,France,Nouvelle-Aquitaine,Fruits,410.47,1.91,2.097,5,61.9,46.81,83.45,45.01,Pertanian Organik
+9603,1999,China,South,Rice,2737.71,10.4,2.28,1,35.15,18.47,51.17,97.38,Rotasi Tanaman
+9604,2023,India,Maharashtra,Sugarcane,2954.33,2.39,1.87,5,15.04,38.84,56.65,81.96,Tanaman Tahan Kekeringan
+9605,2005,Australia,Victoria,Fruits,1958.62,29.59,3.204,6,68.98,10.79,72.46,44.06,Tanpa Adaptasi
+9606,1999,India,Punjab,Fruits,2216.55,29.56,0.639,2,24.72,49.5,76.89,62.47,Tanaman Tahan Kekeringan
+9607,1996,Australia,Queensland,Coffee,2406.9,21.9,3.528,5,78.71,33.97,26.92,52.19,Rotasi Tanaman
+9608,1994,Canada,Prairies,Vegetables,2905.13,21.99,0.819,8,47.74,43,32.31,91.98,Rotasi Tanaman
+9609,2019,France,'Provence-Alpes-Cote d’Azur',Fruits,1516.81,13,1.17,4,13.4,31.09,70.79,36.29,Tanpa Adaptasi
+9610,1991,China,North,Cotton,2813.7,8.7,2.15,5,36.05,16.77,93.34,68.37,Tanpa Adaptasi
+9611,2006,France,'Grand Est',Wheat,2921.5,11.3,1.99,1,68.99,0.85,25.93,73.71,Tanpa Adaptasi
+9612,2016,China,Central,Rice,2740.6,7.59,3.68,4,93.79,43.34,29.05,30.71,Tanaman Tahan Kekeringan
+9613,2002,Brazil,Southeast,Wheat,248.51,11.88,3.357,0,24.7,27.26,36.21,81.57,Tanpa Adaptasi
+9614,2022,Brazil,Southeast,Cotton,624.62,20.82,0.846,7,58.5,0.95,36.7,90.59,Tanaman Tahan Kekeringan
+9615,2016,India,Punjab,Rice,2451.72,17.68,2.574,4,17.09,8.48,78.19,67.48,Tanaman Tahan Kekeringan
+9616,2015,France,'Grand Est',Soybeans,1261.11,3.63,1.34,9,76.22,13.56,69.58,85.83,Manajemen Air
+9617,2017,Russia,Volga,Fruits,2787.96,24.79,3.078,2,23.55,33.86,91.24,82.38,Tanaman Tahan Kekeringan
+9618,2022,France,'Grand Est',Corn,1355.14,11.71,1.22,6,20.36,24.73,96.16,86.35,Rotasi Tanaman
+9619,1998,Australia,'Western Australia',Rice,1820.03,6.61,3.91,2,53,29.06,15.94,71.15,Rotasi Tanaman
+9620,2019,Argentina,Northeast,Cotton,658.82,15.75,1.944,2,65.26,0.72,70.77,46.79,Pertanian Organik
+9621,2017,Brazil,Southeast,Rice,2552.13,5.19,2.99,2,97.06,29.74,96.77,83.53,Manajemen Air
+9622,1990,China,Central,Barley,2541.81,10.72,2.97,4,35.61,11.48,49.43,50.54,Tanaman Tahan Kekeringan
+9623,1994,Canada,Quebec,Fruits,2978.95,8.51,2.21,9,32.62,42.5,10.33,94.07,Tanpa Adaptasi
+9624,2022,Brazil,Southeast,Rice,2672.82,12.6,3.66,3,49.66,2.04,78.79,68.92,Manajemen Air
+9625,2012,Australia,'Western Australia',Corn,1569.1,27.59,1.08,1,18.66,23.39,11.92,72.42,Pertanian Organik
+9626,2005,Canada,Quebec,Corn,2244.11,4.69,1.31,6,26.18,15.85,7.57,85.79,Rotasi Tanaman
+9627,2012,Brazil,South,Sugarcane,2838.09,26.23,1.602,6,29.75,36.9,11.28,61.78,Tanaman Tahan Kekeringan
+9628,2014,China,East,Cotton,2871.61,29.41,1.512,2,18.56,35.02,22.32,65.2,Pertanian Organik
+9629,2018,USA,Midwest,Coffee,360.55,29.96,3.231,3,69.05,1.53,57.64,88.37,Pertanian Organik
+9630,2019,France,'Grand Est',Rice,759.5,13.95,1.35,9,13.42,10.61,99.65,33.47,Tanaman Tahan Kekeringan
+9631,1999,Canada,Quebec,Vegetables,2551.55,21.88,2.448,5,81.16,42.55,25.22,89.64,Tanpa Adaptasi
+9632,2013,USA,Midwest,Corn,2114.15,13.19,2.94,9,31.08,13.41,31.29,86.23,Tanaman Tahan Kekeringan
+9633,1995,Nigeria,'South West',Sugarcane,772.73,20.61,2.988,10,44.1,40.96,62.25,51.18,Rotasi Tanaman
+9634,2004,Argentina,Pampas,Fruits,1225.67,9.08,0.7,2,91.47,43.08,54.46,65.38,Pertanian Organik
+9635,2016,France,'Provence-Alpes-Cote d’Azur',Cotton,1270.42,1.6,1.96,1,96.98,24.01,72.43,72.75,Pertanian Organik
+9636,1996,Russia,Northwestern,Sugarcane,2045.55,0.96,2.18,10,22.25,15.71,22.96,96.43,Manajemen Air
+9637,1990,India,'Tamil Nadu',Soybeans,1191.16,1.37,1.3,8,12.78,34.8,40.96,61.55,Pertanian Organik
+9638,2018,Australia,Victoria,Soybeans,2725.12,5.6,3.37,5,54.36,9.6,52.34,89.9,Tanpa Adaptasi
+9639,2011,Russia,Siberian,Coffee,506.63,20.55,2.799,9,93.9,35.52,58.81,32.73,Tanaman Tahan Kekeringan
+9640,2006,France,Nouvelle-Aquitaine,Cotton,2250,4.23,2.41,0,42.82,47.67,33.09,43.47,Manajemen Air
+9641,2019,USA,Midwest,Vegetables,1136.94,28.25,0.846,1,63.06,13.34,79.52,63.43,Rotasi Tanaman
+9642,2012,Russia,Central,Rice,1811.14,14.1,1.21,6,77.84,42.98,35.63,65.45,Manajemen Air
+9643,2011,Australia,'New South Wales',Soybeans,1031.01,0.92,2.29,8,37.61,25.29,84.14,95.2,Manajemen Air
+9644,2007,Canada,'British Columbia',Sugarcane,1069.96,20.76,2.511,0,44.07,7.63,88.92,41.74,Rotasi Tanaman
+9645,2016,Brazil,Northeast,Soybeans,1103.04,22.53,1.404,1,66.03,7.04,47.21,56.97,Manajemen Air
+9646,2007,Canada,Ontario,Corn,339.57,29.87,1.791,3,66.96,33.12,57.47,33.36,Rotasi Tanaman
+9647,2016,India,'West Bengal',Sugarcane,2013.52,8.9,1.4,1,74.06,43.14,58.31,68.26,Tanaman Tahan Kekeringan
+9648,2008,USA,Northeast,Soybeans,1871.67,9.15,1.64,1,80.53,34.46,96.3,94.89,Tanpa Adaptasi
+9649,2016,Brazil,South,Soybeans,1645.28,4.4,2.57,5,52.91,36.27,82.25,94.2,Rotasi Tanaman
+9650,1999,China,Central,Cotton,1860.06,18.86,2.538,4,49.84,6.14,2.91,80.19,Rotasi Tanaman
+9651,1996,Nigeria,'North West',Corn,2501.02,2.23,3.72,9,73.2,1.53,43.47,55.15,Tanpa Adaptasi
+9652,2004,Australia,'Western Australia',Coffee,2996.1,0.62,2.2,4,23.43,30.22,86.11,90.1,Tanaman Tahan Kekeringan
+9653,2014,China,South,Corn,221.89,17.02,1.188,6,95.06,45.62,85.13,98.59,Tanpa Adaptasi
+9654,1998,India,'Tamil Nadu',Barley,785.75,28.74,1.359,4,86.04,7.63,84.02,60.49,Tanpa Adaptasi
+9655,2003,France,Ile-de-France,Vegetables,1203.01,2.83,0.59,4,97.88,46.1,47.13,92.26,Rotasi Tanaman
+9656,2009,Canada,Ontario,Vegetables,1333.26,2.78,2.78,3,50.02,32.53,96.29,71.49,Pertanian Organik
+9657,2009,France,Nouvelle-Aquitaine,Wheat,793.38,28.44,1.692,10,94.52,1.8,54.01,50.37,Pertanian Organik
+9658,2020,Brazil,South,Wheat,1782.92,27.7,3.825,0,62.88,32.68,28.46,30.04,Rotasi Tanaman
+9659,2024,France,Ile-de-France,Rice,1655.32,2.94,2.4,3,71.61,21.1,85.19,55.73,Tanaman Tahan Kekeringan
+9660,1998,France,'Grand Est',Rice,1635.01,6.52,1.24,6,85.3,47.11,74.19,93.01,Rotasi Tanaman
+9661,1992,India,Punjab,Cotton,2033.3,11.04,0.9,2,76.61,15.27,62.06,94.77,Rotasi Tanaman
+9662,1992,Russia,Central,Coffee,685.07,0.82,3.24,9,82.29,3.02,0.26,98.02,Rotasi Tanaman
+9663,1994,Brazil,North,Sugarcane,2071.9,1.39,2.06,0,28.54,4.88,61.56,50.05,Rotasi Tanaman
+9664,2024,China,North,Sugarcane,909.43,3.46,1.71,8,25.43,25.66,37.87,63.48,Manajemen Air
+9665,2009,USA,West,Vegetables,2524.26,8.81,0.87,7,69.77,22.42,46.75,40.22,Tanaman Tahan Kekeringan
+9666,1997,Argentina,Patagonia,Sugarcane,1150.63,10.41,2.5,2,94.93,12.61,97.96,45.31,Tanaman Tahan Kekeringan
+9667,1996,Brazil,Southeast,Soybeans,1549.52,17.31,3.348,2,42.65,44.71,25.07,75.1,Rotasi Tanaman
+9668,1994,Brazil,North,Rice,290.08,1.07,1.548,5,87.76,42.87,28.01,62.12,Pertanian Organik
+9669,2005,Argentina,Northwest,Sugarcane,2680.37,2.43,4.36,5,15.15,47.93,53.23,44.44,Pertanian Organik
+9670,2024,Russia,Volga,Barley,1837.32,17.6,2.421,3,40.41,39.4,21.62,34.91,Rotasi Tanaman
+9671,2018,China,South,Fruits,1065.88,10.17,2.9,3,51.48,17.1,7.12,36.38,Manajemen Air
+9672,2007,Brazil,Southeast,Wheat,1096.38,16.65,3.276,5,40.53,41.33,72.97,56.81,Rotasi Tanaman
+9673,1995,Russia,Volga,Wheat,2889.47,27.7,1.179,7,60.51,29.83,39.24,46.02,Tanaman Tahan Kekeringan
+9674,1995,Australia,'Western Australia',Rice,978.96,13.24,1.22,0,62.88,29.1,85.27,66.36,Tanaman Tahan Kekeringan
+9675,2004,Canada,'British Columbia',Rice,1300.76,26.43,2.079,5,19.37,47.67,17.62,31.7,Manajemen Air
+9676,1991,USA,Northeast,Rice,233.94,6.02,2.187,10,62.56,26.76,98.94,48.7,Tanaman Tahan Kekeringan
+9677,2016,USA,Northeast,Wheat,2429.47,13.27,2.34,2,80.66,12.15,80.88,37.11,Tanpa Adaptasi
+9678,2003,USA,Northeast,Cotton,1646.46,29.5,0.846,7,33.53,48.71,21.31,93.4,Rotasi Tanaman
+9679,1999,Russia,Northwestern,Corn,2922.09,15.4,0.981,6,44.55,8.69,64.83,86.58,Rotasi Tanaman
+9680,2006,France,Nouvelle-Aquitaine,Fruits,977.63,0.88,1.1,5,42.86,48.99,39.25,31.4,Tanpa Adaptasi
+9681,1999,Argentina,Patagonia,Sugarcane,752.58,11.49,1.8,8,43.2,11.86,17.23,66.1,Rotasi Tanaman
+9682,2017,Nigeria,'North Central',Cotton,1880.14,23.32,3.618,4,56.66,25.76,24.04,86.07,Manajemen Air
+9683,2002,USA,Midwest,Vegetables,2583.33,20.16,1.368,8,25.39,9.98,69.13,78.93,Tanaman Tahan Kekeringan
+9684,1996,Brazil,Southeast,Cotton,2879.93,5.62,1.9,2,42.1,48.66,32.37,75.81,Tanaman Tahan Kekeringan
+9685,2024,Argentina,Northeast,Fruits,2023.1,9.74,1.41,5,28.83,27.72,78.9,30.05,Manajemen Air
+9686,2017,Nigeria,'North West',Coffee,2480.33,11.71,1.37,10,84.04,19.86,21.74,78.53,Rotasi Tanaman
+9687,2023,Nigeria,'North West',Rice,273.01,11,4.482,10,25.74,38.71,47.97,85.1,Manajemen Air
+9688,2000,Australia,'New South Wales',Corn,1364.34,18.23,1.656,4,28.82,23.5,81.51,56.69,Manajemen Air
+9689,2018,Brazil,South,Vegetables,2579.43,5.59,2.75,8,31.89,47.82,20.55,48.39,Pertanian Organik
+9690,2001,USA,Northeast,Cotton,528.57,7.79,4.58,2,10.22,0.12,68.55,87.09,Tanaman Tahan Kekeringan
+9691,2015,USA,South,Fruits,2587.29,6.33,1.66,1,67.54,10.55,59.58,52.72,Tanpa Adaptasi
+9692,2024,China,North,Cotton,2455.98,19.83,1.143,4,92.75,31.67,45.89,40.27,Tanpa Adaptasi
+9693,1991,China,East,Corn,719.62,23.08,0.99,9,29.07,7.46,51.69,30.52,Manajemen Air
+9694,2002,Nigeria,'North West',Corn,710.1,15.48,4.122,2,47.28,2.45,98.79,82.26,Rotasi Tanaman
+9695,2005,Nigeria,'North Central',Sugarcane,1164.41,12.42,3.69,3,78.1,1.24,44.71,64.29,Manajemen Air
+9696,1996,India,Maharashtra,Corn,2803.48,4.72,2.79,6,12.74,5.82,38.38,80.46,Manajemen Air
+9697,1990,China,South,Soybeans,1747.67,19.33,2.862,4,82.46,44.05,50.07,82.98,Pertanian Organik
+9698,1999,Nigeria,'North West',Barley,2367.52,23.97,1.377,4,53.62,23.96,84.39,45.96,Tanpa Adaptasi
+9699,2013,Russia,Volga,Fruits,976.81,26.44,1.305,7,34.89,22.04,4.8,45.66,Tanpa Adaptasi
+9700,2006,Nigeria,'North West',Rice,2687.8,25.15,2.682,1,35.43,49.79,4.57,62.37,Tanaman Tahan Kekeringan
+9701,2001,USA,Northeast,Fruits,357.15,22.31,2.349,2,24.98,20.05,78.52,37.51,Tanpa Adaptasi
+9702,2014,Argentina,Pampas,Fruits,512.31,24.15,1.215,4,56.76,5.16,74.57,89.52,Manajemen Air
+9703,1991,Russia,Volga,Corn,2269.17,11,1.09,7,73.43,43.24,46.94,42.83,Tanaman Tahan Kekeringan
+9704,2024,Canada,Prairies,Wheat,1375.5,4.44,1.42,2,18.24,14.77,20.37,84.49,Manajemen Air
+9705,2018,China,North,Corn,1431.49,22.76,0.819,7,94.1,9.57,57.77,89.5,Rotasi Tanaman
+9706,2001,Australia,'New South Wales',Coffee,2318.97,16.11,0.819,6,28.98,31.5,50.83,32.8,Tanaman Tahan Kekeringan
+9707,1999,China,Central,Fruits,1710.99,3.51,3.16,2,23.98,40.41,91.16,59.93,Rotasi Tanaman
+9708,2004,Brazil,Southeast,Coffee,673.83,12.09,1.19,4,64.87,39.57,24.14,69.09,Manajemen Air
+9709,2019,Russia,Central,Barley,2203.29,26.01,2.349,9,19.99,28.61,18.54,87.42,Rotasi Tanaman
+9710,2002,Argentina,Northwest,Corn,703.66,6.56,2.08,8,90.66,11.43,52.62,40.23,Pertanian Organik
+9711,2016,USA,Northeast,Fruits,1918.25,13.56,1.25,8,66.66,18.59,1.94,69.64,Tanaman Tahan Kekeringan
+9712,1998,India,Punjab,Cotton,2069.31,25.42,0.846,5,77.62,40.93,11.67,48.21,Manajemen Air
+9713,2004,France,'Grand Est',Rice,2204.87,11.41,2.27,1,23.43,44.47,22.47,36.23,Tanaman Tahan Kekeringan
+9714,2015,Brazil,South,Soybeans,2206.42,13.2,1.66,6,13.09,10.15,72.53,31.79,Manajemen Air
+9715,2021,Canada,Prairies,Vegetables,1304.89,11.59,2.86,4,54.18,42.04,74.44,67.65,Manajemen Air
+9716,2009,France,'Provence-Alpes-Cote d’Azur',Wheat,2361.26,2.63,2.12,2,89.32,28.52,82.97,67.04,Manajemen Air
+9717,2000,France,'Grand Est',Rice,2129.75,6.88,0.87,6,84.8,15.52,83.29,43.47,Tanpa Adaptasi
+9718,2019,India,'Tamil Nadu',Coffee,2300.43,24.86,2.151,9,79.1,5.83,93.07,95.47,Tanpa Adaptasi
+9719,2002,USA,South,Coffee,681.99,14.32,1.76,9,47.58,18.65,55.11,38.83,Manajemen Air
+9720,2019,Brazil,North,Fruits,2230.15,3.11,4.08,2,78.17,19.8,63.96,35.97,Pertanian Organik
+9721,1999,Argentina,Northeast,Fruits,1616.56,11.82,2.42,5,93.23,27.41,97.03,47.44,Rotasi Tanaman
+9722,2022,France,Nouvelle-Aquitaine,Soybeans,1333.54,6.44,1.51,3,79.7,26.72,85.99,71.08,Rotasi Tanaman
+9723,1998,France,'Provence-Alpes-Cote d’Azur',Vegetables,984.72,9.56,1.4,8,54.22,2.37,98.41,65.74,Rotasi Tanaman
+9724,2002,Canada,Quebec,Rice,2238.86,27.21,2.538,7,69.33,42.85,97.86,79.98,Tanaman Tahan Kekeringan
+9725,1997,France,Ile-de-France,Soybeans,542,11.46,4.39,3,60.57,3.11,57.97,90.12,Rotasi Tanaman
+9726,1999,USA,Northeast,Sugarcane,1107.39,11.07,3.91,1,33.71,0.08,79.67,76.48,Manajemen Air
+9727,2020,USA,Northeast,Rice,1175.62,28.16,1.899,6,65.45,41.88,96.79,86.26,Pertanian Organik
+9728,2024,China,East,Coffee,657.2,10.25,2.15,1,78.47,14.32,85.04,50.69,Rotasi Tanaman
+9729,2007,USA,Northeast,Vegetables,2868.68,13.76,2.64,8,35.64,24.27,31.39,77.35,Tanpa Adaptasi
+9730,1990,Nigeria,'South West',Corn,598.23,20.74,2.223,2,35.28,24.21,48.48,68.9,Tanaman Tahan Kekeringan
+9731,2000,Canada,Quebec,Corn,518.2,22.54,2.889,1,80.37,46.84,30.75,70.02,Tanaman Tahan Kekeringan
+9732,1990,Nigeria,'North Central',Cotton,1135.55,14.29,1.18,6,26.56,8.76,13.42,60.14,Rotasi Tanaman
+9733,2006,Argentina,Patagonia,Sugarcane,320.7,11.11,3.411,4,20.23,2.58,86.48,95.4,Tanaman Tahan Kekeringan
+9734,2003,Argentina,Northwest,Fruits,2617.92,13.88,0.82,3,56.76,26.87,38.53,38.69,Tanpa Adaptasi
+9735,2005,USA,Midwest,Vegetables,1637.67,20.32,1.692,9,53.48,15.2,88.43,78.64,Rotasi Tanaman
+9736,2011,India,Punjab,Fruits,2773.57,24.5,0.81,3,16.39,25.62,68.25,39.93,Pertanian Organik
+9737,2024,Brazil,South,Rice,599.62,19.83,2.727,9,52.75,30.19,50.24,32.31,Tanaman Tahan Kekeringan
+9738,1996,Australia,'New South Wales',Barley,414.52,12.9,1.98,6,62.65,48.1,97.89,64.15,Pertanian Organik
+9739,2001,Russia,Volga,Coffee,2896.14,24.16,1.359,7,71.17,5.38,68.1,35.88,Pertanian Organik
+9740,2004,France,Nouvelle-Aquitaine,Cotton,1988.17,29.09,3.888,5,28.74,47.86,34.2,75.26,Rotasi Tanaman
+9741,2021,USA,South,Barley,525.27,17.02,3.087,5,25.85,31.22,95.66,73.96,Tanpa Adaptasi
+9742,2020,Argentina,Northwest,Vegetables,1574.62,25.77,1.674,2,81.63,3.88,44.65,76.93,Tanpa Adaptasi
+9743,1999,Nigeria,'North West',Vegetables,1575.93,4.03,1.29,6,86,13.34,51.71,50.76,Tanaman Tahan Kekeringan
+9744,2013,Australia,'Western Australia',Vegetables,2800.53,5.01,1.54,10,74.81,9.24,88.07,52.86,Tanaman Tahan Kekeringan
+9745,2023,Russia,Volga,Vegetables,2479.34,5.58,2.25,9,72.57,49.45,64.6,86.2,Manajemen Air
+9746,2013,France,'Provence-Alpes-Cote d’Azur',Corn,2612.35,18.48,3.402,5,97.03,23.36,17.09,36.76,Manajemen Air
+9747,2009,India,'Tamil Nadu',Fruits,1993.41,25.88,1.755,10,74.08,39.84,34.6,53.04,Tanpa Adaptasi
+9748,2016,India,'Tamil Nadu',Sugarcane,1640.89,7.15,2.82,2,27.54,25.22,98.39,54.9,Manajemen Air
+9749,2006,India,Maharashtra,Coffee,831.61,18.38,3.681,2,98.85,35.19,26.45,92.45,Manajemen Air
+9750,2010,Canada,Prairies,Cotton,1766.35,23.83,2.475,6,52.47,8.92,55.22,69.51,Tanpa Adaptasi
+9751,2012,India,Punjab,Cotton,1678.27,20.93,2.727,7,86.25,20.45,31.08,57.2,Tanpa Adaptasi
+9752,2021,Brazil,Southeast,Soybeans,1995.78,17.78,3.15,7,68.92,16.25,64.91,32,Manajemen Air
+9753,2020,Australia,'Western Australia',Cotton,1299.45,17.32,2.196,3,81.24,34.96,88.04,54.94,Tanaman Tahan Kekeringan
+9754,1999,France,'Provence-Alpes-Cote d’Azur',Wheat,857.9,19.08,1.998,6,26.82,3.83,43.61,61.12,Rotasi Tanaman
+9755,2023,USA,Midwest,Coffee,949.48,4.12,2.69,7,45.21,31.88,91.97,85.19,Tanaman Tahan Kekeringan
+9756,2003,Russia,Northwestern,Sugarcane,1434.4,2.97,2.99,9,45.77,6.32,95.87,66.15,Manajemen Air
+9757,2011,Canada,Prairies,Vegetables,2612.73,21.74,1.665,9,68.73,20.88,94.79,78.46,Tanaman Tahan Kekeringan
+9758,2009,Russia,Siberian,Cotton,1352.11,25.88,0.891,0,59.06,32.09,6.7,76.84,Pertanian Organik
+9759,2003,Nigeria,'South West',Sugarcane,1531.83,3.93,1.96,4,10.18,19.64,97.63,88.06,Manajemen Air
+9760,2016,Nigeria,'South West',Rice,1601.06,28.44,3.159,8,49.59,32.07,62.38,97.83,Tanaman Tahan Kekeringan
+9761,2007,Brazil,North,Coffee,2327.27,9.05,2.64,10,43.22,1.28,85.65,34.37,Manajemen Air
+9762,2019,Nigeria,'North Central',Cotton,1426.44,12.67,2.37,2,83.26,3.93,72.13,93.22,Manajemen Air
+9763,1990,China,North,Rice,930.9,22.87,2.259,5,42.81,37.76,67.2,83.52,Tanaman Tahan Kekeringan
+9764,2021,China,North,Sugarcane,2682.9,18.08,3.015,2,41.27,18.04,38.58,48.88,Tanaman Tahan Kekeringan
+9765,2024,Canada,Ontario,Cotton,1851.33,21.43,0.873,10,21.21,12.2,24.32,57.74,Manajemen Air
+9766,2002,Australia,'Western Australia',Vegetables,2155.25,26.9,1.989,8,27.9,30.88,57.42,61.81,Tanpa Adaptasi
+9767,1998,India,'Tamil Nadu',Corn,1737.76,2.85,1.89,4,58.77,23.14,9.22,34.69,Rotasi Tanaman
+9768,2013,Australia,'Western Australia',Cotton,1807.65,4.55,4.25,0,63.65,32.68,10.33,99.48,Manajemen Air
+9769,2007,Argentina,Patagonia,Rice,1437.33,10.09,2.87,2,96.88,29.34,58.25,54.57,Manajemen Air
+9770,2024,Argentina,Northeast,Sugarcane,1653.64,22.1,2.673,7,40.19,46.9,10.09,37.27,Tanpa Adaptasi
+9771,1999,Russia,Volga,Coffee,2005.75,15.27,3.312,2,53.81,12.65,14.95,55.95,Rotasi Tanaman
+9772,2019,China,South,Sugarcane,1535.87,14.43,2.06,5,39.28,5.4,10.84,65.71,Tanaman Tahan Kekeringan
+9773,1991,China,Central,Fruits,348.88,22.83,2.07,8,28.39,14.69,41.23,63.81,Tanpa Adaptasi
+9774,2023,Australia,Queensland,Soybeans,1546.55,13.56,2.43,5,86.64,31.88,29.09,98.01,Tanpa Adaptasi
+9775,1997,Australia,Queensland,Sugarcane,1136.13,15.45,2.907,2,51.76,1.31,81.75,44.2,Tanaman Tahan Kekeringan
+9776,1997,China,Central,Fruits,2032.97,2.68,1.13,7,64.78,12.55,42.17,57.86,Tanpa Adaptasi
+9777,2013,Argentina,Patagonia,Coffee,269.09,4.66,1.746,1,84.84,8.59,68.95,50.97,Manajemen Air
+9778,2009,Australia,'New South Wales',Vegetables,755.63,19.6,1.305,2,53.19,20.1,33.58,96.61,Manajemen Air
+9779,1996,China,East,Barley,270.84,15.98,2.223,9,45.53,6.23,22.7,57.74,Rotasi Tanaman
+9780,2017,Argentina,Northeast,Barley,262.24,19.47,4.5,1,81.74,21.16,60.48,65.5,Pertanian Organik
+9781,2010,Canada,Prairies,Barley,1175.8,23.83,2.475,1,53.04,4.99,89.97,46.94,Rotasi Tanaman
+9782,1996,Canada,Quebec,Coffee,274.51,27.65,1.791,6,85.99,4.58,51.24,85.72,Rotasi Tanaman
+9783,2001,Australia,'New South Wales',Fruits,245.22,13.24,3.204,2,54.59,29.82,36.5,60.71,Tanaman Tahan Kekeringan
+9784,2002,Argentina,Patagonia,Barley,1284.1,3.97,3.98,6,58.22,1.98,27.44,49.27,Manajemen Air
+9785,2018,USA,Northeast,Fruits,1204.01,23.54,2.061,1,68.73,24.5,19.42,64.08,Rotasi Tanaman
+9786,2008,Argentina,Northwest,Coffee,1185.49,26.27,4.473,10,27.59,13.91,48.64,40.57,Tanpa Adaptasi
+9787,1994,Australia,Victoria,Coffee,2368.99,2.59,0.8,10,83.04,31.66,60.58,67.96,Pertanian Organik
+9788,2018,Russia,Siberian,Corn,848.46,12.17,4.99,8,93.6,9.48,21.9,59.16,Tanaman Tahan Kekeringan
+9789,2021,Canada,'British Columbia',Vegetables,1778.83,2.79,1.12,4,44.14,44.96,96.34,47.22,Tanaman Tahan Kekeringan
+9790,2022,Russia,Northwestern,Vegetables,2368.74,23.65,2.223,7,86.53,5.26,35.73,50.8,Tanpa Adaptasi
+9791,1996,Russia,Siberian,Corn,249.35,19.03,1.953,5,46.57,34.41,95.74,70.23,Tanaman Tahan Kekeringan
+9792,2012,USA,South,Wheat,2251.32,23.28,3.177,8,47.56,16.55,33.52,39.95,Tanaman Tahan Kekeringan
+9793,1993,Nigeria,'South West',Corn,2845.45,3.11,2.69,8,64.76,18.3,46.59,74.62,Manajemen Air
+9794,1996,Nigeria,'North Central',Cotton,1382.49,5.75,1.38,9,75.37,3.87,15.19,99.2,Tanpa Adaptasi
+9795,2004,Brazil,Southeast,Rice,2970.77,25.23,0.981,4,68.25,44.08,27.85,30.35,Tanpa Adaptasi
+9796,2014,Brazil,Northeast,Sugarcane,560.9,13.42,1.47,1,42.42,1.41,87.46,74.15,Rotasi Tanaman
+9797,2020,Argentina,Northeast,Barley,1341.76,29.7,3.042,4,93.86,44.97,33.77,93.03,Rotasi Tanaman
+9798,2019,France,Ile-de-France,Rice,2993.26,13.06,4.6,9,22.19,17.73,41.98,44.6,Tanaman Tahan Kekeringan
+9799,2020,China,South,Coffee,252.42,23.64,1.836,3,61.37,21.4,85.84,76.05,Tanpa Adaptasi
+9800,1993,France,Nouvelle-Aquitaine,Rice,1992.33,12.73,2.62,9,49.4,35.61,48.47,59.79,Tanaman Tahan Kekeringan
+9801,2018,France,'Grand Est',Soybeans,788.01,21.11,2.925,1,75.25,6.86,72.78,98.05,Tanpa Adaptasi
+9802,2007,France,Nouvelle-Aquitaine,Cotton,1598.84,8.91,3.34,7,50.61,43.07,55.63,41.76,Pertanian Organik
+9803,1997,Nigeria,'South East',Wheat,2189.44,5.54,1.68,8,62.53,9.16,15.4,36.26,Rotasi Tanaman
+9804,1992,USA,Northeast,Barley,1761.31,23.22,4.068,6,11.92,1.97,15.93,88.18,Tanaman Tahan Kekeringan
+9805,2024,Nigeria,'North Central',Soybeans,1431.86,4.08,2.59,4,88.97,28.85,56.69,48.13,Rotasi Tanaman
+9806,2020,Australia,Victoria,Corn,1981.4,2.7,1.2,8,55.99,6.11,65.85,85.83,Tanpa Adaptasi
+9807,1994,India,'West Bengal',Vegetables,212.57,5.16,3.015,4,23.19,8.82,32.36,42.4,Tanpa Adaptasi
+9808,2018,France,'Grand Est',Soybeans,2128.94,18.89,0.594,1,53.6,3.01,12.67,78.18,Rotasi Tanaman
+9809,2004,China,East,Barley,589.45,1.63,1.09,6,35.23,14.96,61.97,35.89,Pertanian Organik
+9810,2022,Argentina,Northeast,Soybeans,1238.17,8.95,1.53,7,64.99,19.07,8.6,40.73,Tanaman Tahan Kekeringan
+9811,2006,Canada,Prairies,Wheat,570.28,0.87,1.19,6,76.7,23.26,16.28,71.7,Pertanian Organik
+9812,1994,Canada,Prairies,Rice,1473.16,2.6,2.87,6,47.41,30.78,26.65,30.54,Pertanian Organik
+9813,2020,Argentina,Pampas,Sugarcane,513,2.86,1.51,0,76.11,15.39,28.94,71.63,Rotasi Tanaman
+9814,2010,Argentina,Northwest,Wheat,2918.69,20.6,3.114,8,96.53,43.37,8.93,83.19,Rotasi Tanaman
+9815,2004,USA,Northeast,Wheat,2509.65,12.24,1.09,9,65.56,2.35,81.44,44.45,Tanaman Tahan Kekeringan
+9816,2015,Brazil,Southeast,Vegetables,1907.05,14.24,2.29,8,91.3,33.6,3.23,73.63,Tanpa Adaptasi
+9817,2012,Russia,Volga,Corn,841.21,8.94,3.7,6,23.79,11.24,46.89,59.99,Rotasi Tanaman
+9818,1994,Russia,Central,Soybeans,2612.11,10.27,0.83,4,46.37,5.62,93.95,54,Pertanian Organik
+9819,2009,France,Nouvelle-Aquitaine,Wheat,2646.47,14.34,1.67,5,87.2,46.57,86.16,36.27,Rotasi Tanaman
+9820,2011,Russia,Volga,Sugarcane,399.49,1.77,2.106,10,50.78,22.95,57.89,90.2,Manajemen Air
+9821,2013,India,Punjab,Cotton,2164.41,11.5,1.3,7,93.76,41.82,47.72,85.78,Tanaman Tahan Kekeringan
+9822,2018,India,'West Bengal',Vegetables,690.36,8.93,2.86,2,42.4,14.36,56.94,64.58,Tanpa Adaptasi
+9823,1996,Argentina,Northwest,Vegetables,2061.82,1.38,2.47,7,19.4,27.44,92.26,44.89,Tanpa Adaptasi
+9824,2020,China,Central,Fruits,2063.83,20.07,1.764,10,11.54,23.99,21.67,80.76,Manajemen Air
+9825,2001,Brazil,Southeast,Wheat,1059.8,1.29,2.72,3,36.71,31.25,41.3,63.1,Manajemen Air
+9826,2022,Russia,Siberian,Vegetables,2435.42,28.19,1.449,7,15.27,26.54,31.2,62.44,Tanaman Tahan Kekeringan
+9827,2002,Nigeria,'North West',Corn,1894.54,9.61,3.86,2,57.37,21.61,35.05,50.14,Tanaman Tahan Kekeringan
+9828,1991,China,South,Coffee,1829.7,19.93,1.827,4,49.75,49.94,86.36,41.68,Rotasi Tanaman
+9829,2003,USA,Midwest,Wheat,2192.08,27.19,0.693,6,90.59,34.64,38.92,83.07,Rotasi Tanaman
+9830,1993,Australia,Victoria,Wheat,801.53,1.37,2.7,10,12.28,38.16,71.45,42.13,Tanaman Tahan Kekeringan
+9831,2010,India,Maharashtra,Soybeans,1833.56,23.84,3.438,1,92.83,48.1,73.76,81.02,Manajemen Air
+9832,1999,India,'West Bengal',Cotton,1601.04,29.73,0.963,10,34.86,27.62,44.98,91.7,Pertanian Organik
+9833,2015,Brazil,North,Corn,2058.74,1.65,3.6,2,53.08,20.77,95.72,37.31,Tanaman Tahan Kekeringan
+9834,2007,China,North,Rice,2404.06,24.96,3.294,4,54.63,21.74,37.32,58.29,Pertanian Organik
+9835,2018,Australia,Queensland,Coffee,1521.65,14.66,0.83,3,71.56,17.58,89.66,52.13,Manajemen Air
+9836,1990,France,'Provence-Alpes-Cote d’Azur',Cotton,810.44,27.26,2.817,8,72.39,38.15,86.69,70.74,Pertanian Organik
+9837,1998,Australia,Queensland,Corn,682.43,11.69,1.28,4,13.02,15.15,63.9,77.77,Pertanian Organik
+9838,2007,France,Nouvelle-Aquitaine,Soybeans,1094.03,28.21,1.359,2,77.67,11.94,61.39,59.79,Manajemen Air
+9839,2003,Brazil,Northeast,Vegetables,2014.29,10.74,2.81,4,51.13,30.84,66.01,99.16,Pertanian Organik
+9840,2018,Nigeria,'South West',Barley,484.8,14.71,2.898,3,70.68,36.22,86.79,86.23,Tanaman Tahan Kekeringan
+9841,2011,USA,Northeast,Coffee,2966.12,20.36,1.701,5,55.37,17.36,34.17,84.05,Rotasi Tanaman
+9842,2018,Canada,Prairies,Vegetables,440.3,28.55,2.664,7,82.71,21.93,50.91,99.39,Pertanian Organik
+9843,1993,India,Punjab,Barley,2358.94,28.05,0.639,1,66.39,0.16,20.21,44.05,Rotasi Tanaman
+9844,2011,Nigeria,'South East',Sugarcane,290.72,19.55,1.98,3,68.88,28.8,72.47,96.67,Tanaman Tahan Kekeringan
+9845,1991,India,Maharashtra,Barley,2285.89,28.31,2.619,1,58.27,44.07,31.66,78.77,Tanaman Tahan Kekeringan
+9846,1994,Argentina,Patagonia,Cotton,634.17,9.42,0.58,10,39.13,6.55,88.32,50.45,Tanaman Tahan Kekeringan
+9847,2001,France,'Grand Est',Fruits,2572.31,2.1,3.2,5,73.11,2.64,0.59,38.69,Tanpa Adaptasi
+9848,2021,Australia,'New South Wales',Barley,1852.15,9.12,1.93,7,57.64,46.19,28.98,63.62,Rotasi Tanaman
+9849,2004,China,East,Fruits,2382.64,13.39,1.59,8,30.3,4.46,76.93,69.41,Tanpa Adaptasi
+9850,2012,China,East,Soybeans,897.69,17.29,3.177,6,20.74,7.56,60.95,83.44,Tanaman Tahan Kekeringan
+9851,1999,USA,Midwest,Soybeans,287.09,24.09,0.594,8,34.61,37.12,81.38,53.82,Tanaman Tahan Kekeringan
+9852,2008,India,'West Bengal',Rice,911.22,13.09,4.58,1,66.66,37.44,22.44,61.48,Manajemen Air
+9853,2016,France,Ile-de-France,Coffee,1185.81,8.81,4.6,7,22.5,49.4,48.9,50.69,Tanaman Tahan Kekeringan
+9854,1998,Brazil,South,Soybeans,558.1,21.19,1.872,0,78.4,37.8,84.72,73.74,Manajemen Air
+9855,2011,USA,Northeast,Rice,1075.11,1.48,1.46,9,81.62,18.57,75.24,58.41,Tanpa Adaptasi
+9856,2019,Argentina,Northwest,Wheat,1698.27,14.92,1.55,0,46.46,21.98,16.64,97.79,Manajemen Air
+9857,1997,India,'West Bengal',Fruits,1664.2,12.19,2.19,2,63.11,26.97,20.62,58.19,Rotasi Tanaman
+9858,2004,China,South,Cotton,2066.07,27.27,1.584,8,21.77,32.34,53.68,65.79,Rotasi Tanaman
+9859,2006,India,Maharashtra,Coffee,2262.31,0.95,1.8,0,19.98,36.62,49.88,95.7,Manajemen Air
+9860,2011,India,Punjab,Fruits,1924.96,5.84,2.11,6,22.65,26.97,50.83,85.03,Tanpa Adaptasi
+9861,2004,France,'Grand Est',Wheat,1629.3,6.66,4,7,21.84,48.21,93.7,81.2,Rotasi Tanaman
+9862,2018,China,Central,Vegetables,940.52,3.71,2.4,10,36.87,37.46,60.96,74.39,Manajemen Air
+9863,2015,Argentina,Northwest,Wheat,1854.35,1.86,1.15,1,18.52,8.49,71.38,79.38,Manajemen Air
+9864,2015,Nigeria,'North West',Coffee,1964.25,4.98,2.97,3,28.45,11.17,1.56,56.55,Rotasi Tanaman
+9865,1997,Argentina,Patagonia,Sugarcane,2517.45,18.96,4.158,1,86.26,47.73,80.33,86.16,Rotasi Tanaman
+9866,2023,Nigeria,'South West',Barley,1868.77,17.07,1.53,10,71.08,43.88,41.36,94.67,Tanpa Adaptasi
+9867,2008,China,North,Rice,652.86,7.97,3.54,1,11.29,6.77,25.32,35.19,Pertanian Organik
+9868,2017,Argentina,Northwest,Rice,256.4,21.34,2.673,8,71.37,31.1,37.01,89.61,Pertanian Organik
+9869,2005,Nigeria,'South East',Soybeans,2400.81,14.11,3.85,8,44.49,22.53,64.31,57.06,Pertanian Organik
+9870,2010,USA,Midwest,Sugarcane,938.91,14.28,1.85,7,83.42,40.86,57.65,81.58,Tanpa Adaptasi
+9871,1993,Australia,'Western Australia',Fruits,1401.86,20.63,2.637,2,85.64,46.59,72.14,43.3,Manajemen Air
+9872,2014,China,Central,Vegetables,2258.66,18.85,4.239,0,85.9,24.35,3.12,87.99,Tanaman Tahan Kekeringan
+9873,1999,France,'Provence-Alpes-Cote d’Azur',Rice,2369.82,14.39,0.78,7,37.24,0.51,93.45,73.18,Tanaman Tahan Kekeringan
+9874,1999,Brazil,North,Sugarcane,1616.69,13.68,2.08,6,52.24,28.89,87.95,89.48,Tanpa Adaptasi
+9875,2009,Australia,'New South Wales',Coffee,2090.1,17.81,2.079,4,29.86,49.48,20.21,88.61,Pertanian Organik
+9876,1991,China,East,Sugarcane,319.04,13.02,2.223,6,26.02,30.62,37.93,79.85,Tanpa Adaptasi
+9877,2009,France,'Grand Est',Rice,847.85,12.46,0.58,3,20.03,0,38.57,79.21,Manajemen Air
+9878,2022,Russia,Volga,Barley,1591.74,29,3.204,5,26.2,19.49,16.1,36.75,Rotasi Tanaman
+9879,2003,Australia,'Western Australia',Sugarcane,724.59,6.34,2.43,7,50.75,16.52,61.84,89.82,Manajemen Air
+9880,2014,France,'Provence-Alpes-Cote d’Azur',Corn,833.64,14.89,2.23,10,99.51,45.2,11.66,89.87,Rotasi Tanaman
+9881,2012,Argentina,Pampas,Sugarcane,204.35,6.94,2.232,0,52.34,28.15,66.81,77.19,Pertanian Organik
+9882,2013,Argentina,Northeast,Soybeans,1173.53,5.58,2.59,10,21.15,21.68,43.04,85.77,Pertanian Organik
+9883,2005,France,'Grand Est',Sugarcane,846.79,15.03,0.918,3,79.68,11.03,89.38,42.66,Rotasi Tanaman
+9884,2018,Argentina,Northwest,Fruits,1696.67,19.82,1.782,8,51.45,9.99,55.11,52.22,Tanaman Tahan Kekeringan
+9885,2013,USA,South,Vegetables,1041.17,4,2.75,0,15.39,24.92,8.2,90.95,Rotasi Tanaman
+9886,2007,Brazil,North,Rice,1081.32,17.74,1.116,4,81.24,31.29,83.13,75.51,Pertanian Organik
+9887,1996,Argentina,Northwest,Fruits,2460.95,2.22,3.81,1,62.92,4.4,95.97,33.25,Rotasi Tanaman
+9888,2021,Nigeria,'South West',Rice,355.8,19.37,2.403,5,81.21,36.02,34.09,55.09,Manajemen Air
+9889,2024,India,'Tamil Nadu',Vegetables,1216.1,10.61,2.53,2,11.11,28.44,28.92,90.54,Manajemen Air
+9890,1998,Nigeria,'South East',Cotton,432.38,19.94,4.176,2,97.13,1.55,79.56,98.45,Tanpa Adaptasi
+9891,2024,USA,South,Cotton,914.81,26.52,1.611,2,13.22,11.16,34.47,60.91,Manajemen Air
+9892,2010,China,East,Vegetables,1742.58,27.15,3.168,5,79.29,49.89,79.9,31.21,Manajemen Air
+9893,2002,Canada,Ontario,Wheat,891.2,1.71,1.35,9,20.12,44.87,44.26,90.35,Tanaman Tahan Kekeringan
+9894,2011,USA,South,Soybeans,1553.09,25.69,2.178,2,24.28,29.75,70.26,50.39,Pertanian Organik
+9895,1993,Russia,Northwestern,Corn,2967.46,17.17,0.963,0,96.32,27.79,12.1,67.22,Manajemen Air
+9896,2019,Brazil,South,Cotton,2256.65,17.89,3.087,4,76.98,43.71,79.93,40.17,Tanpa Adaptasi
+9897,2017,Australia,'New South Wales',Wheat,1388.72,17.24,0.774,7,63.2,9.5,79.19,34.28,Tanaman Tahan Kekeringan
+9898,2005,India,Punjab,Wheat,2935.13,19.72,3.177,7,94.43,15.05,0.65,94.69,Tanpa Adaptasi
+9899,2022,Argentina,Northwest,Wheat,900.09,29.04,0.738,8,44.23,23.9,68.51,47.01,Tanpa Adaptasi
+9900,1998,Argentina,Pampas,Wheat,1454.17,8.44,1.02,9,84.52,22.67,11.73,46.22,Tanpa Adaptasi
+9901,2011,Nigeria,'South West',Wheat,2454.67,15.41,1.161,3,55.19,34.83,13.19,45.72,Tanaman Tahan Kekeringan
+9902,2023,Argentina,Patagonia,Cotton,697.85,23.94,1.197,6,90.07,15.59,23.5,41.12,Tanpa Adaptasi
+9903,1992,Brazil,Northeast,Cotton,946.17,29.9,1.134,10,99.95,14.09,63.98,49.72,Rotasi Tanaman
+9904,2021,France,Nouvelle-Aquitaine,Coffee,775.14,28.16,0.72,0,18.26,43.01,14.67,89.58,Pertanian Organik
+9905,1995,Russia,Siberian,Fruits,1118.68,4.42,0.64,1,30.8,13.23,50.34,88.56,Tanaman Tahan Kekeringan
+9906,2003,Canada,Quebec,Fruits,722.96,8.72,1.15,3,32.31,30.92,28.44,56.16,Pertanian Organik
+9907,2001,Canada,Ontario,Wheat,1959.73,28.47,4.239,2,32.01,43.79,3.81,52.54,Pertanian Organik
+9908,1998,China,North,Vegetables,1306.52,6.94,2.33,5,93.99,43.66,7.48,88.48,Pertanian Organik
+9909,2015,Australia,'Western Australia',Cotton,910.86,6.34,1.72,8,37.74,47.42,20.56,61.34,Manajemen Air
+9910,1991,India,Punjab,Rice,2603.85,14.16,3.11,1,89.75,15.39,91.94,84.37,Pertanian Organik
+9911,1994,Australia,Victoria,Vegetables,1764.54,9.14,1.02,6,66.7,31.01,34.93,95.53,Manajemen Air
+9912,1997,Australia,Victoria,Fruits,422.2,15.48,2.151,4,79.64,20.1,73.14,38.93,Tanaman Tahan Kekeringan
+9913,2010,Russia,Volga,Corn,1364.81,22.25,1.017,5,97.23,19.87,87.72,61.99,Tanpa Adaptasi
+9914,2019,USA,South,Cotton,631.53,29.1,3.186,3,37.24,43.25,73.01,51.4,Tanpa Adaptasi
+9915,2009,Canada,Quebec,Cotton,2969.35,5.29,0.77,1,58.43,43.52,77.99,78.93,Tanaman Tahan Kekeringan
+9916,2015,USA,West,Wheat,1948.98,2.57,2.22,10,26.73,12.9,4.31,38.69,Tanaman Tahan Kekeringan
+9917,2001,India,Punjab,Corn,1821.32,15.54,2.817,6,96.24,44.19,27.36,70.72,Pertanian Organik
+9918,1995,India,'West Bengal',Coffee,1353.96,14.63,0.83,8,56.82,11.74,68.38,32.56,Rotasi Tanaman
+9919,1994,China,East,Soybeans,949.33,9.67,2.21,1,65.6,13.01,5.6,90.4,Rotasi Tanaman
+9920,1991,USA,South,Coffee,2298.39,8.91,1.7,0,85.89,0.95,14.59,65.69,Pertanian Organik
+9921,1992,Brazil,Southeast,Fruits,2493.84,12.36,1.5,1,83.71,28.69,17.68,99.01,Tanaman Tahan Kekeringan
+9922,2004,Argentina,Patagonia,Sugarcane,371.9,9.64,2.394,10,95.57,46.31,9.96,71.79,Manajemen Air
+9923,2010,Australia,Queensland,Vegetables,1663.59,16.9,1.935,10,83.18,22.05,59.82,60.13,Rotasi Tanaman
+9924,1996,Argentina,Pampas,Cotton,757.61,20.87,0.99,8,81.52,26.06,10.43,85.14,Pertanian Organik
+9925,2008,Australia,'Western Australia',Coffee,2007.54,0.66,2.83,10,58.21,13.39,13.66,78.48,Rotasi Tanaman
+9926,1993,Australia,'New South Wales',Rice,1245.53,11.71,2.56,7,69.09,11.62,75.51,35.62,Manajemen Air
+9927,1998,Russia,Volga,Cotton,2460.27,24.17,2.061,1,40.05,18.21,6.04,89.63,Manajemen Air
+9928,2007,Argentina,Pampas,Soybeans,2163.53,11.83,3.34,10,84.18,13.33,98.41,80.96,Tanpa Adaptasi
+9929,2011,Nigeria,'North Central',Barley,978.88,24.97,3.789,5,85.08,13.12,30.75,50.86,Tanaman Tahan Kekeringan
+9930,1992,Nigeria,'South West',Cotton,2225.58,23.85,0.81,6,42.57,33.12,14.92,64.38,Manajemen Air
+9931,2004,Argentina,Northwest,Cotton,1509.17,4.15,2.18,0,18.07,46.45,96.29,71.23,Pertanian Organik
+9932,2005,Argentina,Northwest,Rice,2139.11,14.56,1.9,6,69.47,8.21,78.73,30.51,Tanaman Tahan Kekeringan
+9933,2022,Russia,Central,Wheat,1261.62,6.68,4.87,6,53.17,37.58,48.45,85.18,Manajemen Air
+9934,1999,France,'Grand Est',Soybeans,2250.22,17.12,2.916,10,75.52,38.12,4.51,54.82,Rotasi Tanaman
+9935,2022,India,Punjab,Fruits,2859.89,25.92,2.52,4,43.99,44.84,6.19,65.24,Tanpa Adaptasi
+9936,2012,France,'Provence-Alpes-Cote d’Azur',Coffee,2478.05,21.49,1.512,10,87.28,5.4,76.24,38.28,Tanpa Adaptasi
+9937,2020,China,Central,Rice,2710.4,2.86,1.53,0,15.37,29.39,16.8,81.29,Manajemen Air
+9938,1999,Russia,Northwestern,Vegetables,237.72,16.01,0.981,5,32.34,42.19,83.52,47.08,Rotasi Tanaman
+9939,2011,Australia,'New South Wales',Soybeans,761.2,6.91,4.99,3,15.52,30.53,39.73,50.38,Tanpa Adaptasi
+9940,2019,Argentina,Patagonia,Soybeans,953.88,5.02,2.19,8,31.44,25.59,51.82,40.52,Tanpa Adaptasi
+9941,2016,Argentina,Patagonia,Soybeans,1862.46,28.2,2.655,10,79.84,28.62,9.82,96,Manajemen Air
+9942,2020,Russia,Central,Soybeans,2194.78,28.3,4.023,3,33.83,47.2,47.79,75.04,Tanpa Adaptasi
+9943,2005,Canada,Quebec,Coffee,1117.54,19.68,0.864,8,92.01,15.04,40.79,77.75,Pertanian Organik
+9944,1997,USA,Northeast,Rice,1441.18,18.85,2.403,1,66.7,41.55,47.97,37.07,Pertanian Organik
+9945,2012,France,'Provence-Alpes-Cote d’Azur',Corn,867.68,18.56,4.122,0,64.07,14.68,35.79,77.89,Tanaman Tahan Kekeringan
+9946,1996,France,Nouvelle-Aquitaine,Cotton,2712.99,25.03,2.052,2,22.64,39.19,41.76,63.27,Manajemen Air
+9947,1999,Russia,Northwestern,Soybeans,2600.09,22.57,2.637,0,86.85,25.09,77.27,44.36,Tanaman Tahan Kekeringan
+9948,2004,Russia,Siberian,Rice,1307.87,7.18,2.66,3,64.38,40.73,59.52,97.21,Rotasi Tanaman
+9949,1998,Argentina,Northeast,Rice,462.6,25.97,2.007,8,12.66,44.35,76.82,85,Tanpa Adaptasi
+9950,2004,Canada,Ontario,Fruits,1793.55,13.61,2.04,2,54.24,34.08,44.53,66.43,Tanpa Adaptasi
+9951,2010,Australia,Queensland,Fruits,889.51,16.32,2.043,1,22.3,38.07,54.52,61.1,Tanaman Tahan Kekeringan
+9952,2015,India,'West Bengal',Soybeans,1487.83,11.01,3.79,0,24.77,49.39,6.18,73.88,Tanpa Adaptasi
+9953,2024,Russia,Central,Barley,2135.98,17.67,2.493,2,30.74,16.75,16.74,43.2,Rotasi Tanaman
+9954,2000,India,Maharashtra,Coffee,1745.21,15.2,1.701,9,31.45,40.27,41.61,97.99,Rotasi Tanaman
+9955,2013,Argentina,Northeast,Vegetables,2487.65,4.58,1.67,8,19.29,44.82,20.2,96.26,Pertanian Organik
+9956,2000,Canada,Quebec,Wheat,1693.28,19.32,0.846,10,64.38,11.52,20.62,37.81,Rotasi Tanaman
+9957,1999,China,North,Cotton,241.64,12.27,1.629,10,68.86,10.06,68.13,96.97,Pertanian Organik
+9958,2024,Canada,Ontario,Wheat,2198.05,13.84,1.36,1,69.35,24.1,41.36,64.21,Pertanian Organik
+9959,1992,USA,Midwest,Soybeans,2093.96,10.45,2.89,9,75.95,46.15,28.68,40.91,Pertanian Organik
+9960,2009,India,'West Bengal',Soybeans,2822.76,23.07,2.619,6,55.65,43.7,9.74,93.93,Pertanian Organik
+9961,1997,USA,Midwest,Corn,2882.47,8.77,1.38,5,53.66,19.6,37.16,34.46,Tanpa Adaptasi
+9962,1994,Argentina,Northeast,Vegetables,2575.52,12.36,2.1,1,70.27,27.09,84.21,55.29,Tanpa Adaptasi
+9963,1998,India,'West Bengal',Wheat,2640.57,5.99,3.76,9,43.8,48.98,53.27,76.36,Rotasi Tanaman
+9964,2017,China,East,Corn,1542.17,7.89,1.9,6,22.9,13.92,67.06,95.71,Pertanian Organik
+9965,1997,China,North,Vegetables,238.32,29.14,0.603,9,33.66,40.54,20.24,79.72,Pertanian Organik
+9966,2000,China,North,Vegetables,2985.03,16.3,1.044,0,98.14,41.4,66.43,58.74,Pertanian Organik
+9967,1998,India,Punjab,Wheat,542.64,2.57,4.42,9,14.81,35.49,80.22,88.87,Tanpa Adaptasi
+9968,2008,USA,West,Sugarcane,647.44,19.11,1.962,7,90.84,22.39,16.24,60.03,Manajemen Air
+9969,1996,Argentina,Northeast,Soybeans,961.99,3.5,1.88,0,13.43,48.75,73.97,39.23,Rotasi Tanaman
+9970,2022,Canada,Ontario,Coffee,744.47,7.93,1.44,9,59.22,8.03,42.45,62.47,Tanaman Tahan Kekeringan
+9971,1994,France,'Grand Est',Wheat,918.95,27.68,2.934,6,26.41,48.24,58.97,31.38,Tanaman Tahan Kekeringan
+9972,2002,Australia,'New South Wales',Corn,2882.85,25.87,0.99,2,70.86,30.76,58.77,49.23,Pertanian Organik
+9973,2010,Nigeria,'South West',Sugarcane,1576.99,0.55,2.24,1,21.6,20.23,72.73,64.96,Tanpa Adaptasi
+9974,2009,Canada,Prairies,Wheat,1580.29,20.4,1.755,1,86.99,14.26,33.58,40.1,Pertanian Organik
+9975,2008,Nigeria,'North West',Cotton,2212.72,19.18,4.23,1,51.64,23.5,39.38,90.39,Tanpa Adaptasi
+9976,1996,Argentina,Northwest,Sugarcane,1230.76,19.54,2.421,5,58.28,30.54,70.51,86.13,Tanaman Tahan Kekeringan
+9977,2017,Russia,Northwestern,Sugarcane,1098.04,22.19,3.528,3,31.33,7.69,75.82,61.46,Tanpa Adaptasi
+9978,2008,Canada,Quebec,Corn,2841.08,22.89,1.548,8,98.56,14.06,11.4,97.33,Manajemen Air
+9979,1995,India,Punjab,Corn,389.23,0.66,0.918,4,89.31,5.59,26.68,87.04,Tanpa Adaptasi
+9980,2007,China,South,Barley,1215.59,6.73,1.86,6,81.79,19.55,46.95,79.15,Manajemen Air
+9981,2003,USA,Northeast,Sugarcane,505.97,28.82,1.611,2,40.02,40.33,1.71,98.05,Manajemen Air
+9982,2015,Argentina,Northeast,Vegetables,1016.1,3.78,0.78,6,40.44,32.52,92.04,68.57,Rotasi Tanaman
+9983,2010,Canada,'British Columbia',Cotton,821.07,28.18,2.556,0,94.34,1.16,34.2,38.82,Tanaman Tahan Kekeringan
+9984,2008,India,Punjab,Vegetables,2280.09,15.54,1.917,10,89.15,34.4,53.07,85.37,Tanpa Adaptasi
+9985,2019,USA,Northeast,Fruits,702.61,26.81,0.459,3,77.93,43.42,61.7,58.19,Tanaman Tahan Kekeringan
+9986,1995,Russia,Volga,Barley,1227.84,21.93,2.295,5,17.57,24.16,85.56,68.44,Pertanian Organik
+9987,2006,France,'Provence-Alpes-Cote d’Azur',Wheat,477.04,12.87,1.746,8,58.18,6.47,35.27,52.78,Rotasi Tanaman
+9988,2019,China,North,Barley,2630.1,26.48,3.528,8,41.22,9.67,51.7,92.89,Pertanian Organik
+9989,2009,France,Ile-de-France,Cotton,964.23,12.63,2.02,1,91.28,13.32,76.08,56.29,Tanpa Adaptasi
+9990,2009,Nigeria,'South East',Sugarcane,2945.45,26.22,1.521,5,97.9,9.83,32.51,66.14,Tanpa Adaptasi
+9991,2015,Argentina,Patagonia,Fruits,2409,17.96,2.259,7,77.59,14.44,23.01,75.41,Tanpa Adaptasi
+9992,2004,Australia,'Western Australia',Fruits,891.87,22.99,2.493,9,43.06,4.62,82.66,36.31,Rotasi Tanaman
+9993,2006,USA,West,Coffee,1190.75,5.66,2.89,1,35.28,24.17,92.79,56.02,Pertanian Organik
+9994,1996,Brazil,Southeast,Barley,346.67,14.51,1.656,1,23.17,45.37,46.01,63.67,Pertanian Organik
+9995,1993,Nigeria,'North West',Cotton,2987.93,12.82,2.04,3,54.54,2.18,75.93,61.03,Manajemen Air
+9996,2000,Brazil,North,Corn,878.8,2.82,1.92,8,91.63,7.15,50.57,61.61,Pertanian Organik
+9997,2023,China,East,Fruits,1858.37,29.98,1.926,2,72.31,46.2,22.35,52.12,Tanaman Tahan Kekeringan
+9998,1999,Nigeria,'North West',Soybeans,2307.96,0.99,0.96,4,36.41,21.31,9.13,47.08,Rotasi Tanaman
+9999,2013,France,Ile-de-France,Fruits,2717.31,12.61,3.74,0,89.02,15.02,81.52,75.28,Rotasi Tanaman
