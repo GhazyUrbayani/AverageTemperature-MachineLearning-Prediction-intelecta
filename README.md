@@ -24,6 +24,8 @@ Di tengah ketidakpastian iklim yang mengancam ketahanan pangan global, tantangan
 
 **Misi utama** adalah merancang dan membangun model *machine learning* yang dapat memprediksi variabel kunci iklim: **Suhu Rata-Rata Tahunan (`Suhu_Rata_Rata_C`)** dengan akurasi setinggi mungkin.
 
+Link Kaggle Kompetisi: https://www.kaggle.com/competitions/intelecta-cup-data-mining-competition
+
 ---
 
 ### 📂 Struktur Direktori
@@ -36,7 +38,7 @@ Berikut adalah struktur folderisasi yang digunakan dalam proyek ini:
 - │ └── sample_submission.csv
 - ├── Si data tuh_DataMining_Code_Qualifying.ipynb # Notebook Solusi Tahap Penyisihan
 - ├── Si data tuh_DataMining_Report_Qualifying.docx # Laporan Analisis
-- ├── submission_qualifying.csv # Hasil Prediksi
+- ├── submission_qualifying.csv # Hasil Prediksi the Best: Private Score (84.259) & Public Score (84.576)
 - └── README.md
 
 Notebook `Si data tuh_DataMining_Code_Qualifying.ipynb` berisi alur kerja lengkap, mulai dari EDA, *feature engineering*, hingga *modeling* yang menghasilkan submission tahap penyisihan.
